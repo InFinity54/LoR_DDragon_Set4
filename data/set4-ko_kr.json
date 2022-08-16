@@ -4,8 +4,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH070.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH070-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH070.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH070-full.png"
       }
     ],
     "region": "슈리마",
@@ -43,8 +43,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH081.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH081-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH081.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH081-full.png"
       }
     ],
     "region": "슈리마",
@@ -78,8 +78,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH059T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH059T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH059T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH059T2-full.png"
       }
     ],
     "region": "슈리마",
@@ -87,7 +87,7 @@
     "attack": 0,
     "cost": 4,
     "health": 0,
-    "description": "내 마나 보석 하나를 파괴한 후<br>적의 모든 <link=keyword.Fast><sprite name=Fast><style=Keyword>신속</style></link> 주문,<br><link=keyword.Slow><sprite name=Slow><style=Keyword>집중</style></link> 주문, 스킬을 중지시킵니다.",
+    "description": "내 마나 보석 하나를 파괴한 후<br>적의 모든 <link=keyword.Fast><sprite name=Fast><style=Keyword>신속</style></link> 주문,<br><link=keyword.Slow><sprite name=Slow><style=Keyword>집중</style></link> 주문, <link=keyword.Skill><sprite name=PlaySkillMark><style=Keyword>스킬</style></link>을 중지시킵니다.",
     "descriptionRaw": "내 마나 보석 하나를 파괴한 후적의 모든 신속 주문,집중 주문, 스킬을 중지시킵니다.",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
@@ -117,8 +117,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH059T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH059T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH059T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH059T1-full.png"
       }
     ],
     "region": "슈리마",
@@ -126,7 +126,7 @@
     "attack": 0,
     "cost": 4,
     "health": 0,
-    "description": "아군 하나를 처치한 후 적의 모든 <link=keyword.Fast><sprite name=Fast><style=Keyword>신속</style></link> 주문, <link=keyword.Slow><sprite name=Slow><style=Keyword>집중</style></link> 주문, 스킬을 중지시킵니다.",
+    "description": "아군 하나를 처치한 후 적의 모든 <link=keyword.Fast><sprite name=Fast><style=Keyword>신속</style></link> 주문, <link=keyword.Slow><sprite name=Slow><style=Keyword>집중</style></link> 주문, <link=keyword.Skill><sprite name=PlaySkillMark><style=Keyword>스킬</style></link>을 중지시킵니다.",
     "descriptionRaw": "아군 하나를 처치한 후 적의 모든 신속 주문, 집중 주문, 스킬을 중지시킵니다.",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
@@ -156,8 +156,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH077.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH077-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH077.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH077-full.png"
       }
     ],
     "region": "슈리마",
@@ -165,8 +165,8 @@
     "attack": 3,
     "cost": 4,
     "health": 4,
-    "description": "챔피언을 레벨 업했으면 아군들에게 +2|+0을 부여합니다.",
-    "descriptionRaw": "챔피언을 레벨 업했으면 아군들에게 +2|+0을 부여합니다.",
+    "description": "챔피언을 레벨 업시켰으면 아군이 +2|+0을 얻습니다.",
+    "descriptionRaw": "챔피언을 레벨 업시켰으면 아군이 +2|+0을 얻습니다.",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "''오래전 그 여자의 목소리를 들은 적 있지.''<br>노병이 웃으며 말하는 순간, 손녀는 머릿속으로 상상했습니다.<br>황금빛으로 빛나는 슈리마와 아지르 황제의 등장을 알리는<br>일어선 자의 전령까지 말이죠.<br>''그때 우리 속에 잠들어 있던 열정이 다시 깨어났단다.''",
@@ -194,8 +194,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH089.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH089-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH089.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH089-full.png"
       }
     ],
     "region": "슈리마",
@@ -232,8 +232,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH089T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH089T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH089T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH089T1-full.png"
       }
     ],
     "region": "슈리마",
@@ -271,8 +271,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH015.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH015-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH015.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH015-full.png"
       }
     ],
     "region": "슈리마",
@@ -312,8 +312,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH058.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH058-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH058.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH058-full.png"
       }
     ],
     "region": "슈리마",
@@ -349,8 +349,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH035.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH035-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH035.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH035-full.png"
       }
     ],
     "region": "슈리마",
@@ -390,8 +390,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH028.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH028-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH028.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH028-full.png"
       }
     ],
     "region": "슈리마",
@@ -429,8 +429,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH002.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH002-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH002.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH002-full.png"
       }
     ],
     "region": "슈리마",
@@ -470,8 +470,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH042.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH042-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH042.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH042-full.png"
       }
     ],
     "region": "슈리마",
@@ -509,8 +509,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH032.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH032-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH032.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH032-full.png"
       }
     ],
     "region": "슈리마",
@@ -544,8 +544,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH055.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH055-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH055.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH055-full.png"
       }
     ],
     "region": "슈리마",
@@ -589,8 +589,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH073.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH073-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH073.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH073-full.png"
       }
     ],
     "region": "슈리마",
@@ -628,8 +628,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH073T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH073T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH073T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH073T2-full.png"
       }
     ],
     "region": "슈리마",
@@ -637,8 +637,8 @@
     "attack": 3,
     "cost": 5,
     "health": 5,
-    "description": "<link=vocab.Play><style=Vocab>사용</style></link>: 아군 명소와 똑같은 복사본을 소환합니다. \r\n<link=keyword.AttackSkillMark><sprite name=AttackSkillMark><style=Keyword>공격</style></link>: 이 유닛을 방어하는 유닛에게 피해를 2 입힙니다. 방어 유닛이 사망하거나 사라지면 대신 적 넥서스에 피해를<br>2 입힙니다. 아군 명소가 있으면<br>2번 더 반복합니다.",
-    "descriptionRaw": "사용: 아군 명소와 똑같은 복사본을 소환합니다. \r\n공격: 이 유닛을 방어하는 유닛에게 피해를 2 입힙니다. 방어 유닛이 사망하거나 사라지면 대신 적 넥서스에 피해를2 입힙니다. 아군 명소가 있으면2번 더 반복합니다.",
+    "description": "<link=vocab.Play><style=Vocab>사용</style></link>: 아군 명소와 똑같은 복사본을 소환합니다. \r\n<link=keyword.AttackSkillMark><sprite name=AttackSkillMark><style=Keyword>공격</style></link>: 이 유닛을 방어하는 유닛에게 피해를 2 입힙니다. 방어 유닛이 사망하거나 사라지면 대신 적 넥서스에 피해를 2 입힙니다. 아군 명소가 있으면<br>2번 더 반복합니다.",
+    "descriptionRaw": "사용: 아군 명소와 똑같은 복사본을 소환합니다. \r\n공격: 이 유닛을 방어하는 유닛에게 피해를 2 입힙니다. 방어 유닛이 사망하거나 사라지면 대신 적 넥서스에 피해를 2 입힙니다. 아군 명소가 있으면2번 더 반복합니다.",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "고향에서 들려온 믿기 힘든 소식에<br>탈리야는 아이오니아를 떠나 슈리마로 돌아갔습니다.<br>그리고 부활한 황제와 근심이 가득한 동포들<br>어느 때보다 활발하게 활동하는 제르사이와 마주했죠.<br>때문에 어린 나이에도 불구하고<br>탈리야는 행동할 수밖에 없었습니다.",
@@ -665,8 +665,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH073T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH073T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH073T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH073T1-full.png"
       }
     ],
     "region": "슈리마",
@@ -707,8 +707,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH073T3.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH073T3-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH073T3.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH073T3-full.png"
       }
     ],
     "region": "슈리마",
@@ -746,8 +746,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH091.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH091-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH091.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH091-full.png"
       }
     ],
     "region": "슈리마",
@@ -783,8 +783,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH024.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH024-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH024.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH024-full.png"
       }
     ],
     "region": "슈리마",
@@ -829,8 +829,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH003.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH003-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH003.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH003-full.png"
       }
     ],
     "region": "슈리마",
@@ -872,8 +872,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH003T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH003T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH003T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH003T2-full.png"
       }
     ],
     "region": "슈리마",
@@ -916,8 +916,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH003T3.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH003T3-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH003T3.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH003T3-full.png"
       }
     ],
     "region": "슈리마",
@@ -953,8 +953,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH003T14.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH003T14-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH003T14.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH003T14-full.png"
       }
     ],
     "region": "슈리마",
@@ -994,8 +994,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH003T5.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH003T5-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH003T5.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH003T5-full.png"
       }
     ],
     "region": "슈리마",
@@ -1034,8 +1034,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH003T4.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH003T4-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH003T4.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH003T4-full.png"
       }
     ],
     "region": "슈리마",
@@ -1073,8 +1073,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH003T10.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH003T10-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH003T10.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH003T10-full.png"
       }
     ],
     "region": "슈리마",
@@ -1112,8 +1112,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH003T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH003T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH003T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH003T1-full.png"
       }
     ],
     "region": "슈리마",
@@ -1151,8 +1151,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH003T8.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH003T8-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH003T8.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH003T8-full.png"
       }
     ],
     "region": "슈리마",
@@ -1190,8 +1190,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH003T6.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH003T6-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH003T6.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH003T6-full.png"
       }
     ],
     "region": "슈리마",
@@ -1229,8 +1229,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH003T12.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH003T12-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH003T12.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH003T12-full.png"
       }
     ],
     "region": "슈리마",
@@ -1268,8 +1268,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH003T11.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH003T11-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH003T11.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH003T11-full.png"
       }
     ],
     "region": "슈리마",
@@ -1307,8 +1307,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH003T7.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH003T7-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH003T7.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH003T7-full.png"
       }
     ],
     "region": "슈리마",
@@ -1349,8 +1349,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH003T13.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH003T13-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH003T13.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH003T13-full.png"
       }
     ],
     "region": "슈리마",
@@ -1388,8 +1388,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH003T9.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH003T9-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH003T9.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH003T9-full.png"
       }
     ],
     "region": "슈리마",
@@ -1427,8 +1427,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH011.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH011-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH011.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH011-full.png"
       }
     ],
     "region": "슈리마",
@@ -1464,8 +1464,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH114.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH114-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH114.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH114-full.png"
       }
     ],
     "region": "슈리마",
@@ -1509,8 +1509,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH067.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH067-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH067.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH067-full.png"
       }
     ],
     "region": "슈리마",
@@ -1555,8 +1555,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH067T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH067T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH067T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH067T1-full.png"
       }
     ],
     "region": "슈리마",
@@ -1602,8 +1602,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH067T4.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH067T4-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH067T4.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH067T4-full.png"
       }
     ],
     "region": "슈리마",
@@ -1648,8 +1648,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH067T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH067T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH067T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH067T2-full.png"
       }
     ],
     "region": "슈리마",
@@ -1657,8 +1657,8 @@
     "attack": 0,
     "cost": 2,
     "health": 0,
-    "description": "이 라운드에 아군 하나에게 +2|+0,<br>적 하나에게 <link=keyword.Vulnerable><sprite name=Vulnerable><style=Keyword>약점 노출</style></link> 효과를<br>일시 부여합니다.\r\n내 덱에 <link=card.level1><style=AssociatedCard>레넥톤</style></link> 하나를 생성합니다.",
-    "descriptionRaw": "이 라운드에 아군 하나에게 +2|+0,적 하나에게 약점 노출 효과를일시 부여합니다.\r\n내 덱에 레넥톤 하나를 생성합니다.",
+    "description": "이 라운드에 아군 하나에게 +2|+0을<br>일시 부여한 후 적 하나에게<br><link=keyword.Vulnerable><sprite name=Vulnerable><style=Keyword>약점 노출</style></link> 효과를 일시 부여합니다.\r\n내 덱에 <link=card.level1><style=AssociatedCard>레넥톤</style></link> 하나를 생성합니다.",
+    "descriptionRaw": "이 라운드에 아군 하나에게 +2|+0을일시 부여한 후 적 하나에게약점 노출 효과를 일시 부여합니다.\r\n내 덱에 레넥톤 하나를 생성합니다.",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "''적들을 베어 버려라!''\n- 레넥톤",
@@ -1687,8 +1687,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH067T5.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH067T5-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH067T5.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH067T5-full.png"
       }
     ],
     "region": "슈리마",
@@ -1726,8 +1726,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH119.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH119-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH119.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH119-full.png"
       }
     ],
     "region": "슈리마",
@@ -1765,8 +1765,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH093.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH093-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH093.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH093-full.png"
       }
     ],
     "region": "슈리마",
@@ -1806,8 +1806,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH038.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH038-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH038.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH038-full.png"
       }
     ],
     "region": "슈리마",
@@ -1843,8 +1843,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH099.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH099-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH099.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH099-full.png"
       }
     ],
     "region": "슈리마",
@@ -1884,8 +1884,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH048.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH048-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH048.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH048-full.png"
       }
     ],
     "region": "슈리마",
@@ -1923,8 +1923,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH098T3.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH098T3-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH098T3.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH098T3-full.png"
       }
     ],
     "region": "슈리마",
@@ -1962,8 +1962,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH098T12.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH098T12-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH098T12.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH098T12-full.png"
       }
     ],
     "region": "슈리마",
@@ -2001,8 +2001,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH098T7.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH098T7-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH098T7.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH098T7-full.png"
       }
     ],
     "region": "슈리마",
@@ -2040,8 +2040,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH098T6.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH098T6-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH098T6.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH098T6-full.png"
       }
     ],
     "region": "슈리마",
@@ -2079,8 +2079,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH098T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH098T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH098T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH098T2-full.png"
       }
     ],
     "region": "슈리마",
@@ -2118,8 +2118,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH098T10.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH098T10-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH098T10.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH098T10-full.png"
       }
     ],
     "region": "슈리마",
@@ -2157,8 +2157,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH098T5.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH098T5-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH098T5.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH098T5-full.png"
       }
     ],
     "region": "슈리마",
@@ -2196,8 +2196,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH098T8.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH098T8-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH098T8.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH098T8-full.png"
       }
     ],
     "region": "슈리마",
@@ -2235,8 +2235,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH098T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH098T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH098T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH098T1-full.png"
       }
     ],
     "region": "슈리마",
@@ -2274,8 +2274,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH098.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH098-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH098.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH098-full.png"
       }
     ],
     "region": "슈리마",
@@ -2318,8 +2318,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH020.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH020-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH020.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH020-full.png"
       }
     ],
     "region": "슈리마",
@@ -2359,8 +2359,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH057.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH057-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH057.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH057-full.png"
       }
     ],
     "region": "슈리마",
@@ -2394,8 +2394,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH006.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH006-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH006.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH006-full.png"
       }
     ],
     "region": "슈리마",
@@ -2433,8 +2433,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH076T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH076T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH076T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH076T1-full.png"
       }
     ],
     "region": "슈리마",
@@ -2472,8 +2472,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH082.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH082-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH082.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH082-full.png"
       }
     ],
     "region": "슈리마",
@@ -2513,8 +2513,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH075.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH075-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH075.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH075-full.png"
       }
     ],
     "region": "슈리마",
@@ -2552,8 +2552,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH018.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH018-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH018.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH018-full.png"
       }
     ],
     "region": "슈리마",
@@ -2593,8 +2593,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH009.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH009-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH009.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH009-full.png"
       }
     ],
     "region": "슈리마",
@@ -2634,8 +2634,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH049.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH049-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH049.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH049-full.png"
       }
     ],
     "region": "슈리마",
@@ -2643,8 +2643,8 @@
     "attack": 1,
     "cost": 1,
     "health": 1,
-    "description": "<link=vocab.RoundStart><style=Vocab>라운드 시작</style></link>: 챔피언을 레벨 업했으면 <link=card.transform><style=AssociatedCard>고귀한 포로</style></link> 카드로 변신합니다.",
-    "descriptionRaw": "라운드 시작: 챔피언을 레벨 업했으면 고귀한 포로 카드로 변신합니다.",
+    "description": "<link=vocab.RoundStart><style=Vocab>라운드 시작</style></link>: 챔피언을 레벨 업시켰으면 이 유닛이 <link=card.transform><style=AssociatedCard>고귀한 포로</style></link> 카드로 변신합니다.",
+    "descriptionRaw": "라운드 시작: 챔피언을 레벨 업시켰으면 이 유닛이 고귀한 포로 카드로 변신합니다.",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "포로는 자기가 찾은 물건이 정확히 무엇인지 몰랐습니다.<br>그저 반짝이는 간식으로 생각했죠.",
@@ -2671,8 +2671,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH049T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH049T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH049T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH049T1-full.png"
       }
     ],
     "region": "슈리마",
@@ -2708,8 +2708,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH045.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH045-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH045.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH045-full.png"
       }
     ],
     "region": "슈리마",
@@ -2749,8 +2749,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH037.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH037-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH037.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH037-full.png"
       }
     ],
     "region": "슈리마",
@@ -2788,8 +2788,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH107.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH107-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH107.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH107-full.png"
       }
     ],
     "region": "슈리마",
@@ -2832,8 +2832,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH047.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH047-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH047.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH047-full.png"
       }
     ],
     "region": "슈리마",
@@ -2875,8 +2875,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH097.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH097-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH097.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH097-full.png"
       }
     ],
     "region": "슈리마",
@@ -2889,7 +2889,7 @@
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "이 바카이는 지성소에 보관된 고대의 보물을<br>지키는 임무를 맡았습니다.<br>관리자의 심판을 피할 수 있다고 착각하는<br>오만한 인간들 때문이죠.",
-    "artistName": "Kudos Production",
+    "artistName": "Kudos Productions",
     "name": "성소 관리자",
     "cardCode": "04SH097",
     "keywords": [
@@ -2916,8 +2916,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH026.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH026-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH026.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH026-full.png"
       }
     ],
     "region": "슈리마",
@@ -2929,7 +2929,7 @@
     "descriptionRaw": "소환 시 모래 병사 하나를 소환합니다.",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
-    "flavorText": "\"나와 모래는 황제의 명을 따른다.''\n-------\n''난 아지르 님께서 돌아오셨다는 소식을<br>슈리마의 사막을 넘어 온 세상에 알렸다.''",
+    "flavorText": "\"나와 모래는 황제의 명을 따른다.''",
     "artistName": "Kudos Productions",
     "name": "모래 언덕 파수꾼",
     "cardCode": "04SH026",
@@ -2951,8 +2951,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH102.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH102-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH102.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH102-full.png"
       }
     ],
     "region": "슈리마",
@@ -2986,8 +2986,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH001.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH001-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH001.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH001-full.png"
       }
     ],
     "region": "슈리마",
@@ -3023,8 +3023,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH009T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH009T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH009T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH009T1-full.png"
       }
     ],
     "region": "슈리마",
@@ -3062,8 +3062,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH013.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH013-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH013.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH013-full.png"
       }
     ],
     "region": "슈리마",
@@ -3101,8 +3101,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH062.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH062-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH062.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH062-full.png"
       }
     ],
     "region": "슈리마",
@@ -3140,8 +3140,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH016.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH016-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH016.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH016-full.png"
       }
     ],
     "region": "슈리마",
@@ -3179,8 +3179,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH108.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH108-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH108.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH108-full.png"
       }
     ],
     "region": "슈리마",
@@ -3218,8 +3218,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH014.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH014-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH014.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH014-full.png"
       }
     ],
     "region": "슈리마",
@@ -3258,8 +3258,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH047T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH047T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH047T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH047T1-full.png"
       }
     ],
     "region": "슈리마",
@@ -3301,8 +3301,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH047T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH047T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH047T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH047T2-full.png"
       }
     ],
     "region": "슈리마",
@@ -3349,8 +3349,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH047T3.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH047T3-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH047T3.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH047T3-full.png"
       }
     ],
     "region": "슈리마",
@@ -3392,8 +3392,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH021.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH021-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH021.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH021-full.png"
       }
     ],
     "region": "슈리마",
@@ -3431,8 +3431,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH101.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH101-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH101.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH101-full.png"
       }
     ],
     "region": "슈리마",
@@ -3440,8 +3440,8 @@
     "attack": 1,
     "cost": 3,
     "health": 6,
-    "description": "<link=vocab.RoundStart><style=Vocab>라운드 시작</style></link>: 챔피언을 레벨 업했으면<br>모든 챔피언과 넥서스의 체력을<br>2 회복합니다.",
-    "descriptionRaw": "라운드 시작: 챔피언을 레벨 업했으면모든 챔피언과 넥서스의 체력을2 회복합니다.",
+    "description": "<link=vocab.RoundStart><style=Vocab>라운드 시작</style></link>: 챔피언을 레벨 업시켰으면<br>내 모든 챔피언과 넥서스의 체력을<br>2 회복합니다.",
+    "descriptionRaw": "라운드 시작: 챔피언을 레벨 업시켰으면내 모든 챔피언과 넥서스의 체력을2 회복합니다.",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "''나는 아지르 황제와 고향 슈리마에 충성을 맹세했습니다. 여러분은 어떻습니까?''",
@@ -3468,8 +3468,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH012.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH012-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH012.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH012-full.png"
       }
     ],
     "region": "슈리마",
@@ -3506,8 +3506,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH020T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH020T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH020T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH020T2-full.png"
       }
     ],
     "region": "슈리마",
@@ -3548,8 +3548,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH020T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH020T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH020T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH020T1-full.png"
       }
     ],
     "region": "슈리마",
@@ -3589,8 +3589,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH031.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH031-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH031.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH031-full.png"
       }
     ],
     "region": "슈리마",
@@ -3628,8 +3628,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH004.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH004-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH004.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH004-full.png"
       }
     ],
     "region": "슈리마",
@@ -3667,8 +3667,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH059.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH059-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH059.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH059-full.png"
       }
     ],
     "region": "슈리마",
@@ -3708,8 +3708,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH076.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH076-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH076.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH076-full.png"
       }
     ],
     "region": "슈리마",
@@ -3749,8 +3749,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH118.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH118-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH118.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH118-full.png"
       }
     ],
     "region": "슈리마",
@@ -3788,8 +3788,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH041.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH041-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH041.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH041-full.png"
       }
     ],
     "region": "슈리마",
@@ -3823,8 +3823,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH005.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH005-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH005.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH005-full.png"
       }
     ],
     "region": "슈리마",
@@ -3858,8 +3858,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH046.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH046-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH046.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH046-full.png"
       }
     ],
     "region": "슈리마",
@@ -3872,7 +3872,7 @@
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "슈리마인들은 아지르의 재림과 함께<br>고대 괴수의 부활을 목도했습니다.<br>모래로 만들어진 전설 속의 그 존재는<br>당당한 위용을 뽐냈죠.",
-    "artistName": "Kudos Production",
+    "artistName": "Kudos Productions",
     "name": "모래바위 키메라",
     "cardCode": "04SH046",
     "keywords": [],
@@ -3893,8 +3893,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH062T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH062T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH062T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH062T1-full.png"
       }
     ],
     "region": "슈리마",
@@ -3928,8 +3928,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH018T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH018T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH018T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH018T2-full.png"
       }
     ],
     "region": "슈리마",
@@ -3967,8 +3967,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH018T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH018T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH018T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH018T1-full.png"
       }
     ],
     "region": "슈리마",
@@ -4008,8 +4008,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH105.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH105-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH105.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH105-full.png"
       }
     ],
     "region": "슈리마",
@@ -4047,8 +4047,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH069.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH069-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH069.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH069-full.png"
       }
     ],
     "region": "슈리마",
@@ -4056,8 +4056,8 @@
     "attack": 0,
     "cost": 2,
     "health": 0,
-    "description": "이 라운드에 아군 하나에게 +2|+0<br>적 하나에게 <link=keyword.Vulnerable><sprite name=Vulnerable><style=Keyword>약점 노출</style></link> 효과를<br>일시 부여합니다.",
-    "descriptionRaw": "이 라운드에 아군 하나에게 +2|+0적 하나에게 약점 노출 효과를일시 부여합니다.",
+    "description": "이 라운드에 아군 하나에게 +2|+0을 일시 부여한 후 적 하나에게<br><link=keyword.Vulnerable><sprite name=Vulnerable><style=Keyword>약점 노출</style></link> 효과를 일시 부여합니다.",
+    "descriptionRaw": "이 라운드에 아군 하나에게 +2|+0을 일시 부여한 후 적 하나에게약점 노출 효과를 일시 부여합니다.",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "''적들을 베어 버려라!''\n- 레넥톤",
@@ -4086,8 +4086,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH121.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH121-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH121.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH121-full.png"
       }
     ],
     "region": "슈리마",
@@ -4125,8 +4125,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH121T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH121T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH121T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH121T1-full.png"
       }
     ],
     "region": "슈리마",
@@ -4164,8 +4164,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH121T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH121T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH121T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH121T2-full.png"
       }
     ],
     "region": "슈리마",
@@ -4205,8 +4205,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH097T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH097T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH097T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH097T1-full.png"
       }
     ],
     "region": "슈리마",
@@ -4244,8 +4244,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH110.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH110-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH110.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH110-full.png"
       }
     ],
     "region": "슈리마",
@@ -4285,8 +4285,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH051.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH051-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH051.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH051-full.png"
       }
     ],
     "region": "슈리마",
@@ -4324,8 +4324,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH106.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH106-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH106.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH106-full.png"
       }
     ],
     "region": "슈리마",
@@ -4363,8 +4363,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH109.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH109-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH109.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH109-full.png"
       }
     ],
     "region": "슈리마",
@@ -4402,8 +4402,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH090.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SH090-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH090.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SH090-full.png"
       }
     ],
     "region": "슈리마",
@@ -4440,8 +4440,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04FR006.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04FR006-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04FR006.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04FR006-full.png"
       }
     ],
     "region": "프렐요드",
@@ -4475,8 +4475,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04FR016.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04FR016-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04FR016.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04FR016-full.png"
       }
     ],
     "region": "프렐요드",
@@ -4514,8 +4514,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04FR001T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04FR001T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04FR001T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04FR001T1-full.png"
       }
     ],
     "region": "프렐요드",
@@ -4553,8 +4553,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04FR013.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04FR013-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04FR013.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04FR013-full.png"
       }
     ],
     "region": "프렐요드",
@@ -4600,8 +4600,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04FR005.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04FR005-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04FR005.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04FR005-full.png"
       }
     ],
     "region": "프렐요드",
@@ -4641,8 +4641,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04FR005T4.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04FR005T4-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04FR005T4.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04FR005T4-full.png"
       }
     ],
     "region": "프렐요드",
@@ -4684,8 +4684,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04FR005T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04FR005T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04FR005T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04FR005T1-full.png"
       }
     ],
     "region": "프렐요드",
@@ -4727,8 +4727,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04FR005T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04FR005T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04FR005T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04FR005T2-full.png"
       }
     ],
     "region": "프렐요드",
@@ -4768,8 +4768,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04FR001.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04FR001-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04FR001.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04FR001-full.png"
       }
     ],
     "region": "프렐요드",
@@ -4809,8 +4809,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04FR007.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04FR007-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04FR007.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04FR007-full.png"
       }
     ],
     "region": "프렐요드",
@@ -4848,8 +4848,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04FR007T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04FR007T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04FR007T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04FR007T1-full.png"
       }
     ],
     "region": "프렐요드",
@@ -4887,8 +4887,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04FR017.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04FR017-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04FR017.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04FR017-full.png"
       }
     ],
     "region": "프렐요드",
@@ -4896,8 +4896,8 @@
     "attack": 0,
     "cost": 2,
     "health": 0,
-    "description": "내 덱의 맨 위에 있는 아군에게 +2|+2를 부여합니다.\r\n<link=keyword.Enlightened><style=Keyword>각성</style></link>: 내 덱의 모든 아군에게 +2|+2를 부여합니다.",
-    "descriptionRaw": "내 덱의 맨 위에 있는 아군에게 +2|+2를 부여합니다.\r\n각성: 내 덱의 모든 아군에게 +2|+2를 부여합니다.",
+    "description": "내 덱의 맨 위에 있는 아군에게<br>+2|+2를 부여합니다.\r\n<link=keyword.Enlightened><style=Keyword>각성</style></link>: 내 덱의 모든 아군에게<br>+2|+2를 부여합니다.",
+    "descriptionRaw": "내 덱의 맨 위에 있는 아군에게+2|+2를 부여합니다.\r\n각성: 내 덱의 모든 아군에게+2|+2를 부여합니다.",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "프렐요드의 가혹한 추위와 사나운 눈보라는<br>이 황무지에 들어온 대부분의 생명을 앗아갑니다.<br>하지만 살아남은 자들은 평생 혹독한 환경을 견디게 해 주는<br>내면의 힘을 발견하게 되죠.",
@@ -4926,8 +4926,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04FR014.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04FR014-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04FR014.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04FR014-full.png"
       }
     ],
     "region": "프렐요드",
@@ -4965,8 +4965,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04FR009.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04FR009-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04FR009.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04FR009-full.png"
       }
     ],
     "region": "프렐요드",
@@ -5009,8 +5009,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04FR010.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04FR010-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04FR010.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04FR010-full.png"
       }
     ],
     "region": "프렐요드",
@@ -5048,8 +5048,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04NX002.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04NX002-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04NX002.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04NX002-full.png"
       }
     ],
     "region": "녹서스",
@@ -5089,8 +5089,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04NX010.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04NX010-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04NX010.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04NX010-full.png"
       }
     ],
     "region": "녹서스",
@@ -5124,8 +5124,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04NX015.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04NX015-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04NX015.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04NX015-full.png"
       }
     ],
     "region": "녹서스",
@@ -5163,8 +5163,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04NX006.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04NX006-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04NX006.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04NX006-full.png"
       }
     ],
     "region": "녹서스",
@@ -5198,8 +5198,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04NX001.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04NX001-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04NX001.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04NX001-full.png"
       }
     ],
     "region": "녹서스",
@@ -5241,8 +5241,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04NX004.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04NX004-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04NX004.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04NX004-full.png"
       }
     ],
     "region": "녹서스",
@@ -5283,8 +5283,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04NX004T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04NX004T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04NX004T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04NX004T1-full.png"
       }
     ],
     "region": "녹서스",
@@ -5322,8 +5322,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04NX005.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04NX005-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04NX005.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04NX005-full.png"
       }
     ],
     "region": "녹서스",
@@ -5365,8 +5365,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04NX004T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04NX004T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04NX004T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04NX004T2-full.png"
       }
     ],
     "region": "녹서스",
@@ -5404,8 +5404,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04NX016.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04NX016-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04NX016.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04NX016-full.png"
       }
     ],
     "region": "녹서스",
@@ -5418,7 +5418,7 @@
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "\"가거라, 예쁜 내 새끼.<br>다른 아이들에게 네 울음소리를 들려주렴.<br>그걸 들으면 모두 즐거워하잖니.<br>내 자식들의 즐거움은 곧 나의 기쁨이지.''\n- 엘리스",
-    "artistName": "Kudos Production",
+    "artistName": "Kudos Productions",
     "name": "비명 지르는 물레거미",
     "cardCode": "04NX016",
     "keywords": [],
@@ -5441,8 +5441,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04NX018.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04NX018-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04NX018.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04NX018-full.png"
       }
     ],
     "region": "녹서스",
@@ -5476,8 +5476,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04NX003.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04NX003-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04NX003.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04NX003-full.png"
       }
     ],
     "region": "녹서스",
@@ -5517,8 +5517,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04NX017.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04NX017-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04NX017.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04NX017-full.png"
       }
     ],
     "region": "녹서스",
@@ -5531,7 +5531,7 @@
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "녹서스군은 적을 살려 두는 법이 거의 없을 정도로 잔혹하지만, 군단 약탈자에는 비할 바가 못 됩니다.",
-    "artistName": "Kudos Production",
+    "artistName": "Kudos Productions",
     "name": "수적 우위",
     "cardCode": "04NX017",
     "keywords": [
@@ -5559,8 +5559,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SI005.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SI005-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SI005.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SI005-full.png"
       }
     ],
     "region": "그림자 군도",
@@ -5601,8 +5601,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SI005T4.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SI005T4-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SI005T4.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SI005T4-full.png"
       }
     ],
     "region": "그림자 군도",
@@ -5643,8 +5643,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SI005T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SI005T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SI005T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SI005T1-full.png"
       }
     ],
     "region": "그림자 군도",
@@ -5682,8 +5682,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SI016.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SI016-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SI016.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SI016-full.png"
       }
     ],
     "region": "그림자 군도",
@@ -5719,8 +5719,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SI007.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SI007-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SI007.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SI007-full.png"
       }
     ],
     "region": "그림자 군도",
@@ -5758,8 +5758,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SI011.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SI011-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SI011.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SI011-full.png"
       }
     ],
     "region": "그림자 군도",
@@ -5797,8 +5797,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SI015.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SI015-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SI015.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SI015-full.png"
       }
     ],
     "region": "그림자 군도",
@@ -5811,7 +5811,7 @@
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "\"그래, 이놈들아. 어서 통발을 끌어 올려!<br>그리고 명심해.<br>다음에 또 바다풍뎅이가 보이면 줄을 끊고 도망치라고.<br>놈들이 먹다 남긴 걸 건졌다가는<br>까딱하면 배도 끝장난단 말이지. 알겠어?''\n- 빌지워터의 선장",
-    "artistName": "Kudos Production",
+    "artistName": "Kudos Productions",
     "name": "바다풍뎅이",
     "cardCode": "04SI015",
     "keywords": [
@@ -5840,8 +5840,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SI017.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SI017-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SI017.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SI017-full.png"
       }
     ],
     "region": "그림자 군도",
@@ -5879,8 +5879,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SI001.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SI001-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SI001.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SI001-full.png"
       }
     ],
     "region": "그림자 군도",
@@ -5918,8 +5918,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SI009.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SI009-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SI009.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SI009-full.png"
       }
     ],
     "region": "그림자 군도",
@@ -5955,8 +5955,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SI013.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SI013-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SI013.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SI013-full.png"
       }
     ],
     "region": "그림자 군도",
@@ -5994,8 +5994,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SI007T3.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SI007T3-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SI007T3.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SI007T3-full.png"
       }
     ],
     "region": "그림자 군도",
@@ -6008,7 +6008,7 @@
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "''결국에는 모두 잊히고 말리라.''\n- 에테르 악령",
-    "artistName": "Kudos Production",
+    "artistName": "Kudos Productions",
     "name": "두 번째 죽음",
     "cardCode": "04SI007T3",
     "keywords": [
@@ -6033,8 +6033,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SI002.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SI002-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SI002.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SI002-full.png"
       }
     ],
     "region": "그림자 군도",
@@ -6074,8 +6074,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SI003.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SI003-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SI003.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SI003-full.png"
       }
     ],
     "region": "그림자 군도",
@@ -6109,8 +6109,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SI014.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04SI014-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SI014.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04SI014-full.png"
       }
     ],
     "region": "그림자 군도",
@@ -6154,8 +6154,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04PZ014.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04PZ014-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04PZ014.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04PZ014-full.png"
       }
     ],
     "region": "필트오버 & 자운",
@@ -6193,8 +6193,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04PZ010.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04PZ010-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04PZ010.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04PZ010-full.png"
       }
     ],
     "region": "필트오버 & 자운",
@@ -6232,8 +6232,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04MT010.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04MT010-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04MT010.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04MT010-full.png"
       }
     ],
     "region": "타곤",
@@ -6271,8 +6271,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04MT012.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04MT012-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04MT012.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04MT012-full.png"
       }
     ],
     "region": "타곤",
@@ -6310,8 +6310,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04DE014.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04DE014-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04DE014.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04DE014-full.png"
       }
     ],
     "region": "데마시아",
@@ -6345,8 +6345,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04DE001.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04DE001-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04DE001.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04DE001-full.png"
       }
     ],
     "region": "데마시아",
@@ -6382,8 +6382,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04DE003.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04DE003-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04DE003.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04DE003-full.png"
       }
     ],
     "region": "데마시아",
@@ -6421,8 +6421,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04DE002.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04DE002-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04DE002.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04DE002-full.png"
       }
     ],
     "region": "데마시아",
@@ -6460,8 +6460,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04DE006.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04DE006-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04DE006.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04DE006-full.png"
       }
     ],
     "region": "데마시아",
@@ -6499,8 +6499,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04DE007T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04DE007T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04DE007T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04DE007T1-full.png"
       }
     ],
     "region": "데마시아",
@@ -6541,8 +6541,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04DE008.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04DE008-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04DE008.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04DE008-full.png"
       }
     ],
     "region": "데마시아",
@@ -6586,8 +6586,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04DE008T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04DE008T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04DE008T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04DE008T1-full.png"
       }
     ],
     "region": "데마시아",
@@ -6630,8 +6630,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04DE008T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04DE008T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04DE008T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04DE008T2-full.png"
       }
     ],
     "region": "데마시아",
@@ -6671,8 +6671,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04DE010.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04DE010-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04DE010.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04DE010-full.png"
       }
     ],
     "region": "데마시아",
@@ -6712,8 +6712,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04DE013.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04DE013-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04DE013.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04DE013-full.png"
       }
     ],
     "region": "데마시아",
@@ -6749,8 +6749,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04DE007.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04DE007-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04DE007.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04DE007-full.png"
       }
     ],
     "region": "데마시아",
@@ -6786,8 +6786,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04DE009.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04DE009-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04DE009.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04DE009-full.png"
       }
     ],
     "region": "데마시아",
@@ -6823,8 +6823,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04BW011.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04BW011-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04BW011.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04BW011-full.png"
       }
     ],
     "region": "빌지워터",
@@ -6867,8 +6867,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04BW008.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04BW008-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04BW008.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04BW008-full.png"
       }
     ],
     "region": "빌지워터",
@@ -6906,8 +6906,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04IO014.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04IO014-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04IO014.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04IO014-full.png"
       }
     ],
     "region": "아이오니아",
@@ -6945,8 +6945,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04IO001.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_3_0/set4/ko_kr/img/cards/04IO001-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04IO001.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_4_0/set4/ko_kr/img/cards/04IO001-full.png"
       }
     ],
     "region": "아이오니아",
