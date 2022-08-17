@@ -4,8 +4,416 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH070.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH070-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04BW002.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04BW002-full.png"
+      }
+    ],
+    "region": "Bilgewasser",
+    "regionRef": "Bilgewater",
+    "attack": 0,
+    "cost": 2,
+    "health": 0,
+    "description": "Ein Verbündeter <link=vocab.Strike><style=Vocab>attackiert</style></link> einen Gegner und wandert dann an die Spitze deines Decks.",
+    "descriptionRaw": "Ein Verbündeter attackiert einen Gegner und wandert dann an die Spitze deines Decks.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "„Kleines Abschiedsgeschenk …“<br>– Pyke",
+    "artistName": "Kudos Productions",
+    "name": "Knochenspieß",
+    "cardCode": "04BW002",
+    "keywords": [
+      "Schnell"
+    ],
+    "keywordRefs": [
+      "Fast"
+    ],
+    "spellSpeed": "Schnell",
+    "spellSpeedRef": "Fast",
+    "rarity": "EPISCH",
+    "rarityRef": "Epic",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Zauber",
+    "collectible": true,
+    "set": "Set4"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04BW010.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04BW010-full.png"
+      }
+    ],
+    "region": "Bilgewasser",
+    "regionRef": "Bilgewater",
+    "attack": 0,
+    "cost": 6,
+    "health": 0,
+    "description": "Verursache 5 Schaden an einer Einheit.\r\n<link=vocab.Plunder><style=Vocab>Plündern</style></link>: Ich koste 3 weniger.",
+    "descriptionRaw": "Verursache 5 Schaden an einer Einheit.\r\nPlündern: Ich koste 3 weniger.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "„Wir haben das Biest schon erwischt! Macht weiter, bis es sich nicht mehr rührt und das Wasser nicht mehr blau ist!“<br>– Kaltblütige Quartiermeisterin",
+    "artistName": "Kudos Productions",
+    "name": "Monsterharpune",
+    "cardCode": "04BW010",
+    "keywords": [
+      "Schnell"
+    ],
+    "keywordRefs": [
+      "Fast"
+    ],
+    "spellSpeed": "Schnell",
+    "spellSpeedRef": "Fast",
+    "rarity": "GEWÖHNLICH",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Zauber",
+    "collectible": true,
+    "set": "Set4"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04BW011.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04BW011-full.png"
+      }
+    ],
+    "region": "Bilgewasser",
+    "regionRef": "Bilgewater",
+    "attack": 0,
+    "cost": 4,
+    "health": 0,
+    "description": "Bis Rundenende: Wenn du Schaden am gegnerischen Nexus verursachst, <link=keyword.Nab><style=Keyword>klaue</style></link> 1.",
+    "descriptionRaw": "Bis Rundenende: Wenn du Schaden am gegnerischen Nexus verursachst, klaue 1.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "„Na, was willst du aufs Spiel setzen, mein Freund?“<br>– Tahm Kench",
+    "artistName": "Kudos Productions",
+    "name": "Gezinkte Würfel",
+    "cardCode": "04BW011",
+    "keywords": [
+      "Langsam"
+    ],
+    "keywordRefs": [
+      "Slow"
+    ],
+    "spellSpeed": "Langsam",
+    "spellSpeedRef": "Slow",
+    "rarity": "EPISCH",
+    "rarityRef": "Epic",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Zauber",
+    "collectible": true,
+    "set": "Set4"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "02BW030T4",
+      "02BW030T1",
+      "02BW030T3",
+      "02BW030T2"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04BW008.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04BW008-full.png"
+      }
+    ],
+    "region": "Bilgewasser",
+    "regionRef": "Bilgewater",
+    "attack": 0,
+    "cost": 4,
+    "health": 0,
+    "description": "Ziehe einen Schatz. Wenn du keinen ziehen kannst, erschaffe stattdessen 2 Schätze in deinem Deck.",
+    "descriptionRaw": "Ziehe einen Schatz. Wenn du keinen ziehen kannst, erschaffe stattdessen 2 Schätze in deinem Deck.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "„Wir sind reich!“<br>– Kaltblütiger Kaperer",
+    "artistName": "Kudos Productions",
+    "name": "Verschollene Reichtümer",
+    "cardCode": "04BW008",
+    "keywords": [
+      "Sofort"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "Sofort",
+    "spellSpeedRef": "Burst",
+    "rarity": "SELTEN",
+    "rarityRef": "Rare",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Zauber",
+    "collectible": true,
+    "set": "Set4"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "04PZ005T1"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04PZ005.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04PZ005-full.png"
+      }
+    ],
+    "region": "Piltover & Zhaun",
+    "regionRef": "PiltoverZaun",
+    "attack": 1,
+    "cost": 2,
+    "health": 2,
+    "description": "Wenn du einen anderen <link=card.selfRef><style=AssociatedCard>Grubenarbeiter der Chireaner</style></link> beschwörst, <link=keyword.Obliterate><style=Keyword>vernichte</style></link> mich und verwandle verbündete <link=card.selfRef><style=AssociatedCard>Grubenarbeiter der Chireaner</style></link> <link=vocab.Everywhere><style=Vocab>überall</style></link> in <link=card.transform><style=AssociatedCard>Kolonnen der Grubenwerke</style></link>.",
+    "descriptionRaw": "Wenn du einen anderen Grubenarbeiter der Chireaner beschwörst, vernichte mich und verwandle verbündete Grubenarbeiter der Chireaner überall in Kolonnen der Grubenwerke.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "Die ersten zhaunitischen Minenarbeiter, die die Chireaner entdeckten, hielten sie für scheue, einfach gestrickte Kreaturen. Doch im Laufe der Jahre gewöhnten sie sich an die Menschen und offenbarten ihnen ihre engen sozialen Bindungen und ihr intuitives Verständnis von Technologie.",
+    "artistName": "Dao Le",
+    "name": "Grubenarbeiter der Chireaner",
+    "cardCode": "04PZ005",
+    "keywords": [
+      "Ungreifbar"
+    ],
+    "keywordRefs": [
+      "Elusive"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "GEWÖHNLICH",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Einheit",
+    "collectible": true,
+    "set": "Set4"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04PZ005T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04PZ005T2-full.png"
+      }
+    ],
+    "region": "Piltover & Zhaun",
+    "regionRef": "PiltoverZaun",
+    "attack": 0,
+    "cost": 0,
+    "health": 0,
+    "description": "Verursache 1 Schaden an Gegnern und dem gegnerischen Nexus.",
+    "descriptionRaw": "Verursache 1 Schaden an Gegnern und dem gegnerischen Nexus.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "Es ist schwer, eine Gruppe Chireaner zu verärgern, aber wenn sie wütend werden, weiß jeder Bescheid.",
+    "artistName": "Kudos Productions",
+    "name": "Stromkreisbrecher",
+    "cardCode": "04PZ005T2",
+    "keywords": [
+      "Fertigkeit"
+    ],
+    "keywordRefs": [
+      "Skill"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "Keine",
+    "rarityRef": "None",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Fertigkeit",
+    "collectible": false,
+    "set": "Set4"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "04PZ005T2",
+      "04PZ005"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04PZ005T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04PZ005T1-full.png"
+      }
+    ],
+    "region": "Piltover & Zhaun",
+    "regionRef": "PiltoverZaun",
+    "attack": 4,
+    "cost": 2,
+    "health": 2,
+    "description": "<link=vocab.Attack><style=Vocab>Angriff</style></link>: Verursache 1 Schaden an Gegnern und dem gegnerischen Nexus.",
+    "descriptionRaw": "Angriff: Verursache 1 Schaden an Gegnern und dem gegnerischen Nexus.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "„Alleine sind sie ganz niedlich, stimmt schon, aber in einer Gruppe bauen sie mir nichts, dir nichts eine verrückte Maschine und verschwinden zu den Gassen um Teile davon abzureißen.“<br>– Zhaunitischer Maschinist",
+    "artistName": "Dao Le",
+    "name": "Kolonne der Grubenwerke",
+    "cardCode": "04PZ005T1",
+    "keywords": [
+      "Ungreifbar"
+    ],
+    "keywordRefs": [
+      "Elusive"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "Keine",
+    "rarityRef": "None",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Einheit",
+    "collectible": false,
+    "set": "Set4"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "01PZ056T1",
+      "01PZ056T4",
+      "01PZ056T7",
+      "01PZ056T8",
+      "01PZ056T9",
+      "01PZ056T2",
+      "01PZ056T6",
+      "01PZ056T5",
+      "01PZ015"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04PZ014.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04PZ014-full.png"
+      }
+    ],
+    "region": "Piltover & Zhaun",
+    "regionRef": "PiltoverZaun",
+    "attack": 0,
+    "cost": 0,
+    "health": 0,
+    "description": "Verbrauche zum Ausspielen dein gesamtes Mana. Beschwöre zufällige Geschütztürme, deren Gesamtkosten dem ausgegebenen Mana entsprechen.",
+    "descriptionRaw": "Verbrauche zum Ausspielen dein gesamtes Mana. Beschwöre zufällige Geschütztürme, deren Gesamtkosten dem ausgegebenen Mana entsprechen.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "„Zu wenige Ressourcen?! Ich habe damals meine erste mechanische Apparatur aus weggeworfenen Uhrwerken und einem rostigen Thermalkondensator gebaut. Für einen findigen Wissenschaftler gibt es keine Ausreden!“<br>– Heimerdinger",
+    "artistName": "Kudos Productions",
+    "name": "Produktionsschub",
+    "cardCode": "04PZ014",
+    "keywords": [
+      "Langsam"
+    ],
+    "keywordRefs": [
+      "Slow"
+    ],
+    "spellSpeed": "Langsam",
+    "spellSpeedRef": "Slow",
+    "rarity": "SELTEN",
+    "rarityRef": "Rare",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Zauber",
+    "collectible": true,
+    "set": "Set4"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04PZ010.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04PZ010-full.png"
+      }
+    ],
+    "region": "Piltover & Zhaun",
+    "regionRef": "PiltoverZaun",
+    "attack": 0,
+    "cost": 1,
+    "health": 0,
+    "description": "Rest des Spiels: Wenn du in einer Runde zum ersten Mal einen Begleiter ausspielst, wähle 1 von 3 Begleitern mit denselben Kosten, in den er verwandelt werden soll.",
+    "descriptionRaw": "Rest des Spiels: Wenn du in einer Runde zum ersten Mal einen Begleiter ausspielst, wähle 1 von 3 Begleitern mit denselben Kosten, in den er verwandelt werden soll.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "„Wir spielen nach MEINEN Regeln.“<br>– Ekko",
+    "artistName": "Kudos Productions",
+    "name": "Parallele Zeitstränge",
+    "cardCode": "04PZ010",
+    "keywords": [
+      "Langsam"
+    ],
+    "keywordRefs": [
+      "Slow"
+    ],
+    "spellSpeed": "Langsam",
+    "spellSpeedRef": "Slow",
+    "rarity": "EPISCH",
+    "rarityRef": "Epic",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Zauber",
+    "collectible": true,
+    "set": "Set4"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04PZ015.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04PZ015-full.png"
+      }
+    ],
+    "region": "Piltover & Zhaun",
+    "regionRef": "PiltoverZaun",
+    "attack": 1,
+    "cost": 1,
+    "health": 3,
+    "description": "Wenn du eine Technologie beschwörst, haben wir dieselben Schlüsselwörter.",
+    "descriptionRaw": "Wenn du eine Technologie beschwörst, haben wir dieselben Schlüsselwörter.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "„Ah, ja! Der Adaptatron 3000! Anpassbar, originell UND ein echter Hingucker! Wenn er sprechen könnte, hätten wir sicherlich VIELE Gesprächsthemen.“<br>– Heimerdinger",
+    "artistName": "Kudos Productions",
+    "name": "Adaptatron 3000",
+    "cardCode": "04PZ015",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "EPISCH",
+    "rarityRef": "Epic",
+    "subtype": "",
+    "subtypes": [
+      "TECHNOLOGIE"
+    ],
+    "supertype": "",
+    "type": "Einheit",
+    "collectible": true,
+    "set": "Set4"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH070.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH070-full.png"
       }
     ],
     "region": "Shurima",
@@ -43,8 +451,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH081.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH081-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH081.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH081-full.png"
       }
     ],
     "region": "Shurima",
@@ -78,8 +486,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH059T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH059T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH059T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH059T2-full.png"
       }
     ],
     "region": "Shurima",
@@ -117,8 +525,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH059T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH059T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH059T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH059T1-full.png"
       }
     ],
     "region": "Shurima",
@@ -156,8 +564,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH077.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH077-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH077.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH077-full.png"
       }
     ],
     "region": "Shurima",
@@ -198,8 +606,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH089.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH089-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH089.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH089-full.png"
       }
     ],
     "region": "Shurima",
@@ -236,8 +644,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH089T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH089T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH089T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH089T1-full.png"
       }
     ],
     "region": "Shurima",
@@ -275,8 +683,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH015.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH015-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH015.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH015-full.png"
       }
     ],
     "region": "Shurima",
@@ -316,8 +724,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH058.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH058-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH058.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH058-full.png"
       }
     ],
     "region": "Shurima",
@@ -353,8 +761,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH035.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH035-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH035.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH035-full.png"
       }
     ],
     "region": "Shurima",
@@ -394,8 +802,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH028.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH028-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH028.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH028-full.png"
       }
     ],
     "region": "Shurima",
@@ -433,8 +841,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH002.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH002-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH002.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH002-full.png"
       }
     ],
     "region": "Shurima",
@@ -474,8 +882,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH042.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH042-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH042.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH042-full.png"
       }
     ],
     "region": "Shurima",
@@ -513,8 +921,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH032.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH032-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH032.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH032-full.png"
       }
     ],
     "region": "Shurima",
@@ -548,8 +956,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH055.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH055-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH055.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH055-full.png"
       }
     ],
     "region": "Shurima",
@@ -587,14 +995,176 @@
   {
     "associatedCards": [],
     "associatedCardRefs": [
+      "04SH039T1",
+      "04SH039T2",
+      "04SH060T1"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH039.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH039-full.png"
+      }
+    ],
+    "region": "Shurima",
+    "regionRef": "Shurima",
+    "attack": 1,
+    "cost": 2,
+    "health": 4,
+    "description": "<link=vocab.Play><style=Vocab>Ausspielen</style></link>: Erschaffe 4 <link=card.create><style=AssociatedCard>Zeitbomben</style></link> in deinem Deck. <link=vocab.Forecast><style=Vocab>Prophezeie</style></link>.",
+    "descriptionRaw": "Ausspielen: Erschaffe 4 Zeitbomben in deinem Deck. Prophezeie.",
+    "levelupDescription": "Ich habe gesehen, wie du 2 verbündete <link=card.create><style=AssociatedCard>Zeitbomben</style></link> zerstört hast<style=Variable></style>.",
+    "levelupDescriptionRaw": "Ich habe gesehen, wie du 2 verbündete Zeitbomben zerstört hast.",
+    "flavorText": "Über viele Jahre hinweg baute Zilean einen Verbund aus vielversprechenden jungen Magiern aus verschiedenen Zeiten auf, die alle sein Lebenswerk hätten vollenden können, falls das Undenkbare eintreten sollte. Als liebenswerter Mentor spornte er seine Zöglinge stets an, doch sobald er sich in die Einsamkeit zurückzog, legte sich seine Stirn in tiefe Sorgenfalten und eine Erschöpfung machte sich in seinen Augen breit, die nur diejenigen verstehen konnten, die bereits mehrere Leben hinter sich hatten.",
+    "artistName": "SIXMOREVODKA",
+    "name": "Zilean",
+    "cardCode": "04SH039",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "Champion",
+    "rarityRef": "Champion",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "Champion",
+    "type": "Einheit",
+    "collectible": true,
+    "set": "Set4"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "04SH060T1"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH060T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH060T1-full.png"
+      }
+    ],
+    "region": "Shurima",
+    "regionRef": "Shurima",
+    "attack": 0,
+    "cost": 2,
+    "health": 0,
+    "description": "Wenn ich beschworen werde, ziehe 1 und <link=vocab.Advance><style=Vocab>zähle</style></link> andere verbündete Zeitbomben um 1 herunter.\r\n<link=vocab.Buried><style=Vocab>Countdown 1</style></link><style=Variable></style>: Verursache 1 Schaden an Gegnern und dem gegnerischen Nexus.",
+    "descriptionRaw": "Wenn ich beschworen werde, ziehe 1 und zähle andere verbündete Zeitbomben um 1 herunter.\r\nCountdown 1: Verursache 1 Schaden an Gegnern und dem gegnerischen Nexus.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "Der „konstruktive“ Einsatz der Zeit kann auch „destruktiv“ gemeint sein.",
+    "artistName": "Polar Engine",
+    "name": "Zeitbombe",
+    "cardCode": "04SH060T1",
+    "keywords": [
+      "Wahrzeichen"
+    ],
+    "keywordRefs": [
+      "LandmarkVisualOnly"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "Keine",
+    "rarityRef": "None",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Wahrzeichen",
+    "collectible": false,
+    "set": "Set4"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "04SH039",
+      "04SH039T2",
+      "04SH039T1"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH039T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH039T2-full.png"
+      }
+    ],
+    "region": "Shurima",
+    "regionRef": "Shurima",
+    "attack": 0,
+    "cost": 7,
+    "health": 0,
+    "description": "Gib einem verbündeten Champion „Wenn ich das nächste Mal in dieser Runde sterben würde, heile mich stattdessen vollständig und gewähre mir +3|+3“.\r\nErschaffe einen <link=card.level1><style=AssociatedCard>Zilean</style></link> in deinem Deck.",
+    "descriptionRaw": "Gib einem verbündeten Champion „Wenn ich das nächste Mal in dieser Runde sterben würde, heile mich stattdessen vollständig und gewähre mir +3|+3“.\r\nErschaffe einen Zilean in deinem Deck.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "„Wir können das Unvermeidliche nicht aufhalten … aber wir können es verzögern.“<br>– Zilean",
+    "artistName": "Kudos Productions",
+    "name": "Zileans Zeitensprung",
+    "cardCode": "04SH039T2",
+    "keywords": [
+      "Sofort"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "Sofort",
+    "spellSpeedRef": "Burst",
+    "rarity": "Keine",
+    "rarityRef": "None",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "Champion",
+    "type": "Zauber",
+    "collectible": false,
+    "set": "Set4"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "04SH039",
+      "04SH039T2",
+      "04SH060T1"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH039T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH039T1-full.png"
+      }
+    ],
+    "region": "Shurima",
+    "regionRef": "Shurima",
+    "attack": 2,
+    "cost": 2,
+    "health": 5,
+    "description": "<link=vocab.RoundStart><style=Vocab>Rundenstart</style></link>: Erschaffe eine <link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>flüchtige</style></link> Kopie von jeder nicht-<link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>flüchtigen</style></link> Karte, die ich dich letzte Runde habe ausspielen sehen.\r\n<link=vocab.Play><style=Vocab>Ausspielen</style></link>: Erschaffe 4 <link=card.create><style=AssociatedCard>Zeitbomben</style></link> in deinem Deck. <link=vocab.Forecast><style=Vocab>Prophezeie</style></link>.",
+    "descriptionRaw": "Rundenstart: Erschaffe eine flüchtige Kopie von jeder nicht-flüchtigen Karte, die ich dich letzte Runde habe ausspielen sehen.\r\nAusspielen: Erschaffe 4 Zeitbomben in deinem Deck. Prophezeie.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "Zahllose Möglichkeiten erstreckten sich vor und hinter ihm. Er sah sie alle auf einmal – als verwirrende Auswahl, die nur er entziffern konnte. Mit einer einzigen Geste war Zilean in der Lage, ganze Zeitstränge zu entfalten, doch keiner davon hatte ihm bisher einen Weg zur Rettung von Icathia aufgezeigt.",
+    "artistName": "SIXMOREVODKA",
+    "name": "Zilean",
+    "cardCode": "04SH039T1",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "Keine",
+    "rarityRef": "None",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "Champion",
+    "type": "Einheit",
+    "collectible": false,
+    "set": "Set4"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
       "04SH073T2",
       "04SH073T3",
       "04SH073T1"
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH073.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH073-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH073.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH073-full.png"
       }
     ],
     "region": "Shurima",
@@ -632,8 +1202,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH073T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH073T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH073T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH073T2-full.png"
       }
     ],
     "region": "Shurima",
@@ -669,8 +1239,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH073T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH073T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH073T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH073T1-full.png"
       }
     ],
     "region": "Shurima",
@@ -711,8 +1281,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH073T3.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH073T3-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH073T3.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH073T3-full.png"
       }
     ],
     "region": "Shurima",
@@ -750,8 +1320,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH091.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH091-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH091.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH091-full.png"
       }
     ],
     "region": "Shurima",
@@ -787,8 +1357,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH024.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH024-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH024.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH024-full.png"
       }
     ],
     "region": "Shurima",
@@ -833,8 +1403,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH003.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH003-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH003.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH003-full.png"
       }
     ],
     "region": "Shurima",
@@ -876,8 +1446,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH003T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH003T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH003T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH003T2-full.png"
       }
     ],
     "region": "Shurima",
@@ -920,8 +1490,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH003T3.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH003T3-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH003T3.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH003T3-full.png"
       }
     ],
     "region": "Shurima",
@@ -957,8 +1527,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH003T14.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH003T14-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH003T14.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH003T14-full.png"
       }
     ],
     "region": "Shurima",
@@ -998,8 +1568,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH003T5.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH003T5-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH003T5.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH003T5-full.png"
       }
     ],
     "region": "Shurima",
@@ -1038,8 +1608,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH003T4.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH003T4-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH003T4.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH003T4-full.png"
       }
     ],
     "region": "Shurima",
@@ -1077,8 +1647,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH003T10.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH003T10-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH003T10.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH003T10-full.png"
       }
     ],
     "region": "Shurima",
@@ -1118,8 +1688,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH003T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH003T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH003T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH003T1-full.png"
       }
     ],
     "region": "Shurima",
@@ -1157,8 +1727,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH003T8.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH003T8-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH003T8.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH003T8-full.png"
       }
     ],
     "region": "Shurima",
@@ -1196,8 +1766,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH003T6.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH003T6-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH003T6.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH003T6-full.png"
       }
     ],
     "region": "Shurima",
@@ -1235,8 +1805,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH003T12.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH003T12-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH003T12.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH003T12-full.png"
       }
     ],
     "region": "Shurima",
@@ -1274,8 +1844,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH003T11.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH003T11-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH003T11.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH003T11-full.png"
       }
     ],
     "region": "Shurima",
@@ -1313,8 +1883,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH003T7.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH003T7-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH003T7.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH003T7-full.png"
       }
     ],
     "region": "Shurima",
@@ -1355,8 +1925,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH003T13.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH003T13-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH003T13.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH003T13-full.png"
       }
     ],
     "region": "Shurima",
@@ -1394,8 +1964,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH003T9.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH003T9-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH003T9.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH003T9-full.png"
       }
     ],
     "region": "Shurima",
@@ -1433,8 +2003,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH011.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH011-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH011.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH011-full.png"
       }
     ],
     "region": "Shurima",
@@ -1470,8 +2040,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH114.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH114-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH114.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH114-full.png"
       }
     ],
     "region": "Shurima",
@@ -1515,8 +2085,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH067.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH067-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH067.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH067-full.png"
       }
     ],
     "region": "Shurima",
@@ -1561,8 +2131,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH067T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH067T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH067T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH067T1-full.png"
       }
     ],
     "region": "Shurima",
@@ -1608,8 +2178,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH067T4.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH067T4-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH067T4.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH067T4-full.png"
       }
     ],
     "region": "Shurima",
@@ -1654,8 +2224,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH067T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH067T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH067T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH067T2-full.png"
       }
     ],
     "region": "Shurima",
@@ -1693,8 +2263,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH067T5.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH067T5-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH067T5.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH067T5-full.png"
       }
     ],
     "region": "Shurima",
@@ -1732,8 +2302,47 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH119.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH119-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH120.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH120-full.png"
+      }
+    ],
+    "region": "Shurima",
+    "regionRef": "Shurima",
+    "attack": 0,
+    "cost": 1,
+    "health": 0,
+    "description": "Erschaffe ein zufälliges Wahrzeichen mit <link=vocab.Buried><style=Vocab>Countdown</style></link> auf der Hand oder <link=vocab.Advance><style=Vocab>zähle</style></link> deine Wahrzeichen um 1 herunter.",
+    "descriptionRaw": "Erschaffe ein zufälliges Wahrzeichen mit Countdown auf der Hand oder zähle deine Wahrzeichen um 1 herunter.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "„Zeit ist vergänglich.“<br>– Zilean",
+    "artistName": "Kudos Productions",
+    "name": "Denkbare Möglichkeiten",
+    "cardCode": "04SH120",
+    "keywords": [
+      "Fokus"
+    ],
+    "keywordRefs": [
+      "Focus"
+    ],
+    "spellSpeed": "Sofort",
+    "spellSpeedRef": "Burst",
+    "rarity": "SELTEN",
+    "rarityRef": "Rare",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Zauber",
+    "collectible": true,
+    "set": "Set4"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH119.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH119-full.png"
       }
     ],
     "region": "Shurima",
@@ -1771,8 +2380,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH093.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH093-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH093.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH093-full.png"
       }
     ],
     "region": "Shurima",
@@ -1807,13 +2416,52 @@
   },
   {
     "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH079.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH079-full.png"
+      }
+    ],
+    "region": "Shurima",
+    "regionRef": "Shurima",
+    "attack": 0,
+    "cost": 1,
+    "health": 0,
+    "description": "<link=vocab.Forecast><style=Vocab>Prophezeie</style></link>.\r\nGib einem Gegner in dieser Runde <nobr>-2|-0</nobr>. ",
+    "descriptionRaw": "Prophezeie.\r\nGib einem Gegner in dieser Runde -2|-0. ",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "„Ich habe mein Schicksal gesehen und dieses Mal wird man mich nicht aufhalten.“<br>– Azir",
+    "artistName": "Kudos Productions",
+    "name": "Sandorakel",
+    "cardCode": "04SH079",
+    "keywords": [
+      "Sofort"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "Sofort",
+    "spellSpeedRef": "Burst",
+    "rarity": "SELTEN",
+    "rarityRef": "Rare",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Zauber",
+    "collectible": true,
+    "set": "Set4"
+  },
+  {
+    "associatedCards": [],
     "associatedCardRefs": [
       "04SH006"
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH038.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH038-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH038.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH038-full.png"
       }
     ],
     "region": "Shurima",
@@ -1844,13 +2492,48 @@
   },
   {
     "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH104.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH104-full.png"
+      }
+    ],
+    "region": "Shurima",
+    "regionRef": "Shurima",
+    "attack": 4,
+    "cost": 5,
+    "health": 4,
+    "description": "<link=vocab.Play><style=Vocab>Ausspielen</style></link>: <link=vocab.Advance><style=Vocab>Zähle</style></link> ein verbündetes Wahrzeichen um 3 herunter.",
+    "descriptionRaw": "Ausspielen: Zähle ein verbündetes Wahrzeichen um 3 herunter.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "Immer wenn Zilean einen Moment der Ruhe sucht, kehrt er in Icathias letzten Garten zurück, wie er ihn in Erinnerung hat.",
+    "artistName": "Polar Engine",
+    "name": "Konservator",
+    "cardCode": "04SH104",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "SELTEN",
+    "rarityRef": "Rare",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Einheit",
+    "collectible": true,
+    "set": "Set4"
+  },
+  {
+    "associatedCards": [],
     "associatedCardRefs": [
       "04SH003T1"
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH099.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH099-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH099.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH099-full.png"
       }
     ],
     "region": "Shurima",
@@ -1890,8 +2573,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH048.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH048-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH048.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH048-full.png"
       }
     ],
     "region": "Shurima",
@@ -1926,11 +2609,48 @@
   },
   {
     "associatedCards": [],
+    "associatedCardRefs": [
+      "04SH098"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH056.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH056-full.png"
+      }
+    ],
+    "region": "Shurima",
+    "regionRef": "Shurima",
+    "attack": 5,
+    "cost": 4,
+    "health": 3,
+    "description": "Wenn ich beschworen werde, erschaffe 1 <link=card.create><style=AssociatedCard>Glücksfund</style></link> auf der Hand.",
+    "descriptionRaw": "Wenn ich beschworen werde, erschaffe 1 Glücksfund auf der Hand.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "„Mein Freund, für dich habe ich diese unvergleichliche Schönheit beschafft – direkt aus dem sagenumwobenen Grab der Imperatoren! Dem großen Renekton selbst habe ich sie entrissen und auf meinem Weg nach draußen wurde ich von zehn, nein zwanzig blutrünstigen Sauren-Reitern umzingelt! Wahrlich ein Wunder, dass ein solcher Schatz nun in deinem Besitz ist.“",
+    "artistName": "Grafit Studio",
+    "name": "Profiteurin",
+    "cardCode": "04SH056",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "GEWÖHNLICH",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Einheit",
+    "collectible": true,
+    "set": "Set4"
+  },
+  {
+    "associatedCards": [],
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH098T3.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH098T3-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH098T3.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH098T3-full.png"
       }
     ],
     "region": "Shurima",
@@ -1968,8 +2688,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH098T12.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH098T12-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH098T12.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH098T12-full.png"
       }
     ],
     "region": "Shurima",
@@ -2007,8 +2727,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH098T7.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH098T7-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH098T7.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH098T7-full.png"
       }
     ],
     "region": "Shurima",
@@ -2046,8 +2766,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH098T6.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH098T6-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH098T6.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH098T6-full.png"
       }
     ],
     "region": "Shurima",
@@ -2085,8 +2805,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH098T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH098T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH098T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH098T2-full.png"
       }
     ],
     "region": "Shurima",
@@ -2124,8 +2844,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH098T10.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH098T10-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH098T10.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH098T10-full.png"
       }
     ],
     "region": "Shurima",
@@ -2163,8 +2883,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH098T5.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH098T5-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH098T5.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH098T5-full.png"
       }
     ],
     "region": "Shurima",
@@ -2202,8 +2922,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH098T8.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH098T8-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH098T8.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH098T8-full.png"
       }
     ],
     "region": "Shurima",
@@ -2241,8 +2961,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH098T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH098T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH098T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH098T1-full.png"
       }
     ],
     "region": "Shurima",
@@ -2280,8 +3000,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH098.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH098-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH098.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH098-full.png"
       }
     ],
     "region": "Shurima",
@@ -2324,8 +3044,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH020.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH020-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH020.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH020-full.png"
       }
     ],
     "region": "Shurima",
@@ -2365,8 +3085,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH057.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH057-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH057.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH057-full.png"
       }
     ],
     "region": "Shurima",
@@ -2400,8 +3120,125 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH006.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH006-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH103.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH103-full.png"
+      }
+    ],
+    "region": "Shurima",
+    "regionRef": "Shurima",
+    "attack": 4,
+    "cost": 3,
+    "health": 3,
+    "description": "<link=vocab.Play><style=Vocab>Ausspielen</style></link>: Belege einen Gegner mit <link=keyword.Vulnerable><sprite name=Vulnerable><style=Keyword>Verletzlich</style></link>.",
+    "descriptionRaw": "Ausspielen: Belege einen Gegner mit Verletzlich.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "„So … Schön fest verschnürt. Renekton liebt es, wenn sich seine Mahlzeiten noch winden.“",
+    "artistName": "Kudos Production",
+    "name": "Unbarmherzige Jägerin",
+    "cardCode": "04SH103",
+    "keywords": [
+      "Bedrohlich"
+    ],
+    "keywordRefs": [
+      "Fearsome"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "GEWÖHNLICH",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Einheit",
+    "collectible": true,
+    "set": "Set4"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH120T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH120T2-full.png"
+      }
+    ],
+    "region": "Shurima",
+    "regionRef": "Shurima",
+    "attack": 0,
+    "cost": 1,
+    "health": 0,
+    "description": "<link=vocab.Advance><style=Vocab>Zähle</style></link> deine Wahrzeichen um 1 herunter.",
+    "descriptionRaw": "Zähle deine Wahrzeichen um 1 herunter.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "„Zeit ist vergänglich.“<br>– Zilean",
+    "artistName": "Kudos Productions",
+    "name": "Denkbare Möglichkeiten",
+    "cardCode": "04SH120T2",
+    "keywords": [
+      "Fokus"
+    ],
+    "keywordRefs": [
+      "Focus"
+    ],
+    "spellSpeed": "Sofort",
+    "spellSpeedRef": "Burst",
+    "rarity": "Keine",
+    "rarityRef": "None",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Zauber",
+    "collectible": false,
+    "set": "Set4"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH120T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH120T1-full.png"
+      }
+    ],
+    "region": "Shurima",
+    "regionRef": "Shurima",
+    "attack": 0,
+    "cost": 1,
+    "health": 0,
+    "description": "Erschaffe ein zufälliges Wahrzeichen mit <link=vocab.Buried><style=Vocab>Countdown</style></link> auf der Hand.",
+    "descriptionRaw": "Erschaffe ein zufälliges Wahrzeichen mit Countdown auf der Hand.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "„Zeit ist vergänglich.“<br>– Zilean",
+    "artistName": "Kudos Productions",
+    "name": "Denkbare Möglichkeiten",
+    "cardCode": "04SH120T1",
+    "keywords": [
+      "Fokus"
+    ],
+    "keywordRefs": [
+      "Focus"
+    ],
+    "spellSpeed": "Sofort",
+    "spellSpeedRef": "Burst",
+    "rarity": "Keine",
+    "rarityRef": "None",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Zauber",
+    "collectible": false,
+    "set": "Set4"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH006.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH006-full.png"
       }
     ],
     "region": "Shurima",
@@ -2439,8 +3276,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH076T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH076T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH076T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH076T1-full.png"
       }
     ],
     "region": "Shurima",
@@ -2475,11 +3312,165 @@
   },
   {
     "associatedCards": [],
+    "associatedCardRefs": [
+      "04SH034T1"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH034.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH034-full.png"
+      }
+    ],
+    "region": "Shurima",
+    "regionRef": "Shurima",
+    "attack": 4,
+    "cost": 8,
+    "health": 7,
+    "description": "Wenn ich beschworen werde, erschaffe 2 <link=card.create><style=AssociatedCard>Sekundenjahrhunderte</style></link> auf der Hand.",
+    "descriptionRaw": "Wenn ich beschworen werde, erschaffe 2 Sekundenjahrhunderte auf der Hand.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "In den unteren Geschossen des Turms ist ein ständiges Grollen zu hören, da der Turmwächter – bekannt als der „Uhrzeiger“ – kontinuierlich das Uhrwerk aufzieht.",
+    "artistName": "Polar Engine",
+    "name": "Der Uhrzeiger",
+    "cardCode": "04SH034",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "EPISCH",
+    "rarityRef": "Epic",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Einheit",
+    "collectible": true,
+    "set": "Set4"
+  },
+  {
+    "associatedCards": [],
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH082.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH082-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH034T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH034T1-full.png"
+      }
+    ],
+    "region": "Shurima",
+    "regionRef": "Shurima",
+    "attack": 0,
+    "cost": 0,
+    "health": 0,
+    "description": "Beschwöre ein zufälliges Wahrzeichen mit <link=vocab.Buried><style=Vocab>Countdown</style></link> oder <link=vocab.Advance><style=Vocab>zähle</style></link> ein Wahrzeichen um 4 herunter.",
+    "descriptionRaw": "Beschwöre ein zufälliges Wahrzeichen mit Countdown oder zähle ein Wahrzeichen um 4 herunter.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "„Es gibt so gut wie keinen Unterschied zwischen dem, was ist, und dem, was sein wird …“<br>– Zilean",
+    "artistName": "Kudos Productions",
+    "name": "Sekundenjahrhundert",
+    "cardCode": "04SH034T1",
+    "keywords": [
+      "Fokus"
+    ],
+    "keywordRefs": [
+      "Focus"
+    ],
+    "spellSpeed": "Sofort",
+    "spellSpeedRef": "Burst",
+    "rarity": "Keine",
+    "rarityRef": "None",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Zauber",
+    "collectible": false,
+    "set": "Set4"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH034T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH034T2-full.png"
+      }
+    ],
+    "region": "Shurima",
+    "regionRef": "Shurima",
+    "attack": 0,
+    "cost": 0,
+    "health": 0,
+    "description": "<link=vocab.Advance><style=Vocab>Zähle</style></link> ein Wahrzeichen um 4 herunter.",
+    "descriptionRaw": "Zähle ein Wahrzeichen um 4 herunter.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "„Es gibt so gut wie keinen Unterschied zwischen dem, was ist, und dem, was sein wird.“<br>– Zilean",
+    "artistName": "Kudos Productions",
+    "name": "Sekundenjahrhundert",
+    "cardCode": "04SH034T2",
+    "keywords": [
+      "Fokus"
+    ],
+    "keywordRefs": [
+      "Focus"
+    ],
+    "spellSpeed": "Sofort",
+    "spellSpeedRef": "Burst",
+    "rarity": "Keine",
+    "rarityRef": "None",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Zauber",
+    "collectible": false,
+    "set": "Set4"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH034T3.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH034T3-full.png"
+      }
+    ],
+    "region": "Shurima",
+    "regionRef": "Shurima",
+    "attack": 0,
+    "cost": 0,
+    "health": 0,
+    "description": "Beschwöre ein zufälliges Wahrzeichen mit <link=vocab.Buried><style=Vocab>Countdown</style></link>.",
+    "descriptionRaw": "Beschwöre ein zufälliges Wahrzeichen mit Countdown.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "„Es gibt so gut wie keinen Unterschied zwischen dem, was ist, und dem, was sein wird.“<br>– Zilean",
+    "artistName": "Kudos Productions",
+    "name": "Sekundenjahrhundert",
+    "cardCode": "04SH034T3",
+    "keywords": [
+      "Fokus"
+    ],
+    "keywordRefs": [
+      "Focus"
+    ],
+    "spellSpeed": "Sofort",
+    "spellSpeedRef": "Burst",
+    "rarity": "Keine",
+    "rarityRef": "None",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Zauber",
+    "collectible": false,
+    "set": "Set4"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH082.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH082-full.png"
       }
     ],
     "region": "Shurima",
@@ -2487,8 +3478,8 @@
     "attack": 0,
     "cost": 2,
     "health": 0,
-    "description": "Ziehe 1.\r\nWenn du in dieser Runde eine Einheit <link=vocab.Slay><style=Vocab>besiegt</style></link> hast, <link=keyword.Drain><style=Keyword>entziehe</style></link> dem gegnerischen Nexus 2.",
-    "descriptionRaw": "Ziehe 1.\r\nWenn du in dieser Runde eine Einheit besiegt hast, entziehe dem gegnerischen Nexus 2.",
+    "description": "Ziehe 1.\r\nFalls du in dieser Runde eine Einheit <link=vocab.Slay><style=Vocab>besiegt</style></link> hast, <link=keyword.Drain><style=Keyword>entziehe</style></link> dem gegnerischen Nexus 2.",
+    "descriptionRaw": "Ziehe 1.\r\nFalls du in dieser Runde eine Einheit besiegt hast, entziehe dem gegnerischen Nexus 2.",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "Sanddrescher werben ihre Rekruten meist aus den Rängen ihrer Gegner an. Wer ihren ersten Ansturm überlebt, darf beitreten oder sterben.",
@@ -2519,8 +3510,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH075.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH075-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH075.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH075-full.png"
       }
     ],
     "region": "Shurima",
@@ -2558,8 +3549,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH018.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH018-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH018.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH018-full.png"
       }
     ],
     "region": "Shurima",
@@ -2599,8 +3590,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH009.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH009-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH009.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH009-full.png"
       }
     ],
     "region": "Shurima",
@@ -2640,8 +3631,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH049.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH049-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH049.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH049-full.png"
       }
     ],
     "region": "Shurima",
@@ -2677,8 +3668,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH049T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH049T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH049T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH049T1-full.png"
       }
     ],
     "region": "Shurima",
@@ -2714,8 +3705,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH045.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH045-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH045.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH045-full.png"
       }
     ],
     "region": "Shurima",
@@ -2755,8 +3746,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH037.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH037-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH037.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH037-full.png"
       }
     ],
     "region": "Shurima",
@@ -2794,8 +3785,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH107.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH107-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH107.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH107-full.png"
       }
     ],
     "region": "Shurima",
@@ -2838,8 +3829,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH047.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH047-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH047.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH047-full.png"
       }
     ],
     "region": "Shurima",
@@ -2849,8 +3840,8 @@
     "health": 2,
     "description": "Ich habe +1|+1 pro Einheit, die du in diesem Spiel <link=vocab.Slay><style=Vocab>besiegt</style></link> hast. <style=Variable></style>",
     "descriptionRaw": "Ich habe +1|+1 pro Einheit, die du in diesem Spiel besiegt hast. ",
-    "levelupDescription": "Ich <link=vocab.Strike><style=Vocab>schlage</style></link> mit 10+ Stärke zu.",
-    "levelupDescriptionRaw": "Ich schlage mit 10+ Stärke zu.",
+    "levelupDescription": "Ich <link=vocab.Strike><style=Vocab>schlage</style></link> mit 10+ Schaden zu.",
+    "levelupDescriptionRaw": "Ich schlage mit 10+ Schaden zu.",
     "flavorText": "„Nasus’ neu gewonnener Segen ermöglichte es ihm, zahllose Lebensalter mit Studien und dem Sinnen über das Wesen von Leben und Tod zu verbringen. Doch diese verlängerte Lebenszeit sollte nach dem Fall Shurimas auch sein größter Fluch werden.“<br>– Schriftgelehrter Kah’nir, Geschichte des Heers der Aufgestiegenen",
     "artistName": "SIXMOREVODKA",
     "name": "Nasus",
@@ -2881,8 +3872,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH097.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH097-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH097.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH097-full.png"
       }
     ],
     "region": "Shurima",
@@ -2922,8 +3913,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH026.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH026-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH026.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH026-full.png"
       }
     ],
     "region": "Shurima",
@@ -2957,8 +3948,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH102.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH102-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH102.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH102-full.png"
       }
     ],
     "region": "Shurima",
@@ -2992,8 +3983,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH001.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH001-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH001.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH001-full.png"
       }
     ],
     "region": "Shurima",
@@ -3029,8 +4020,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH009T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH009T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH009T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH009T1-full.png"
       }
     ],
     "region": "Shurima",
@@ -3068,8 +4059,47 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH013.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH013-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH030.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH030-full.png"
+      }
+    ],
+    "region": "Shurima",
+    "regionRef": "Shurima",
+    "attack": 0,
+    "cost": 7,
+    "health": 0,
+    "description": "Gib einem verbündeten Champion „Wenn ich das nächste Mal in dieser Runde sterben würde, heile mich stattdessen vollständig und gewähre mir +3|+3“.",
+    "descriptionRaw": "Gib einem verbündeten Champion „Wenn ich das nächste Mal in dieser Runde sterben würde, heile mich stattdessen vollständig und gewähre mir +3|+3“.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "„Wir können das Unvermeidliche nicht aufhalten … aber wir können es verzögern.“<br>– Zilean",
+    "artistName": "Kudos Productions",
+    "name": "Zeitensprung",
+    "cardCode": "04SH030",
+    "keywords": [
+      "Sofort"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "Sofort",
+    "spellSpeedRef": "Burst",
+    "rarity": "SELTEN",
+    "rarityRef": "Rare",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Zauber",
+    "collectible": true,
+    "set": "Set4"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH013.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH013-full.png"
       }
     ],
     "region": "Shurima",
@@ -3104,11 +4134,13 @@
   },
   {
     "associatedCards": [],
-    "associatedCardRefs": [],
+    "associatedCardRefs": [
+      "04SH062T1"
+    ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH062.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH062-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH062.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH062-full.png"
       }
     ],
     "region": "Shurima",
@@ -3146,8 +4178,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH016.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH016-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH016.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH016-full.png"
       }
     ],
     "region": "Shurima",
@@ -3185,8 +4217,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH108.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH108-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH108.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH108-full.png"
       }
     ],
     "region": "Shurima",
@@ -3224,8 +4256,47 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH014.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH014-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH066.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH066-full.png"
+      }
+    ],
+    "region": "Shurima",
+    "regionRef": "Shurima",
+    "attack": 0,
+    "cost": 2,
+    "health": 0,
+    "description": "<link=vocab.Forecast><style=Vocab>Prophezeie</style></link> und <link=vocab.Advance><style=Vocab>zähle</style></link> ein verbündetes Wahrzeichen um 2 herunter.",
+    "descriptionRaw": "Prophezeie und zähle ein verbündetes Wahrzeichen um 2 herunter.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "„Wenn du die Zeit so betrachten würdest wie ich, wüsstest du, dass sie verändert werden kann.“<br>– Zilean",
+    "artistName": "Kudos Productions",
+    "name": "Zeit in einer Flasche",
+    "cardCode": "04SH066",
+    "keywords": [
+      "Fokus"
+    ],
+    "keywordRefs": [
+      "Focus"
+    ],
+    "spellSpeed": "Sofort",
+    "spellSpeedRef": "Burst",
+    "rarity": "GEWÖHNLICH",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Zauber",
+    "collectible": true,
+    "set": "Set4"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH014.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH014-full.png"
       }
     ],
     "region": "Shurima",
@@ -3264,8 +4335,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH047T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH047T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH047T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH047T1-full.png"
       }
     ],
     "region": "Shurima",
@@ -3307,8 +4378,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH047T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH047T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH047T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH047T2-full.png"
       }
     ],
     "region": "Shurima",
@@ -3357,8 +4428,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH047T3.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH047T3-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH047T3.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH047T3-full.png"
       }
     ],
     "region": "Shurima",
@@ -3402,8 +4473,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH021.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH021-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH021.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH021-full.png"
       }
     ],
     "region": "Shurima",
@@ -3441,8 +4512,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH101.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH101-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH101.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH101-full.png"
       }
     ],
     "region": "Shurima",
@@ -3478,8 +4549,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH012.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH012-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH012.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH012-full.png"
       }
     ],
     "region": "Shurima",
@@ -3516,8 +4587,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH020T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH020T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH020T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH020T2-full.png"
       }
     ],
     "region": "Shurima",
@@ -3558,8 +4629,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH020T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH020T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH020T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH020T1-full.png"
       }
     ],
     "region": "Shurima",
@@ -3599,8 +4670,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH031.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH031-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH031.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH031-full.png"
       }
     ],
     "region": "Shurima",
@@ -3638,8 +4709,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH004.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH004-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH004.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH004-full.png"
       }
     ],
     "region": "Shurima",
@@ -3677,8 +4748,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH059.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH059-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH059.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH059-full.png"
       }
     ],
     "region": "Shurima",
@@ -3713,13 +4784,48 @@
   },
   {
     "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH044.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH044-full.png"
+      }
+    ],
+    "region": "Shurima",
+    "regionRef": "Shurima",
+    "attack": 2,
+    "cost": 2,
+    "health": 2,
+    "description": "<link=vocab.Play><style=Vocab>Ausspielen</style></link>: <link=vocab.Advance><style=Vocab>Zähle</style></link> ein verbündetes Wahrzeichen um 2 herunter. ",
+    "descriptionRaw": "Ausspielen: Zähle ein verbündetes Wahrzeichen um 2 herunter. ",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "Die Konstrukte, die Zileans Turm bewachen, trotzen der rauen Wüste schon seit Jahrtausenden, und das liegt nicht nur an ihrer cleveren Bauweise.",
+    "artistName": "Polar Engine",
+    "name": "Betreuer der Uhrwerke",
+    "cardCode": "04SH044",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "GEWÖHNLICH",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Einheit",
+    "collectible": true,
+    "set": "Set4"
+  },
+  {
+    "associatedCards": [],
     "associatedCardRefs": [
       "04SH076T1"
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH076.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH076-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH076.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH076-full.png"
       }
     ],
     "region": "Shurima",
@@ -3759,8 +4865,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH118.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH118-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH118.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH118-full.png"
       }
     ],
     "region": "Shurima",
@@ -3798,8 +4904,43 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH041.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH041-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH072.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH072-full.png"
+      }
+    ],
+    "region": "Shurima",
+    "regionRef": "Shurima",
+    "attack": 1,
+    "cost": 2,
+    "health": 4,
+    "description": "Wenn ich beschworen werde, gewähre verbündeten Champions und Wahrzeichen <link=keyword.SpellShield><sprite name=SpellShield><style=Keyword>Zauberschild</style></link>.",
+    "descriptionRaw": "Wenn ich beschworen werde, gewähre verbündeten Champions und Wahrzeichen Zauberschild.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "„Ah, du hättest nicht erwartet, Wasser mitten in der Wüste vorzufinden. Nur keine Sorge. Komm, trinke nach Herzenslust und wasche deine Füße. Ruhe dich ein wenig im Schatten aus. Das hier ist Azirs neues Shurima und es ist eine Oase.“",
+    "artistName": "Kudos Productions",
+    "name": "Hydromantin",
+    "cardCode": "04SH072",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "GEWÖHNLICH",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Einheit",
+    "collectible": true,
+    "set": "Set4"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH041.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH041-full.png"
       }
     ],
     "region": "Shurima",
@@ -3833,8 +4974,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH005.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH005-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH005.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH005-full.png"
       }
     ],
     "region": "Shurima",
@@ -3868,8 +5009,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH046.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH046-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH046.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH046-full.png"
       }
     ],
     "region": "Shurima",
@@ -3900,11 +5041,13 @@
   },
   {
     "associatedCards": [],
-    "associatedCardRefs": [],
+    "associatedCardRefs": [
+      "04SH062"
+    ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH062T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH062T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH062T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH062T1-full.png"
       }
     ],
     "region": "Shurima",
@@ -3912,8 +5055,8 @@
     "attack": 0,
     "cost": 0,
     "health": 0,
-    "description": "Ziehe sofort 1 von jedem deiner Aufgestiegenen.\r\nFür den Rest des Spiels sind deine Aufgestiegenen der Stufe 2 auf Stufe 3.",
-    "descriptionRaw": "Ziehe sofort 1 von jedem deiner Aufgestiegenen.\r\nFür den Rest des Spiels sind deine Aufgestiegenen der Stufe 2 auf Stufe 3.",
+    "description": "Ziehe sofort 1 von jedem deiner verbündeten Aufgestiegenen.\r\nFür den Rest des Spiels sind deine verbündeten Aufgestiegenen der Stufe 2 auf Stufe 3.",
+    "descriptionRaw": "Ziehe sofort 1 von jedem deiner verbündeten Aufgestiegenen.\r\nFür den Rest des Spiels sind deine verbündeten Aufgestiegenen der Stufe 2 auf Stufe 3.",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "„Shurima hat heute Ruhm ohnegleichen erlebt. Kommt und badet im Licht unserer Sonne!“<br>– Stimme der Auferstandenen",
@@ -3938,8 +5081,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH018T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH018T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH018T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH018T2-full.png"
       }
     ],
     "region": "Shurima",
@@ -3977,8 +5120,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH018T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH018T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH018T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH018T1-full.png"
       }
     ],
     "region": "Shurima",
@@ -4018,8 +5161,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH105.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH105-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH105.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH105-full.png"
       }
     ],
     "region": "Shurima",
@@ -4057,8 +5200,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH069.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH069-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH069.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH069-full.png"
       }
     ],
     "region": "Shurima",
@@ -4096,8 +5239,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH121.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH121-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH121.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH121-full.png"
       }
     ],
     "region": "Shurima",
@@ -4135,8 +5278,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH121T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH121T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH121T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH121T1-full.png"
       }
     ],
     "region": "Shurima",
@@ -4174,8 +5317,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH121T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH121T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH121T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH121T2-full.png"
       }
     ],
     "region": "Shurima",
@@ -4215,8 +5358,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH097T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH097T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH097T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH097T1-full.png"
       }
     ],
     "region": "Shurima",
@@ -4254,8 +5397,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH110.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH110-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH110.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH110-full.png"
       }
     ],
     "region": "Shurima",
@@ -4295,8 +5438,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH051.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH051-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH051.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH051-full.png"
       }
     ],
     "region": "Shurima",
@@ -4334,8 +5477,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH106.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH106-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH106.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH106-full.png"
       }
     ],
     "region": "Shurima",
@@ -4373,8 +5516,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH109.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH109-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH109.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH109-full.png"
       }
     ],
     "region": "Shurima",
@@ -4412,8 +5555,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH090.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SH090-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH090.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SH090-full.png"
       }
     ],
     "region": "Shurima",
@@ -4450,8 +5593,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04FR006.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04FR006-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04FR006.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04FR006-full.png"
       }
     ],
     "region": "Freljord",
@@ -4482,11 +5625,52 @@
   },
   {
     "associatedCards": [],
+    "associatedCardRefs": [
+      "04FR007T1"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04FR012.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04FR012-full.png"
+      }
+    ],
+    "region": "Freljord",
+    "regionRef": "Freljord",
+    "attack": 0,
+    "cost": 9,
+    "health": 0,
+    "description": "<link=keyword.Obliterate><style=Keyword>Vernichte</style></link> alle Gegner, um an ihrer Stelle je 1 <link=card.create><style=AssociatedCard>Eisgrab</style></link> zu beschwören.",
+    "descriptionRaw": "Vernichte alle Gegner, um an ihrer Stelle je 1 Eisgrab zu beschwören.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "„Irgendwann überkommt die Kälte alle.“<br>– Lissandra",
+    "artistName": "Kudos Productions",
+    "name": "Unter Eis begraben",
+    "cardCode": "04FR012",
+    "keywords": [
+      "Langsam"
+    ],
+    "keywordRefs": [
+      "Slow"
+    ],
+    "spellSpeed": "Langsam",
+    "spellSpeedRef": "Slow",
+    "rarity": "EPISCH",
+    "rarityRef": "Epic",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Zauber",
+    "collectible": true,
+    "set": "Set4"
+  },
+  {
+    "associatedCards": [],
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04FR016.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04FR016-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04FR016.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04FR016-full.png"
       }
     ],
     "region": "Freljord",
@@ -4524,8 +5708,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04FR001T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04FR001T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04FR001T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04FR001T1-full.png"
       }
     ],
     "region": "Freljord",
@@ -4563,8 +5747,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04FR013.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04FR013-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04FR013.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04FR013-full.png"
       }
     ],
     "region": "Freljord",
@@ -4610,8 +5794,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04FR005.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04FR005-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04FR005.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04FR005-full.png"
       }
     ],
     "region": "Freljord",
@@ -4651,8 +5835,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04FR005T4.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04FR005T4-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04FR005T4.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04FR005T4-full.png"
       }
     ],
     "region": "Freljord",
@@ -4694,8 +5878,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04FR005T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04FR005T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04FR005T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04FR005T1-full.png"
       }
     ],
     "region": "Freljord",
@@ -4739,8 +5923,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04FR005T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04FR005T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04FR005T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04FR005T2-full.png"
       }
     ],
     "region": "Freljord",
@@ -4776,12 +5960,54 @@
   {
     "associatedCards": [],
     "associatedCardRefs": [
+      "04FR001",
       "04FR001T1"
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04FR001.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04FR001-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04FR011.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04FR011-full.png"
+      }
+    ],
+    "region": "Freljord",
+    "regionRef": "Freljord",
+    "attack": 0,
+    "cost": 4,
+    "health": 0,
+    "description": "<link=keyword.Frostbite><sprite name=Frostbite><style=Keyword>Friere</style></link> einen Gegner ein.\r\nBeschwöre 1 <link=card.create><style=AssociatedCard>Gefrorener Diener</style></link>.",
+    "descriptionRaw": "Friere einen Gegner ein.\r\nBeschwöre 1 Gefrorener Diener.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "„Jeder reagiert anders auf Kälte. Wie sieht es bei dir aus?“<br>– Lissandra",
+    "artistName": "Kudos Productions",
+    "name": "Der Kälte erlegen",
+    "cardCode": "04FR011",
+    "keywords": [
+      "Sofort"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "Sofort",
+    "spellSpeedRef": "Burst",
+    "rarity": "GEWÖHNLICH",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Zauber",
+    "collectible": true,
+    "set": "Set4"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "04FR001T1"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04FR001.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04FR001-full.png"
       }
     ],
     "region": "Freljord",
@@ -4821,8 +6047,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04FR007.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04FR007-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04FR007.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04FR007-full.png"
       }
     ],
     "region": "Freljord",
@@ -4860,8 +6086,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04FR007T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04FR007T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04FR007T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04FR007T1-full.png"
       }
     ],
     "region": "Freljord",
@@ -4899,8 +6125,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04FR017.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04FR017-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04FR017.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04FR017-full.png"
       }
     ],
     "region": "Freljord",
@@ -4938,8 +6164,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04FR014.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04FR014-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04FR014.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04FR014-full.png"
       }
     ],
     "region": "Freljord",
@@ -4977,8 +6203,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04FR009.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04FR009-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04FR009.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04FR009-full.png"
       }
     ],
     "region": "Freljord",
@@ -5021,8 +6247,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04FR010.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04FR010-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04FR010.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04FR010-full.png"
       }
     ],
     "region": "Freljord",
@@ -5060,8 +6286,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04NX002.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04NX002-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04NX002.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04NX002-full.png"
       }
     ],
     "region": "Noxus",
@@ -5101,8 +6327,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04NX010.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04NX010-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04NX010.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04NX010-full.png"
       }
     ],
     "region": "Noxus",
@@ -5136,8 +6362,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04NX015.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04NX015-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04NX015.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04NX015-full.png"
       }
     ],
     "region": "Noxus",
@@ -5175,8 +6401,78 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04NX006.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04NX006-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04NX019.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04NX019-full.png"
+      }
+    ],
+    "region": "Noxus",
+    "regionRef": "Noxus",
+    "attack": 2,
+    "cost": 1,
+    "health": 1,
+    "description": "Wenn mich ein Gegner abwehrt, gib mir in dieser Runde +3|+0.",
+    "descriptionRaw": "Wenn mich ein Gegner abwehrt, gib mir in dieser Runde +3|+0.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "Der junge General war von der Widerstandskraft der Kreatur überrascht, die sie an der Küste von Ionia gefunden hatten. Er bestand darauf, sie mit nach Hause zu nehmen, um herauszufinden, wie stark sie wirklich war.",
+    "artistName": "Kudos Productions",
+    "name": "Wehrhafter Schnapper",
+    "cardCode": "04NX019",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "EPISCH",
+    "rarityRef": "Epic",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Einheit",
+    "collectible": true,
+    "set": "Set4"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04NX008.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04NX008-full.png"
+      }
+    ],
+    "region": "Noxus",
+    "regionRef": "Noxus",
+    "attack": 4,
+    "cost": 8,
+    "health": 5,
+    "description": "<link=vocab.Aftermath><style=Vocab>Ruf</style></link>: Ich koste 6. <style=Variable></style>\r\nWenn ich beschworen werde, <link=vocab.Rally><style=Vocab>mobilisiere</style></link> dich.",
+    "descriptionRaw": "Ruf: Ich koste 6. \r\nWenn ich beschworen werde, mobilisiere dich.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "In den inneren Kammern der schwarzen Rose verschieben noxianische Adelige ihre Spielsteine und in weiter Ferne werden ihre Opfer ermordet.",
+    "artistName": "Kudos Productions",
+    "name": "Versierter Taktiker",
+    "cardCode": "04NX008",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "SELTEN",
+    "rarityRef": "Rare",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Einheit",
+    "collectible": true,
+    "set": "Set4"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04NX006.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04NX006-full.png"
       }
     ],
     "region": "Noxus",
@@ -5210,8 +6506,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04NX001.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04NX001-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04NX001.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04NX001-full.png"
       }
     ],
     "region": "Noxus",
@@ -5253,8 +6549,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04NX004.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04NX004-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04NX004.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04NX004-full.png"
       }
     ],
     "region": "Noxus",
@@ -5295,8 +6591,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04NX004T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04NX004T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04NX004T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04NX004T1-full.png"
       }
     ],
     "region": "Noxus",
@@ -5334,8 +6630,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04NX005.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04NX005-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04NX005.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04NX005-full.png"
       }
     ],
     "region": "Noxus",
@@ -5377,8 +6673,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04NX004T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04NX004T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04NX004T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04NX004T2-full.png"
       }
     ],
     "region": "Noxus",
@@ -5416,8 +6712,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04NX016.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04NX016-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04NX016.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04NX016-full.png"
       }
     ],
     "region": "Noxus",
@@ -5453,8 +6749,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04NX018.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04NX018-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04NX018.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04NX018-full.png"
       }
     ],
     "region": "Noxus",
@@ -5488,8 +6784,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04NX003.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04NX003-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04NX003.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04NX003-full.png"
       }
     ],
     "region": "Noxus",
@@ -5529,8 +6825,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04NX017.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04NX017-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04NX017.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04NX017-full.png"
       }
     ],
     "region": "Noxus",
@@ -5571,8 +6867,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SI005.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SI005-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SI005.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SI005-full.png"
       }
     ],
     "region": "Schatteninseln",
@@ -5613,8 +6909,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SI005T4.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SI005T4-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SI005T4.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SI005T4-full.png"
       }
     ],
     "region": "Schatteninseln",
@@ -5655,8 +6951,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SI005T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SI005T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SI005T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SI005T1-full.png"
       }
     ],
     "region": "Schatteninseln",
@@ -5694,8 +6990,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SI016.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SI016-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SI016.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SI016-full.png"
       }
     ],
     "region": "Schatteninseln",
@@ -5731,8 +7027,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SI007.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SI007-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SI007.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SI007-full.png"
       }
     ],
     "region": "Schatteninseln",
@@ -5770,8 +7066,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SI011.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SI011-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SI011.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SI011-full.png"
       }
     ],
     "region": "Schatteninseln",
@@ -5809,8 +7105,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SI015.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SI015-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SI015.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SI015-full.png"
       }
     ],
     "region": "Schatteninseln",
@@ -5849,11 +7145,122 @@
   },
   {
     "associatedCards": [],
+    "associatedCardRefs": [
+      "04SI004T2",
+      "04SI004T1",
+      "04SI014"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SI004.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SI004-full.png"
+      }
+    ],
+    "region": "Schatteninseln",
+    "regionRef": "ShadowIsles",
+    "attack": 0,
+    "cost": 1,
+    "health": 1,
+    "description": "<link=vocab.Play><style=Vocab>Ausspielen</style></link>: Spiele mich als <link=card.create1><style=AssociatedCard>Erste Welle</style></link> oder <link=card.create2><style=AssociatedCard>Letzter Hauch</style></link> aus.",
+    "descriptionRaw": "Ausspielen: Spiele mich als Erste Welle oder Letzter Hauch aus.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "Die Kinkou kennen nur zwei Götter: Die erste Welle, die das Leben in ihrem warmen Wasser wiegt, und den letzten Lufthauch, der es mit seinem frostigen Seufzen an sich reißt.",
+    "artistName": "Wild Blue",
+    "name": "Die Schwingen und die Welle",
+    "cardCode": "04SI004",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "EPISCH",
+    "rarityRef": "Epic",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Einheit",
+    "collectible": true,
+    "set": "Set4"
+  },
+  {
+    "associatedCards": [],
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SI017.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SI017-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SI004T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SI004T1-full.png"
+      }
+    ],
+    "region": "Schatteninseln",
+    "regionRef": "ShadowIsles",
+    "attack": 3,
+    "cost": 1,
+    "health": 3,
+    "description": "Töte einen Verbündeten, um mich auszuspielen.",
+    "descriptionRaw": "Töte einen Verbündeten, um mich auszuspielen.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "Was ist das Leben ohne den Tod?",
+    "artistName": "Wild Blue",
+    "name": "Letzter Hauch",
+    "cardCode": "04SI004T1",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "Keine",
+    "rarityRef": "None",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Einheit",
+    "collectible": false,
+    "set": "Set4"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "04SI014"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SI004T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SI004T2-full.png"
+      }
+    ],
+    "region": "Schatteninseln",
+    "regionRef": "ShadowIsles",
+    "attack": 0,
+    "cost": 1,
+    "health": 1,
+    "description": "Wenn ich beschworen werde, beschwöre 1 <link=card.summon><style=AssociatedCard>Beute</style></link>.",
+    "descriptionRaw": "Wenn ich beschworen werde, beschwöre 1 Beute.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "Was ist der Tod ohne das Leben?",
+    "artistName": "Wild Blue",
+    "name": "Erste Welle",
+    "cardCode": "04SI004T2",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "Keine",
+    "rarityRef": "None",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Einheit",
+    "collectible": false,
+    "set": "Set4"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SI017.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SI017-full.png"
       }
     ],
     "region": "Schatteninseln",
@@ -5891,8 +7298,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SI001.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SI001-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SI001.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SI001-full.png"
       }
     ],
     "region": "Schatteninseln",
@@ -5930,8 +7337,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SI009.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SI009-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SI009.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SI009-full.png"
       }
     ],
     "region": "Schatteninseln",
@@ -5967,8 +7374,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SI013.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SI013-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SI013.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SI013-full.png"
       }
     ],
     "region": "Schatteninseln",
@@ -6006,8 +7413,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SI007T3.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SI007T3-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SI007T3.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SI007T3-full.png"
       }
     ],
     "region": "Schatteninseln",
@@ -6045,8 +7452,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SI002.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SI002-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SI002.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SI002-full.png"
       }
     ],
     "region": "Schatteninseln",
@@ -6086,8 +7493,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SI003.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SI003-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SI003.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SI003-full.png"
       }
     ],
     "region": "Schatteninseln",
@@ -6121,8 +7528,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SI014.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04SI014-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SI014.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04SI014-full.png"
       }
     ],
     "region": "Schatteninseln",
@@ -6153,51 +7560,127 @@
   },
   {
     "associatedCards": [],
-    "associatedCardRefs": [
-      "01PZ056T1",
-      "01PZ056T4",
-      "01PZ056T7",
-      "01PZ056T8",
-      "01PZ056T9",
-      "01PZ056T2",
-      "01PZ056T6",
-      "01PZ056T5",
-      "01PZ015"
-    ],
+    "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04PZ014.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04PZ014-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04MT014.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04MT014-full.png"
       }
     ],
-    "region": "Piltover & Zhaun",
-    "regionRef": "PiltoverZaun",
+    "region": "Targon",
+    "regionRef": "Targon",
     "attack": 0,
-    "cost": 0,
+    "cost": 5,
     "health": 0,
-    "description": "Verbrauche zum Ausspielen dein gesamtes Mana. Beschwöre zufällige Geschütztürme, deren Gesamtkosten dem ausgegebenen Mana entsprechen.",
-    "descriptionRaw": "Verbrauche zum Ausspielen dein gesamtes Mana. Beschwöre zufällige Geschütztürme, deren Gesamtkosten dem ausgegebenen Mana entsprechen.",
+    "description": "<link=vocab.Buried><style=Vocab>Countdown 1</style></link><style=Variable></style>: <link=keyword.Stun><sprite name=Stunned><style=Keyword>Betäube</style></link> die 2 <link=keyword.Weakest><style=Keyword>schwächsten</style></link> Gegner.\r\n<link=keyword.Daybreak><style=Keyword>Tagesanbruch</style></link>: Beschwöre eine Kopie von mir mit <link=vocab.Buried><style=Vocab>Countdown</style></link> 2.",
+    "descriptionRaw": "Countdown 1: Betäube die 2 schwächsten Gegner.\r\nTagesanbruch: Beschwöre eine Kopie von mir mit Countdown 2.",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
-    "flavorText": "„Zu wenige Ressourcen?! Ich habe damals meine erste mechanische Apparatur aus weggeworfenen Uhrwerken und einem rostigen Thermalkondensator gebaut. Für einen findigen Wissenschaftler gibt es keine Ausreden!“<br>– Heimerdinger",
+    "flavorText": "„Möge die Sonne uns mit ihrem Licht segnen. Die Schwachen und Unwürdigen werden unter ihrem Blick zurückweichen!“<br>– Priesterin der Solari",
     "artistName": "Kudos Productions",
-    "name": "Produktionsschub",
-    "cardCode": "04PZ014",
+    "name": "Auge der Ra-Horak",
+    "cardCode": "04MT014",
     "keywords": [
-      "Langsam"
+      "Wahrzeichen"
     ],
     "keywordRefs": [
-      "Slow"
+      "LandmarkVisualOnly"
     ],
-    "spellSpeed": "Langsam",
-    "spellSpeedRef": "Slow",
+    "spellSpeed": "",
+    "spellSpeedRef": "",
     "rarity": "SELTEN",
     "rarityRef": "Rare",
     "subtype": "",
     "subtypes": [],
     "supertype": "",
-    "type": "Zauber",
+    "type": "Wahrzeichen",
     "collectible": true,
+    "set": "Set4"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "04MT008T1",
+      "04MT008T5",
+      "04MT008T4"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04MT008.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04MT008-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 6,
+    "cost": 7,
+    "health": 10,
+    "description": "",
+    "descriptionRaw": "",
+    "levelupDescription": "Du hast Wahrzeichen für insgesamt 12+ Mana beschworen<style=Variable></style>. Wenn ich eine Stufe aufsteige und du die Angriffsmarke hast, erschaffe 1 Unaufhaltsame Wucht auf der Hand.",
+    "levelupDescriptionRaw": "Du hast Wahrzeichen für insgesamt 12+ Mana beschworen. Wenn ich eine Stufe aufsteige und du die Angriffsmarke hast, erschaffe 1 Unaufhaltsame Wucht auf der Hand.",
+    "flavorText": "„Daf ift der lepfte Halt auf Kiefels Targon-Tour! Daf ift PAPA! Er ift der GRÖFFTE von Targonf Riefen und er fingt voll gut. Aber nicht auf ihn draufklettern! Die Spfitzen kitzeln ihn und ef wär echt blöd, wenn er nieft, wenn du halb oben bift!“\n– Abenteuer mit Kiesel, Teil 6",
+    "artistName": "SIXMOREVODKA",
+    "name": "Malphite",
+    "cardCode": "04MT008",
+    "keywords": [
+      "Robust"
+    ],
+    "keywordRefs": [
+      "Tough"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "Champion",
+    "rarityRef": "Champion",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "Champion",
+    "type": "Einheit",
+    "collectible": true,
+    "set": "Set4"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "04MT008",
+      "04MT008T5",
+      "04MT008T4"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04MT008T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04MT008T1-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 7,
+    "cost": 7,
+    "health": 11,
+    "description": "Wenn ich beschworen werde oder bei <link=vocab.RoundStart><style=Vocab>Rundenbeginn</style></link>: Wenn du die Angriffsmarke hast, erschaffe 1 <link=card.cast><style=AssociatedCard>Unaufhaltsame Wucht</style></link> auf der Hand.",
+    "descriptionRaw": "Wenn ich beschworen werde oder bei Rundenbeginn: Wenn du die Angriffsmarke hast, erschaffe 1 Unaufhaltsame Wucht auf der Hand.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "„Bumm, bumm, bumm!“",
+    "artistName": "SIXMOREVODKA",
+    "name": "Malphite",
+    "cardCode": "04MT008T1",
+    "keywords": [
+      "Robust"
+    ],
+    "keywordRefs": [
+      "Tough"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "Keine",
+    "rarityRef": "None",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "Champion",
+    "type": "Einheit",
+    "collectible": false,
     "set": "Set4"
   },
   {
@@ -6205,38 +7688,82 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04PZ010.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04PZ010-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04MT008T4.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04MT008T4-full.png"
       }
     ],
-    "region": "Piltover & Zhaun",
-    "regionRef": "PiltoverZaun",
+    "region": "Targon",
+    "regionRef": "Targon",
     "attack": 0,
-    "cost": 1,
+    "cost": 2,
     "health": 0,
-    "description": "Rest des Spiels: Wenn du in einer Runde zum ersten Mal einen Begleiter ausspielst, wähle 1 von 3 Begleitern mit denselben Kosten, in den er verwandelt werden soll.",
-    "descriptionRaw": "Rest des Spiels: Wenn du in einer Runde zum ersten Mal einen Begleiter ausspielst, wähle 1 von 3 Begleitern mit denselben Kosten, in den er verwandelt werden soll.",
+    "description": "<link=keyword.Stun><sprite name=Stunned><style=Keyword>Betäube</style></link> alle Gegner.",
+    "descriptionRaw": "Betäube alle Gegner.",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
-    "flavorText": "„Wir spielen nach MEINEN Regeln.“<br>– Ekko",
+    "flavorText": "„STEIN. HART.“<br>– Malphite",
     "artistName": "Kudos Productions",
-    "name": "Parallele Zeitstränge",
-    "cardCode": "04PZ010",
+    "name": "Unaufhaltsame Wucht",
+    "cardCode": "04MT008T4",
     "keywords": [
-      "Langsam"
+      "Langsam",
+      "Flüchtig"
     ],
     "keywordRefs": [
-      "Slow"
+      "Slow",
+      "Fleeting"
     ],
     "spellSpeed": "Langsam",
     "spellSpeedRef": "Slow",
-    "rarity": "EPISCH",
-    "rarityRef": "Epic",
+    "rarity": "Keine",
+    "rarityRef": "None",
     "subtype": "",
     "subtypes": [],
     "supertype": "",
     "type": "Zauber",
-    "collectible": true,
+    "collectible": false,
+    "set": "Set4"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "04MT008T1",
+      "04MT008"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04MT008T5.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04MT008T5-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 4,
+    "health": 0,
+    "description": "<link=keyword.Stun><sprite name=Stunned><style=Keyword>Betäube</style></link> eine Einheit. Verursache 3 Schaden an ihr, falls du in diesem Spiel ein Wahrzeichen beschworen hast.\r\nErschaffe einen <link=card.level1><style=AssociatedCard>Malphite</style></link> in deinem Deck.",
+    "descriptionRaw": "Betäube eine Einheit. Verursache 3 Schaden an ihr, falls du in diesem Spiel ein Wahrzeichen beschworen hast.\r\nErschaffe einen Malphite in deinem Deck.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "„Huuch, jupp, da wackelt nur der Boden, daf ift nicht Papa, der nix mit den Händen macht, NIEMALF OKAY, lof weiter im TAKT!“<br>– Kiesel",
+    "artistName": "Kudos Productions",
+    "name": "Malphites Bodenschlag",
+    "cardCode": "04MT008T5",
+    "keywords": [
+      "Schnell"
+    ],
+    "keywordRefs": [
+      "Fast"
+    ],
+    "spellSpeed": "Schnell",
+    "spellSpeedRef": "Fast",
+    "rarity": "Keine",
+    "rarityRef": "None",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "Champion",
+    "type": "Zauber",
+    "collectible": false,
     "set": "Set4"
   },
   {
@@ -6244,8 +7771,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04MT010.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04MT010-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04MT010.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04MT010-full.png"
       }
     ],
     "region": "Targon",
@@ -6283,8 +7810,357 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04MT012.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04MT012-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04MT005.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04MT005-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 1,
+    "cost": 1,
+    "health": 1,
+    "description": "Sobald du in diesem Spiel ein Wahrzeichen beschworen hast, gewähre mir +2|+2.",
+    "descriptionRaw": "Sobald du in diesem Spiel ein Wahrzeichen beschworen hast, gewähre mir +2|+2.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "„Okay, alfo, hallo, ich bin Kiefel und ich pfeig euch heute Targon! Ef ift waaaahnfinnig groff und hoch, alfo habt ihr hoffentlich alle Pfuhe zum Wandern an! Lof GEHPFT!“\n– Abenteuer mit Kiesel, Teil 1",
+    "artistName": "Polar Engine",
+    "name": "Kiesel",
+    "cardCode": "04MT005",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "GEWÖHNLICH",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Einheit",
+    "collectible": true,
+    "set": "Set4"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "04MT009T1"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04MT009.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04MT009-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 3,
+    "health": 0,
+    "description": "<link=vocab.Buried><style=Vocab>Countdown 3</style></link><style=Variable></style>: Erschaffe 1 <link=card.create><style=AssociatedCard>Saat der Stärke</style></link> auf der Hand.",
+    "descriptionRaw": "Countdown 3: Erschaffe 1 Saat der Stärke auf der Hand.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "„Hier ift die erfte Attraktion der Tour! Ich nenne daf den Kniewabbler, weil UIIII find da viele Ftufen! Und auch eine coole Aufficht, und daf ift das Befte an Targon. Okay, LOF GEHPFT!“\n– Abenteuer mit Kiesel, Teil 2",
+    "artistName": "Polar Engine",
+    "name": "Wendelstufen",
+    "cardCode": "04MT009",
+    "keywords": [
+      "Wahrzeichen"
+    ],
+    "keywordRefs": [
+      "LandmarkVisualOnly"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "SELTEN",
+    "rarityRef": "Rare",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Wahrzeichen",
+    "collectible": true,
+    "set": "Set4"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04MT009T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04MT009T1-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 0,
+    "health": 0,
+    "description": "Gewähre einem Verbündeten +3|+2 und <link=keyword.Overwhelm><sprite name=Overwhelm><style=Keyword>Überwältigen</style></link>.",
+    "descriptionRaw": "Gewähre einem Verbündeten +3|+2 und Überwältigen.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "„OH, HAB ICH VERGEFFEN: Alfo du denkpft wahrpf … wahrpffff … wahrfeinlich, daff deine Beine uiiiii müde find, aba ich feh hier Leute viel rumlaufen und früher oder fpäter haben die VOLL VIELE Mufkeln! Alfo weitermachen und LOF! NOCH MAL!“\n– Abenteuer mit Kiesel, Teil 2.1",
+    "artistName": "Kudos Productions",
+    "name": "Saat der Stärke",
+    "cardCode": "04MT009T1",
+    "keywords": [
+      "Langsam",
+      "Flüchtig"
+    ],
+    "keywordRefs": [
+      "Slow",
+      "Fleeting"
+    ],
+    "spellSpeed": "Langsam",
+    "spellSpeedRef": "Slow",
+    "rarity": "Keine",
+    "rarityRef": "None",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Zauber",
+    "collectible": false,
+    "set": "Set4"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04MT001.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04MT001-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 2,
+    "health": 0,
+    "description": "<link=vocab.Buried><style=Vocab>Countdown 2</style></link><style=Variable></style>: <link=keyword.Obliterate><style=Keyword>Vernichte</style></link> den <link=keyword.Weakest><style=Keyword>schwächsten</style></link> Gegner.",
+    "descriptionRaw": "Countdown 2: Vernichte den schwächsten Gegner.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "„Okay, dann pafft mal AAALLE gut auf, weil daf if ein TIEFER FALL und ich bin pfon ein paar Mal hier runter gefallen und GLAUBT MIR, da geht ef echt weit runter! Und ich bin aus Ftein, also hüpfe ich nur ein biffchen, aber ihr nicht … also pafft gut … Oooh, da ift Kliff! Fagen wir hallo!“\n– Abenteuer mit Kiesel, Teil 3",
+    "artistName": "Polar Engine",
+    "name": "Steinschlagpfad",
+    "cardCode": "04MT001",
+    "keywords": [
+      "Wahrzeichen"
+    ],
+    "keywordRefs": [
+      "LandmarkVisualOnly"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "GEWÖHNLICH",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Wahrzeichen",
+    "collectible": true,
+    "set": "Set4"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "04MT004T1"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04MT004.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04MT004-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 2,
+    "cost": 2,
+    "health": 3,
+    "description": "<link=keyword.Last Breath><sprite name=LastBreath><style=Keyword>Letzter Wunsch</style></link>: Beschwöre 1 <link=card.create><style=AssociatedCard>Grat der Erkenntnis</style></link>.",
+    "descriptionRaw": "Letzter Wunsch: Beschwöre 1 Grat der Erkenntnis.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "„Okay, fagt alle mal „HALLO, BLAU!“ HALLO, BLAU! Okay, einmal dachte ich, daff er „HALLO, BLAU!“ pfurückgefagt hätte, aber wo ich fo drüber nachdenke, war daf nur mein Echo. NA JA, er ift wirklich magiff und fo, und blau, also MUFF er auch gar nicht reden, wenn du mich fragft! OKAY BIF BALD BLAU, LOF GEHPFT!“\n– Abenteuer mit Kiesel, Teil 5",
+    "artistName": "MAR Studio",
+    "name": "Blauer Wächter",
+    "cardCode": "04MT004",
+    "keywords": [
+      "Letzter Wunsch"
+    ],
+    "keywordRefs": [
+      "LastBreath"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "GEWÖHNLICH",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Einheit",
+    "collectible": true,
+    "set": "Set4"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "04MT013T1"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04MT013.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04MT013-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 2,
+    "cost": 2,
+    "health": 3,
+    "description": "<link=keyword.PlaySkillMark><sprite name=PlaySkillMark><style=Keyword></style></link><link=keyword.Daybreak><style=Keyword>Tagesanbruch</style></link>: <link=keyword.Stun><sprite name=Stunned><style=Keyword>Betäube</style></link> den <link=vocab.Strongest><style=Vocab>stärksten</style></link> Gegner.",
+    "descriptionRaw": "Tagesanbruch: Betäube den stärksten Gegner.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "Die Solari glauben, dass es die schillernden Sonnenfalken des Targon waren, die die Aufmerksamkeit des Unsterblichen Feuers auf sich zogen und sie zu ihrem Zyklus aus Tod und Wiedergeburt inspirierten.",
+    "artistName": "Kudos Productions",
+    "name": "Sonnenfalke der Solari",
+    "cardCode": "04MT013",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "GEWÖHNLICH",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Einheit",
+    "collectible": true,
+    "set": "Set4"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04MT003.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04MT003-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 3,
+    "cost": 4,
+    "health": 5,
+    "description": "Sobald du in diesem Spiel 4+ Wahrzeichen beschworen hast, gewähre mir +3|+0. <style=Variable></style>",
+    "descriptionRaw": "Sobald du in diesem Spiel 4+ Wahrzeichen beschworen hast, gewähre mir +3|+0. ",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "„Also, daf if KLIFF! Er iff’n groffer Kerl, der pfon ECHT LANGE hier rumrennt, daf kannfte dir merken. Ich weiff, er fieht echt cool auf und pfeint nett zu fein, aber der hat ein pfweres Päckchen zu tragen und manchmal fällt daf auf Leute, alfo AUFPAFFEN, okay? Danke und weiter gehpft!“\n– Abenteuer mit Kiesel, Teil 4",
+    "artistName": "Polar Engine",
+    "name": "Erdelementar",
+    "cardCode": "04MT003",
+    "keywords": [
+      "Überwältigen"
+    ],
+    "keywordRefs": [
+      "Overwhelm"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "GEWÖHNLICH",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Einheit",
+    "collectible": true,
+    "set": "Set4"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04MT004T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04MT004T1-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 2,
+    "health": 0,
+    "description": "<link=vocab.Buried><style=Vocab>Countdown 1</style></link><style=Variable></style>: Erhalte in dieser Runde einen zusätzlichen Manastein.",
+    "descriptionRaw": "Countdown 1: Erhalte in dieser Runde einen zusätzlichen Manastein.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "„Daf ift Blauf liiiiiiebfter Ort auf der ganfen weiten Welt! Er fagt, er ift DOLL magiff! Oooh, ahhh!“<br>– Kiesel",
+    "artistName": "Polar Engine",
+    "name": "Grat der Erkenntnis",
+    "cardCode": "04MT004T1",
+    "keywords": [
+      "Wahrzeichen"
+    ],
+    "keywordRefs": [
+      "LandmarkVisualOnly"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "Keine",
+    "rarityRef": "None",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Wahrzeichen",
+    "collectible": false,
+    "set": "Set4"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "04MT002T2"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04MT002.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04MT002-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 6,
+    "cost": 6,
+    "health": 4,
+    "description": "<link=keyword.PlaySkillMark><sprite name=PlaySkillMark><style=Keyword>Ausspielen</style></link>: Wenn du in diesem Spiel 4+ Wahrzeichen beschworen hast, verursache 4 Schaden an einem Gegner und 2 am gegnerischen Nexus. <style=Variable></style>",
+    "descriptionRaw": "Ausspielen: Wenn du in diesem Spiel 4+ Wahrzeichen beschworen hast, verursache 4 Schaden an einem Gegner und 2 am gegnerischen Nexus. ",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "Hin und wieder erwachen die großen Kolosse von Targon aus ihrem Schlaf und machen sich zu den neuen Gebieten an der Spitze des großen Berges auf. Dieses Ereignis geht nie ruhig vonstatten und ist selten sicher.",
+    "artistName": "Polar Engine",
+    "name": "Steinbrecher",
+    "cardCode": "04MT002",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "EPISCH",
+    "rarityRef": "Epic",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Einheit",
+    "collectible": true,
+    "set": "Set4"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04MT012.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04MT012-full.png"
       }
     ],
     "region": "Targon",
@@ -6322,8 +8198,854 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04DE014.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04DE014-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04MT007.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04MT007-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 2,
+    "cost": 4,
+    "health": 3,
+    "description": "<link=keyword.Stun><sprite name=Stunned><style=Keyword>Betäube</style></link> eine Einheit. Verursache 3 Schaden an ihr, falls du in diesem Spiel ein Wahrzeichen beschworen hast.",
+    "descriptionRaw": "Betäube eine Einheit. Verursache 3 Schaden an ihr, falls du in diesem Spiel ein Wahrzeichen beschworen hast.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "„Huuch, jupp, da wackelt nur der Boden, daf ift nicht Papa, der nix mit den Händen macht, NIEMALF OKAY, lof weiter im TAKT!“<br>– Kiesel",
+    "artistName": "Kudos Productions",
+    "name": "Bodenschlag ",
+    "cardCode": "04MT007",
+    "keywords": [
+      "Schnell"
+    ],
+    "keywordRefs": [
+      "Fast"
+    ],
+    "spellSpeed": "Schnell",
+    "spellSpeedRef": "Fast",
+    "rarity": "SELTEN",
+    "rarityRef": "Rare",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Zauber",
+    "collectible": true,
+    "set": "Set4"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04MT013T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04MT013T1-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 0,
+    "health": 0,
+    "description": "<link=keyword.Stun><sprite name=Stunned><style=Keyword>Betäube</style></link> den <link=vocab.Strongest><style=Vocab>stärksten</style></link> Gegner.",
+    "descriptionRaw": "Betäube den stärksten Gegner.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "Manche Solari behaupten, dass der helle Schein des Sonnenfalken eine Botschaft des Vogels an das Unsterbliche Feuer selbst sein soll.",
+    "artistName": "Kudos Productions",
+    "name": "Blendendes Gefieder",
+    "cardCode": "04MT013T1",
+    "keywords": [
+      "Fertigkeit"
+    ],
+    "keywordRefs": [
+      "Skill"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "Keine",
+    "rarityRef": "None",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Fertigkeit",
+    "collectible": false,
+    "set": "Set4"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04MT002T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04MT002T2-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 0,
+    "health": 0,
+    "description": "Wenn du in diesem Spiel 4+ Wahrzeichen beschworen hast, verursache 4 Schaden an einem Gegner und 2 am gegnerischen Nexus.",
+    "descriptionRaw": "Wenn du in diesem Spiel 4+ Wahrzeichen beschworen hast, verursache 4 Schaden an einem Gegner und 2 am gegnerischen Nexus.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "„Zacke ist ein Morgenmuffel …“<br>– Malphite",
+    "artistName": "Kudos Productions",
+    "name": "Zitternder Boden",
+    "cardCode": "04MT002T2",
+    "keywords": [
+      "Fertigkeit"
+    ],
+    "keywordRefs": [
+      "Skill"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "Keine",
+    "rarityRef": "None",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Fertigkeit",
+    "collectible": false,
+    "set": "Set4"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "04IO005T2",
+      "04IO005T1",
+      "04IO005T5",
+      "04IO005T4",
+      "04IO010"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04IO005.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04IO005-full.png"
+      }
+    ],
+    "region": "Ionia",
+    "regionRef": "Ionia",
+    "attack": 3,
+    "cost": 3,
+    "health": 2,
+    "description": "Wenn ich beschworen werde oder bei <link=vocab.RoundStart><style=Vocab>Rundenbeginn</style></link>: Wenn du die Angriffsmarke hast, erschaffe 1 <link=card.create><style=AssociatedCard>Makelloses Duett</style></link> auf der Hand.",
+    "descriptionRaw": "Wenn ich beschworen werde oder bei Rundenbeginn: Wenn du die Angriffsmarke hast, erschaffe 1 Makelloses Duett auf der Hand.",
+    "levelupDescription": "12+ Verbündete haben angegriffen<style=Variable></style>.",
+    "levelupDescriptionRaw": "12+ Verbündete haben angegriffen.",
+    "flavorText": "„Einst studierten wir Kunst und Schönheit und unsere Herzen tanzten vor Freude. Doch als sie unsere Mauern einrissen und unser Blut vergossen, landeten wir auf dem Boden der Tatsachen …“",
+    "artistName": "SIXMOREVODKA",
+    "name": "Irelia",
+    "cardCode": "04IO005",
+    "keywords": [
+      "Direktangriff"
+    ],
+    "keywordRefs": [
+      "QuickStrike"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "Champion",
+    "rarityRef": "Champion",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "Champion",
+    "type": "Einheit",
+    "collectible": true,
+    "set": "Set4"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "04IO005"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04IO005T4.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04IO005T4-full.png"
+      }
+    ],
+    "region": "Ionia",
+    "regionRef": "Ionia",
+    "attack": 0,
+    "cost": 0,
+    "health": 0,
+    "description": "Tausche <link=card.parentRef><style=AssociatedCard>Irelia</style></link> mit einem Verbündeten.",
+    "descriptionRaw": "Tausche Irelia mit einem Verbündeten.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "„Immer mir nach!“<br>– Irelia",
+    "artistName": "Kudos Productions",
+    "name": "Stürmende Klinge",
+    "cardCode": "04IO005T4",
+    "keywords": [
+      "Sofort",
+      "Flüchtig"
+    ],
+    "keywordRefs": [
+      "Burst",
+      "Fleeting"
+    ],
+    "spellSpeed": "Sofort",
+    "spellSpeedRef": "Burst",
+    "rarity": "Keine",
+    "rarityRef": "None",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Zauber",
+    "collectible": false,
+    "set": "Set4"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "04IO005",
+      "04IO005T2",
+      "04IO005T5",
+      "04IO005T4",
+      "04IO010"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04IO005T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04IO005T1-full.png"
+      }
+    ],
+    "region": "Ionia",
+    "regionRef": "Ionia",
+    "attack": 0,
+    "cost": 7,
+    "health": 0,
+    "description": "<link=vocab.BladeDance><style=Vocab>Klingentanz</style></link> (3). Wähle einen Verbündeten, der mit den <link=card.blade><style=AssociatedCard>Klingen</style></link> angreift.\r\nErschaffe eine <link=card.level1><style=AssociatedCard>Irelia</style></link> in deinem Deck.",
+    "descriptionRaw": "Klingentanz (3). Wähle einen Verbündeten, der mit den Klingen angreift.\r\nErschaffe eine Irelia in deinem Deck.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "„Haltet ihren Rückzug auf! Die Noxianer haben diesen Krieg begonnen, doch wir bringen ihn zu Ende.“<br>– Irelia",
+    "artistName": "Kudos Productions",
+    "name": "Irelias Eine Klingenlänge voraus",
+    "cardCode": "04IO005T1",
+    "keywords": [
+      "Langsam"
+    ],
+    "keywordRefs": [
+      "Slow"
+    ],
+    "spellSpeed": "Langsam",
+    "spellSpeedRef": "Slow",
+    "rarity": "Keine",
+    "rarityRef": "None",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "Champion",
+    "type": "Zauber",
+    "collectible": false,
+    "set": "Set4"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "04IO005",
+      "04IO005T1",
+      "04IO005T5",
+      "04IO005T4",
+      "04IO010"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04IO005T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04IO005T2-full.png"
+      }
+    ],
+    "region": "Ionia",
+    "regionRef": "Ionia",
+    "attack": 4,
+    "cost": 3,
+    "health": 3,
+    "description": "Wenn ich beschworen werde oder bei <link=vocab.RoundStart><style=Vocab>Rundenbeginn</style></link>: Wenn du die Angriffsmarke hast, erschaffe 1 <link=card.create><style=AssociatedCard>Makelloses Duett</style></link> auf der Hand.\r\nWenn Verbündete angreifen, erschaffe 1 <link=card.create2><style=AssociatedCard>Stürmende Klinge</style></link> auf der Hand.",
+    "descriptionRaw": "Wenn ich beschworen werde oder bei Rundenbeginn: Wenn du die Angriffsmarke hast, erschaffe 1 Makelloses Duett auf der Hand.\r\nWenn Verbündete angreifen, erschaffe 1 Stürmende Klinge auf der Hand.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "„… Obwohl unsere Herzen schwer sind, haben wir ein Ziel und tanzen erneut.“",
+    "artistName": "SIXMOREVODKA",
+    "name": "Irelia",
+    "cardCode": "04IO005T2",
+    "keywords": [
+      "Direktangriff"
+    ],
+    "keywordRefs": [
+      "QuickStrike"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "Keine",
+    "rarityRef": "None",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "Champion",
+    "type": "Einheit",
+    "collectible": false,
+    "set": "Set4"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "04IO010"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04IO005T5.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04IO005T5-full.png"
+      }
+    ],
+    "region": "Ionia",
+    "regionRef": "Ionia",
+    "attack": 0,
+    "cost": 1,
+    "health": 0,
+    "description": "<link=vocab.BladeDance><style=Vocab>Klingentanz</style></link> (2).",
+    "descriptionRaw": "Klingentanz (2).",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "„Es gibt kein schöneres Lied als das, welches von zwei Stimmen in harmonischer Umarmung gesungen wird …“<br>– Aufblühende Klinge\n",
+    "artistName": "Kudos Productions",
+    "name": "Makelloses Duett",
+    "cardCode": "04IO005T5",
+    "keywords": [
+      "Flüchtig",
+      "Langsam"
+    ],
+    "keywordRefs": [
+      "Fleeting",
+      "Slow"
+    ],
+    "spellSpeed": "Langsam",
+    "spellSpeedRef": "Slow",
+    "rarity": "Keine",
+    "rarityRef": "None",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Zauber",
+    "collectible": false,
+    "set": "Set4"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "04IO010"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04IO004.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04IO004-full.png"
+      }
+    ],
+    "region": "Ionia",
+    "regionRef": "Ionia",
+    "attack": 3,
+    "cost": 4,
+    "health": 3,
+    "description": "<link=vocab.Play><style=Vocab>Ausspielen</style></link>: <link=vocab.BladeDance><style=Vocab>Klingentanz</style></link> (2).",
+    "descriptionRaw": "Ausspielen: Klingentanz (2).",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "„Es gibt Menschen, die eine Blume für verletzlich und zerbrechlich halten. Sie vergessen, wie viel Stärke man braucht, um sich an der bloßen Erde festzuklammern und mit jeder Blüte Hoffnung zu erwecken.“\n– Zinneia, stählernes Crescendo",
+    "artistName": "SIXMOREVODKA",
+    "name": "Aufblühende Klinge",
+    "cardCode": "04IO004",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "GEWÖHNLICH",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Einheit",
+    "collectible": true,
+    "set": "Set4"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "04IO010"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04IO003.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04IO003-full.png"
+      }
+    ],
+    "region": "Ionia",
+    "regionRef": "Ionia",
+    "attack": 0,
+    "cost": 7,
+    "health": 0,
+    "description": "<link=vocab.BladeDance><style=Vocab>Klingentanz</style></link> (3). Wähle einen Verbündeten, der mit den <link=card.blade><style=AssociatedCard>Klingen</style></link> angreift.",
+    "descriptionRaw": "Klingentanz (3). Wähle einen Verbündeten, der mit den Klingen angreift.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "„Haltet ihren Rückzug auf! Die Noxianer haben diesen Krieg begonnen, doch wir bringen ihn zu Ende.“<br>– Irelia",
+    "artistName": "Kudos Productions",
+    "name": "Eine Klingenlänge voraus",
+    "cardCode": "04IO003",
+    "keywords": [
+      "Langsam"
+    ],
+    "keywordRefs": [
+      "Slow"
+    ],
+    "spellSpeed": "Langsam",
+    "spellSpeedRef": "Slow",
+    "rarity": "SELTEN",
+    "rarityRef": "Rare",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Zauber",
+    "collectible": true,
+    "set": "Set4"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04IO015.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04IO015-full.png"
+      }
+    ],
+    "region": "Ionia",
+    "regionRef": "Ionia",
+    "attack": 1,
+    "cost": 1,
+    "health": 1,
+    "description": "Wenn ich <link=keyword.Recall><style=Keyword>zurückgerufen</style></link> werde, ziehe 1.",
+    "descriptionRaw": "Wenn ich zurückgerufen werde, ziehe 1.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "„Wasser ist flexibel und anpassungsfähig – es nimmt immer die passendste Form an, fließt vorwärts oder zieht sich von der Küste zurück.“<br>– Ionischer Mönch",
+    "artistName": "Dao Le",
+    "name": "Tanzendes Tröpfchen",
+    "cardCode": "04IO015",
+    "keywords": [
+      "Einstimmen",
+      "Ungreifbar"
+    ],
+    "keywordRefs": [
+      "Attune",
+      "Elusive"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "GEWÖHNLICH",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Einheit",
+    "collectible": true,
+    "set": "Set4"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04IO014.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04IO014-full.png"
+      }
+    ],
+    "region": "Ionia",
+    "regionRef": "Ionia",
+    "attack": 1,
+    "cost": 1,
+    "health": 1,
+    "description": "Wenn ich beschworen werde, gewähre mir +1|+1, falls ein Verbündeter <link=keyword.Ephemeral><sprite name=Ephemeral><style=Keyword>vergänglich</style></link> ist.",
+    "descriptionRaw": "Wenn ich beschworen werde, gewähre mir +1|+1, falls ein Verbündeter vergänglich ist.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "„Du bist Rauch – ein Flüstern im Wind. Deine Fäuste müssen wie Schatten mit der Dunkelheit verschmelzen. Jetzt noch mal!“<br>– Meisterin Shi",
+    "artistName": "Dao Le",
+    "name": "Schattenlehrling",
+    "cardCode": "04IO014",
+    "keywords": [
+      "Ungreifbar"
+    ],
+    "keywordRefs": [
+      "Elusive"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "GEWÖHNLICH",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Einheit",
+    "collectible": true,
+    "set": "Set4"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "04IO010"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04IO002.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04IO002-full.png"
+      }
+    ],
+    "region": "Ionia",
+    "regionRef": "Ionia",
+    "attack": 3,
+    "cost": 8,
+    "health": 5,
+    "description": "Wenn du einen <link=vocab.BladeDance><style=Vocab>Klingentanz</style></link> ausführst, greife ich mit den <link=card.blade><style=AssociatedCard>Klingen</style></link> an.\r\n<link=vocab.Play><style=Vocab>Ausspielen</style></link>: <link=vocab.BladeDance><style=Vocab>Klingentanz</style></link> (1).",
+    "descriptionRaw": "Wenn du einen Klingentanz ausführst, greife ich mit den Klingen an.\r\nAusspielen: Klingentanz (1).",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "„Versammelt euch, meine Lieben. Heute werden unsere Füße über den Boden gleiten, der uns ernährt hat – wie es unsere Familien uns gezeigt haben. Wir sind Ionias Kinder, und heute tanzen wir für die Kunst, die Freiheit und für einander!“",
+    "artistName": "SIXMOREVODKA",
+    "name": "Zinneia, stählernes Crescendo",
+    "cardCode": "04IO002",
+    "keywords": [
+      "Ungreifbar"
+    ],
+    "keywordRefs": [
+      "Elusive"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "EPISCH",
+    "rarityRef": "Epic",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Einheit",
+    "collectible": true,
+    "set": "Set4"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04IO010.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04IO010-full.png"
+      }
+    ],
+    "region": "Ionia",
+    "regionRef": "Ionia",
+    "attack": 1,
+    "cost": 1,
+    "health": 1,
+    "description": "<link=keyword.Obliterate><style=Keyword>Vernichte</style></link> mich, wenn ich den Kampf verlasse.",
+    "descriptionRaw": "Vernichte mich, wenn ich den Kampf verlasse.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "„Lasst im Training nicht nach – nicht nur die Klinge schlägt zu, sondern auch die Hand, die sie führt.“<br>– Irelia",
+    "artistName": "SIXMOREVODKA",
+    "name": "Klinge",
+    "cardCode": "04IO010",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "GEWÖHNLICH",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Einheit",
+    "collectible": false,
+    "set": "Set4"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04IO007.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04IO007-full.png"
+      }
+    ],
+    "region": "Ionia",
+    "regionRef": "Ionia",
+    "attack": 0,
+    "cost": 2,
+    "health": 0,
+    "description": "Tausche 2 Verbündete miteinander.",
+    "descriptionRaw": "Tausche 2 Verbündete miteinander.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "„Ein Tanz ist die Einreihung in die harmonische Bewegung aller Dinge.“<br>– Zinneia, stählernes Crescendo",
+    "artistName": "Kudos Productions",
+    "name": "Synkope",
+    "cardCode": "04IO007",
+    "keywords": [
+      "Sofort"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "Sofort",
+    "spellSpeedRef": "Burst",
+    "rarity": "SELTEN",
+    "rarityRef": "Rare",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Zauber",
+    "collectible": true,
+    "set": "Set4"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "04IO005T5",
+      "04IO010"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04IO011.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04IO011-full.png"
+      }
+    ],
+    "region": "Ionia",
+    "regionRef": "Ionia",
+    "attack": 0,
+    "cost": 2,
+    "health": 0,
+    "description": "<link=keyword.Recall><style=Keyword>Rufe</style></link> einen Verbündeten zurück, um 1 <link=card.create><style=AssociatedCard>Makelloses Duett</style></link> auf der Hand zu erschaffen.",
+    "descriptionRaw": "Rufe einen Verbündeten zurück, um 1 Makelloses Duett auf der Hand zu erschaffen.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "„Unsere Aufführung wird … unvergesslich werden.“<br>– Zinneia, stählernes Crescendo",
+    "artistName": "Kudos Productions",
+    "name": "Führen und folgen",
+    "cardCode": "04IO011",
+    "keywords": [
+      "Schnell"
+    ],
+    "keywordRefs": [
+      "Fast"
+    ],
+    "spellSpeed": "Schnell",
+    "spellSpeedRef": "Fast",
+    "rarity": "GEWÖHNLICH",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Zauber",
+    "collectible": true,
+    "set": "Set4"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "01IO009T1"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04IO012.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04IO012-full.png"
+      }
+    ],
+    "region": "Ionia",
+    "regionRef": "Ionia",
+    "attack": 0,
+    "cost": 5,
+    "health": 0,
+    "description": "<link=keyword.Recall><style=Keyword>Rufe</style></link> alle Verbündeten zurück und beschwöre an ihrer Stelle je 1 <link=card.summon><style=AssociatedCard>Lebender Schatten</style></link>.",
+    "descriptionRaw": "Rufe alle Verbündeten zurück und beschwöre an ihrer Stelle je 1 Lebender Schatten.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "„Sollen sie nach Schatten schlagen, wo ihre Waffen kein Ziel finden.“<br>– Zed",
+    "artistName": "Kudos Productions",
+    "name": "Schatten der Vergangenheit",
+    "cardCode": "04IO012",
+    "keywords": [
+      "Schnell"
+    ],
+    "keywordRefs": [
+      "Fast"
+    ],
+    "spellSpeed": "Schnell",
+    "spellSpeedRef": "Fast",
+    "rarity": "SELTEN",
+    "rarityRef": "Rare",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Zauber",
+    "collectible": true,
+    "set": "Set4"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "04IO010"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04IO009.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04IO009-full.png"
+      }
+    ],
+    "region": "Ionia",
+    "regionRef": "Ionia",
+    "attack": 2,
+    "cost": 2,
+    "health": 1,
+    "description": "<link=vocab.Play><style=Vocab>Ausspielen</style></link>: <link=vocab.BladeDance><style=Vocab>Klingentanz</style></link> (1).",
+    "descriptionRaw": "Ausspielen: Klingentanz (1).",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "„Was für eine Schande, Jungs! All diese Macht und kein Fünkchen Rhythmusgefühl? Wir können wohl doch nicht ALLE Stars sein …!“",
+    "artistName": "SIXMOREVODKA",
+    "name": "Schwungvolle Tänzerin",
+    "cardCode": "04IO009",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "SELTEN",
+    "rarityRef": "Rare",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Einheit",
+    "collectible": true,
+    "set": "Set4"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04IO001.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04IO001-full.png"
+      }
+    ],
+    "region": "Ionia",
+    "regionRef": "Ionia",
+    "attack": 1,
+    "cost": 4,
+    "health": 4,
+    "description": "Sobald du in einer Runde 3 andere Verbündete beschworen hast, fülle dein Zaubermana wieder auf und ziehe 1. <style=Variable></style>",
+    "descriptionRaw": "Sobald du in einer Runde 3 andere Verbündete beschworen hast, fülle dein Zaubermana wieder auf und ziehe 1. ",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "Manchen dient Musik als gemeinsame Zuflucht vor Nöten und Gewalt. Für andere steht Musik für Widerstand.",
+    "artistName": "SIXMOREVODKA",
+    "name": "Feldmusikanten",
+    "cardCode": "04IO001",
+    "keywords": [
+      "Einstimmen"
+    ],
+    "keywordRefs": [
+      "Attune"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "EPISCH",
+    "rarityRef": "Epic",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Einheit",
+    "collectible": true,
+    "set": "Set4"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04IO006.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04IO006-full.png"
+      }
+    ],
+    "region": "Ionia",
+    "regionRef": "Ionia",
+    "attack": 2,
+    "cost": 4,
+    "health": 6,
+    "description": "Wenn du einen Verbündeten beschwörst, gib mir in dieser Runde +2|+0.",
+    "descriptionRaw": "Wenn du einen Verbündeten beschwörst, gib mir in dieser Runde +2|+0.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "Meine liebste Kay,\nheute Morgen kamen sie mit einer ganzen Schiffsflotte, die den Horizont zerschnitt und den Sonnenaufgang verdunkelte. Ihre Maschinen haben die Silberebenen in Brand gesteckt und nun verpestet dichter Rauch die Sommerluft. Wir können nicht mehr untätig zusehen. Harke oder Schaufel, Sichel oder Schwert – heute müssen wir unserem Schicksal entgegentreten.\nDenke immer daran, dass ich dich und unsere Heimat mehr liebe, als ich mit Worten ausdrücken kann.\n– Angebrannter Brief\n",
+    "artistName": "SIXMOREVODKA",
+    "name": "Küstenverteidiger",
+    "cardCode": "04IO006",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "GEWÖHNLICH",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Einheit",
+    "collectible": true,
+    "set": "Set4"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04DE004.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04DE004-full.png"
+      }
+    ],
+    "region": "Demacia",
+    "regionRef": "Demacia",
+    "attack": 3,
+    "cost": 6,
+    "health": 5,
+    "description": "Wenn du eine Elite beschwörst, senke meine Kosten um 1.",
+    "descriptionRaw": "Wenn du eine Elite beschwörst, senke meine Kosten um 1.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "Obwohl die Noxianer ihre Falle gut vorbereitet hatten, kannten die demacianischen Späher die Wälder doch am besten. Jeder abgeknickte Ast, jeder Fußabdruck war ein Hinweis, der sie zu ihrem Prinzen führte.",
+    "artistName": "SIXMOREVODKA",
+    "name": "Unermüdliche Fährtensucherin",
+    "cardCode": "04DE004",
+    "keywords": [
+      "Späher"
+    ],
+    "keywordRefs": [
+      "Scout"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "SELTEN",
+    "rarityRef": "Rare",
+    "subtype": "ELITE",
+    "subtypes": [
+      "ELITE"
+    ],
+    "supertype": "",
+    "type": "Einheit",
+    "collectible": true,
+    "set": "Set4"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04DE014.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04DE014-full.png"
       }
     ],
     "region": "Demacia",
@@ -6357,8 +9079,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04DE001.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04DE001-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04DE001.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04DE001-full.png"
       }
     ],
     "region": "Demacia",
@@ -6394,8 +9116,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04DE003.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04DE003-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04DE003.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04DE003-full.png"
       }
     ],
     "region": "Demacia",
@@ -6433,8 +9155,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04DE002.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04DE002-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04DE002.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04DE002-full.png"
       }
     ],
     "region": "Demacia",
@@ -6472,8 +9194,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04DE006.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04DE006-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04DE006.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04DE006-full.png"
       }
     ],
     "region": "Demacia",
@@ -6511,8 +9233,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04DE007T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04DE007T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04DE007T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04DE007T1-full.png"
       }
     ],
     "region": "Demacia",
@@ -6553,8 +9275,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04DE008.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04DE008-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04DE008.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04DE008-full.png"
       }
     ],
     "region": "Demacia",
@@ -6564,7 +9286,7 @@
     "health": 4,
     "description": "Wenn du angreifst, bezahle meine Kosten, um mich zu beschwören und den <link=vocab.Strongest><style=Vocab>stärksten</style></link> Gegner <link=keyword.Challenger><sprite name=Challenger><style=Keyword>herauszufordern</style></link>.",
     "descriptionRaw": "Wenn du angreifst, bezahle meine Kosten, um mich zu beschwören und den stärksten Gegner herauszufordern.",
-    "levelupDescription": "Verbündete haben 4+ Schläge von gegnerischen Blockern überlebt<style=Variable></style>.",
+    "levelupDescription": "Verbündete haben 4+ <link=vocab.Strike><style=Vocab>Schläge</style></link> von gegnerischen Blockern überlebt<style=Variable></style>.",
     "levelupDescriptionRaw": "Verbündete haben 4+ Schläge von gegnerischen Blockern überlebt.",
     "flavorText": "Die Noxianer wussten, wohin Prinz Jarvans Jagd ihn führen würde. Sie wussten, wie viele Demacianer an seiner Seite stehen würden, und sie wussten, dass seine Ehre ihn an der Flucht hindern würde. Der Hinterhalt war gelegt.",
     "artistName": "SIXMOREVODKA",
@@ -6598,8 +9320,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04DE008T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04DE008T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04DE008T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04DE008T1-full.png"
       }
     ],
     "region": "Demacia",
@@ -6642,8 +9364,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04DE008T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04DE008T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04DE008T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04DE008T2-full.png"
       }
     ],
     "region": "Demacia",
@@ -6678,13 +9400,54 @@
   },
   {
     "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04DE005.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04DE005-full.png"
+      }
+    ],
+    "region": "Demacia",
+    "regionRef": "Demacia",
+    "attack": 10,
+    "cost": 10,
+    "health": 10,
+    "description": "Wenn ich beschworen werde, verdopple Stärke und Leben anderer Verbündeter und gewähre ihnen <link=keyword.Challenger><sprite name=Challenger><style=Keyword>Herausforderer</style></link>.",
+    "descriptionRaw": "Wenn ich beschworen werde, verdopple Stärke und Leben anderer Verbündeter und gewähre ihnen Herausforderer.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "„Wen außer die Herrin der Lüfte hätte Demacia sonst schicken können, um seinen Prinzen zu retten?“<br>– König Jarvan III.",
+    "artistName": "SIXMOREVODKA",
+    "name": "Cithria, Herrin der Lüfte",
+    "cardCode": "04DE005",
+    "keywords": [
+      "Herausforderer"
+    ],
+    "keywordRefs": [
+      "Challenger"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "EPISCH",
+    "rarityRef": "Epic",
+    "subtype": "",
+    "subtypes": [
+      "ELITE"
+    ],
+    "supertype": "",
+    "type": "Einheit",
+    "collectible": true,
+    "set": "Set4"
+  },
+  {
+    "associatedCards": [],
     "associatedCardRefs": [
       "04DE008"
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04DE010.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04DE010-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04DE010.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04DE010-full.png"
       }
     ],
     "region": "Demacia",
@@ -6724,8 +9487,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04DE013.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04DE013-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04DE013.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04DE013-full.png"
       }
     ],
     "region": "Demacia",
@@ -6761,8 +9524,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04DE007.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04DE007-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04DE007.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04DE007-full.png"
       }
     ],
     "region": "Demacia",
@@ -6798,8 +9561,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04DE009.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04DE009-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04DE009.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_7_0/set4/de_de/img/cards/04DE009-full.png"
       }
     ],
     "region": "Demacia",
@@ -6825,167 +9588,6 @@
     "subtypes": [
       "ELITE"
     ],
-    "supertype": "",
-    "type": "Einheit",
-    "collectible": true,
-    "set": "Set4"
-  },
-  {
-    "associatedCards": [],
-    "associatedCardRefs": [],
-    "assets": [
-      {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04BW011.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04BW011-full.png"
-      }
-    ],
-    "region": "Bilgewasser",
-    "regionRef": "Bilgewater",
-    "attack": 0,
-    "cost": 4,
-    "health": 0,
-    "description": "Bis Rundenende: Wenn du Schaden am gegnerischen Nexus verursachst, <link=keyword.Nab><style=Keyword>klaue</style></link> 1.",
-    "descriptionRaw": "Bis Rundenende: Wenn du Schaden am gegnerischen Nexus verursachst, klaue 1.",
-    "levelupDescription": "",
-    "levelupDescriptionRaw": "",
-    "flavorText": "„Na, was willst du aufs Spiel setzen, mein Freund?“<br>– Tahm Kench",
-    "artistName": "Kudos Productions",
-    "name": "Gezinkte Würfel",
-    "cardCode": "04BW011",
-    "keywords": [
-      "Langsam"
-    ],
-    "keywordRefs": [
-      "Slow"
-    ],
-    "spellSpeed": "Langsam",
-    "spellSpeedRef": "Slow",
-    "rarity": "EPISCH",
-    "rarityRef": "Epic",
-    "subtype": "",
-    "subtypes": [],
-    "supertype": "",
-    "type": "Zauber",
-    "collectible": true,
-    "set": "Set4"
-  },
-  {
-    "associatedCards": [],
-    "associatedCardRefs": [
-      "02BW030T4",
-      "02BW030T1",
-      "02BW030T3",
-      "02BW030T2"
-    ],
-    "assets": [
-      {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04BW008.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04BW008-full.png"
-      }
-    ],
-    "region": "Bilgewasser",
-    "regionRef": "Bilgewater",
-    "attack": 0,
-    "cost": 4,
-    "health": 0,
-    "description": "Ziehe einen Schatz. Wenn du keinen ziehen kannst, erschaffe stattdessen 2 Schätze in deinem Deck.",
-    "descriptionRaw": "Ziehe einen Schatz. Wenn du keinen ziehen kannst, erschaffe stattdessen 2 Schätze in deinem Deck.",
-    "levelupDescription": "",
-    "levelupDescriptionRaw": "",
-    "flavorText": "„Wir sind reich!“<br>– Kaltblütiger Kaperer",
-    "artistName": "Kudos Productions",
-    "name": "Verschollene Reichtümer",
-    "cardCode": "04BW008",
-    "keywords": [
-      "Sofort"
-    ],
-    "keywordRefs": [
-      "Burst"
-    ],
-    "spellSpeed": "Sofort",
-    "spellSpeedRef": "Burst",
-    "rarity": "SELTEN",
-    "rarityRef": "Rare",
-    "subtype": "",
-    "subtypes": [],
-    "supertype": "",
-    "type": "Zauber",
-    "collectible": true,
-    "set": "Set4"
-  },
-  {
-    "associatedCards": [],
-    "associatedCardRefs": [],
-    "assets": [
-      {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04IO014.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04IO014-full.png"
-      }
-    ],
-    "region": "Ionia",
-    "regionRef": "Ionia",
-    "attack": 1,
-    "cost": 1,
-    "health": 1,
-    "description": "Wenn ich beschworen werde, gewähre mir +1|+1, falls ein Verbündeter <link=keyword.Ephemeral><sprite name=Ephemeral><style=Keyword>vergänglich</style></link> ist.",
-    "descriptionRaw": "Wenn ich beschworen werde, gewähre mir +1|+1, falls ein Verbündeter vergänglich ist.",
-    "levelupDescription": "",
-    "levelupDescriptionRaw": "",
-    "flavorText": "„Du bist Rauch – ein Flüstern im Wind. Deine Fäuste müssen wie Schatten mit der Dunkelheit verschmelzen. Jetzt noch mal!“<br>– Meisterin Shi",
-    "artistName": "Dao Le",
-    "name": "Schattenlehrling",
-    "cardCode": "04IO014",
-    "keywords": [
-      "Ungreifbar"
-    ],
-    "keywordRefs": [
-      "Elusive"
-    ],
-    "spellSpeed": "",
-    "spellSpeedRef": "",
-    "rarity": "GEWÖHNLICH",
-    "rarityRef": "Common",
-    "subtype": "",
-    "subtypes": [],
-    "supertype": "",
-    "type": "Einheit",
-    "collectible": true,
-    "set": "Set4"
-  },
-  {
-    "associatedCards": [],
-    "associatedCardRefs": [],
-    "assets": [
-      {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04IO001.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/de_de/img/cards/04IO001-full.png"
-      }
-    ],
-    "region": "Ionia",
-    "regionRef": "Ionia",
-    "attack": 1,
-    "cost": 4,
-    "health": 4,
-    "description": "Sobald du in einer Runde 3 andere Verbündete beschworen hast, fülle dein Zaubermana wieder auf und ziehe 1. <style=Variable></style>",
-    "descriptionRaw": "Sobald du in einer Runde 3 andere Verbündete beschworen hast, fülle dein Zaubermana wieder auf und ziehe 1. ",
-    "levelupDescription": "",
-    "levelupDescriptionRaw": "",
-    "flavorText": "Manchen dient Musik als gemeinsame Zuflucht vor Nöten und Gewalt. Für andere steht Musik für Widerstand.",
-    "artistName": "SIXMOREVODKA",
-    "name": "Feldmusikanten",
-    "cardCode": "04IO001",
-    "keywords": [
-      "Einstimmen"
-    ],
-    "keywordRefs": [
-      "Attune"
-    ],
-    "spellSpeed": "",
-    "spellSpeedRef": "",
-    "rarity": "EPISCH",
-    "rarityRef": "Epic",
-    "subtype": "",
-    "subtypes": [],
     "supertype": "",
     "type": "Einheit",
     "collectible": true,
