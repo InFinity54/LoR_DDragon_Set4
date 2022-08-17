@@ -4,8 +4,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04BW002.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04BW002-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04BW002.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04BW002-full.png"
       }
     ],
     "region": "比爾吉沃特",
@@ -43,8 +43,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04BW010.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04BW010-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04BW010.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04BW010-full.png"
       }
     ],
     "region": "比爾吉沃特",
@@ -82,8 +82,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04BW011.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04BW011-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04BW011.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04BW011-full.png"
       }
     ],
     "region": "比爾吉沃特",
@@ -91,7 +91,7 @@
     "attack": 0,
     "cost": 4,
     "health": 0,
-    "description": "接下來每當我方對敵方主堡造成傷害，便<link=keyword.Nab><style=Keyword>奪取</style></link>1張牌；此效果持續到本回合結束。",
+    "description": "接下來每當我方對敵方主堡<br>造成傷害，便<link=keyword.Nab><style=Keyword>奪取</style></link>1張牌；<br>此效果持續到本回合結束。",
     "descriptionRaw": "接下來每當我方對敵方主堡造成傷害，便奪取1張牌；此效果持續到本回合結束。",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
@@ -126,8 +126,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04BW008.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04BW008-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04BW008.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04BW008-full.png"
       }
     ],
     "region": "比爾吉沃特",
@@ -167,8 +167,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04PZ005.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04PZ005-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04PZ005.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04PZ005-full.png"
       }
     ],
     "region": "皮爾托福&佐恩",
@@ -206,8 +206,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04PZ005T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04PZ005T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04PZ005T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04PZ005T2-full.png"
       }
     ],
     "region": "皮爾托福&佐恩",
@@ -215,7 +215,7 @@
     "attack": 0,
     "cost": 0,
     "health": 0,
-    "description": "對所有敵軍單位與敵方主堡造成1點傷害。",
+    "description": "對所有敵軍單位與敵方主堡<br>造成1點傷害。",
     "descriptionRaw": "對所有敵軍單位與敵方主堡造成1點傷害。",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
@@ -248,8 +248,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04PZ005T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04PZ005T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04PZ005T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04PZ005T1-full.png"
       }
     ],
     "region": "皮爾托福&佐恩",
@@ -297,8 +297,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04PZ014.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04PZ014-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04PZ014.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04PZ014-full.png"
       }
     ],
     "region": "皮爾托福&佐恩",
@@ -336,8 +336,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04PZ010.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04PZ010-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04PZ010.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04PZ010-full.png"
       }
     ],
     "region": "皮爾托福&佐恩",
@@ -345,8 +345,8 @@
     "attack": 0,
     "cost": 1,
     "health": 0,
-    "description": "每回合我方打出首個侍從單位時，可從3個魔耗值相同的侍從單位挑選1個，並幻化為該單位；此效果持續到牌局結束。",
-    "descriptionRaw": "每回合我方打出首個侍從單位時，可從3個魔耗值相同的侍從單位挑選1個，並幻化為該單位；此效果持續到牌局結束。",
+    "description": "每回合我方打出首個侍從單位時，可從魔耗值相同的侍從單位中3選1，並<br>幻化為該單位；此效果持續到牌局結束。",
+    "descriptionRaw": "每回合我方打出首個侍從單位時，可從魔耗值相同的侍從單位中3選1，並幻化為該單位；此效果持續到牌局結束。",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "「這邊只有我說了算。」——艾克",
@@ -375,8 +375,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04PZ015.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04PZ015-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04PZ015.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04PZ015-full.png"
       }
     ],
     "region": "皮爾托福&佐恩",
@@ -412,8 +412,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH070.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH070-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH070.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH070-full.png"
       }
     ],
     "region": "蘇瑞瑪",
@@ -451,8 +451,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH081.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH081-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH081.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH081-full.png"
       }
     ],
     "region": "蘇瑞瑪",
@@ -486,8 +486,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH059T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH059T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH059T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH059T2-full.png"
       }
     ],
     "region": "蘇瑞瑪",
@@ -495,7 +495,7 @@
     "attack": 0,
     "cost": 4,
     "health": 0,
-    "description": "摧毀我方1個魔力寶石，以抵銷敵方所有<link=keyword.Fast><sprite name=Fast><style=Keyword>快速</style></link>法術、<link=keyword.Slow><sprite name=Slow><style=Keyword>慢速</style></link>法術與<link=keyword.Skill><sprite name=PlaySkillMark><style=Keyword>技能</style></link>。",
+    "description": "摧毀我方1個魔力寶石，以抵銷<br>敵方所有<link=keyword.Fast><sprite name=Fast><style=Keyword>快速</style></link>法術、<br><link=keyword.Slow><sprite name=Slow><style=Keyword>慢速</style></link>法術與<link=keyword.Skill><sprite name=PlaySkillMark><style=Keyword>技能</style></link>。",
     "descriptionRaw": "摧毀我方1個魔力寶石，以抵銷敵方所有快速法術、慢速法術與技能。",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
@@ -525,8 +525,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH059T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH059T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH059T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH059T1-full.png"
       }
     ],
     "region": "蘇瑞瑪",
@@ -534,7 +534,7 @@
     "attack": 0,
     "cost": 4,
     "health": 0,
-    "description": "擊殺1個友軍單位，以抵銷敵方所有<link=keyword.Fast><sprite name=Fast><style=Keyword>快速</style></link>法術、<link=keyword.Slow><sprite name=Slow><style=Keyword>慢速</style></link>法術與<link=keyword.Skill><sprite name=PlaySkillMark><style=Keyword>技能</style></link>。",
+    "description": "擊殺1個友軍單位，以抵銷敵方<br>所有<link=keyword.Fast><sprite name=Fast><style=Keyword>快速</style></link>法術、<link=keyword.Slow><sprite name=Slow><style=Keyword>慢速</style></link>法術<br>與<link=keyword.Skill><sprite name=PlaySkillMark><style=Keyword>技能</style></link>。",
     "descriptionRaw": "擊殺1個友軍單位，以抵銷敵方所有快速法術、慢速法術與技能。",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
@@ -564,8 +564,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH077.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH077-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH077.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH077-full.png"
       }
     ],
     "region": "蘇瑞瑪",
@@ -573,7 +573,7 @@
     "attack": 3,
     "cost": 4,
     "health": 4,
-    "description": "若我方已升級英雄，則友軍單位獲得+2|+0。",
+    "description": "若我方已升級英雄，則友軍單位<br>獲得+2|+0。",
     "descriptionRaw": "若我方已升級英雄，則友軍單位獲得+2|+0。",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
@@ -606,8 +606,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH089.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH089-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH089.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH089-full.png"
       }
     ],
     "region": "蘇瑞瑪",
@@ -615,7 +615,7 @@
     "attack": 2,
     "cost": 4,
     "health": 4,
-    "description": "<link=keyword.PlaySkillMark><sprite name=PlaySkillMark><style=Keyword>出牌</style></link>：摧毀1個地標。若是我方地標，則召喚1個<link=card.summon><style=AssociatedCard>暴躁岩熊</style></link>。",
+    "description": "<link=keyword.PlaySkillMark><sprite name=PlaySkillMark><style=Keyword>出牌</style></link>：摧毀1個地標。若是我方<br>地標，則召喚1個<link=card.summon><style=AssociatedCard>暴躁岩熊</style></link>。",
     "descriptionRaw": "出牌：摧毀1個地標。若是我方地標，則召喚1個暴躁岩熊。",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
@@ -644,8 +644,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH089T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH089T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH089T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH089T1-full.png"
       }
     ],
     "region": "蘇瑞瑪",
@@ -683,8 +683,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH015.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH015-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH015.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH015-full.png"
       }
     ],
     "region": "蘇瑞瑪",
@@ -692,7 +692,7 @@
     "attack": 6,
     "cost": 7,
     "health": 6,
-    "description": "<link=vocab.Attack><style=Vocab>攻擊</style></link>：本回合給予所有敵軍單位<nobr>-2|-0</nobr>。",
+    "description": "<link=vocab.Attack><style=Vocab>攻擊</style></link>：本回合給予所有<br>敵軍單位<nobr>-2|-0</nobr>。",
     "descriptionRaw": "攻擊：本回合給予所有敵軍單位-2|-0。",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
@@ -724,8 +724,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH058.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH058-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH058.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH058-full.png"
       }
     ],
     "region": "蘇瑞瑪",
@@ -761,8 +761,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH035.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH035-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH035.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH035-full.png"
       }
     ],
     "region": "蘇瑞瑪",
@@ -802,8 +802,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH028.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH028-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH028.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH028-full.png"
       }
     ],
     "region": "蘇瑞瑪",
@@ -841,8 +841,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH002.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH002-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH002.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH002-full.png"
       }
     ],
     "region": "蘇瑞瑪",
@@ -882,8 +882,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH042.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH042-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH042.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH042-full.png"
       }
     ],
     "region": "蘇瑞瑪",
@@ -921,8 +921,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH032.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH032-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH032.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH032-full.png"
       }
     ],
     "region": "蘇瑞瑪",
@@ -956,8 +956,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH055.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH055-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH055.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH055-full.png"
       }
     ],
     "region": "蘇瑞瑪",
@@ -1001,8 +1001,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH039.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH039-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH039.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH039-full.png"
       }
     ],
     "region": "蘇瑞瑪",
@@ -1010,9 +1010,9 @@
     "attack": 1,
     "cost": 2,
     "health": 4,
-    "description": "<link=vocab.Play><style=Vocab>出牌</style></link>：在我方牌組生成4張<link=card.create><style=AssociatedCard>定時炸彈</style></link>，然後<link=vocab.Predict><style=Vocab>預言</style></link>。",
+    "description": "<link=vocab.Play><style=Vocab>出牌</style></link>：在我方牌組生成4張<br><link=card.create><style=AssociatedCard>定時炸彈</style></link>，然後<link=vocab.Predict><style=Vocab>預言</style></link>。",
     "descriptionRaw": "出牌：在我方牌組生成4張定時炸彈，然後預言。",
-    "levelupDescription": "此牌在場上時，<br>我方摧毀2個友軍<link=card.create><style=AssociatedCard>定時炸彈</style></link><style=Variable></style>。",
+    "levelupDescription": "此牌在場上時，我方摧毀<br>2個友軍<link=card.create><style=AssociatedCard>定時炸彈</style></link><style=Variable></style>。",
     "levelupDescriptionRaw": "此牌在場上時，我方摧毀2個友軍定時炸彈。",
     "flavorText": "多年來，極靈穿梭時空，結識了許多來自不同時代的年輕法師，全都蘊藏著無窮潛力。這樣一來，萬一他自身遭遇不測，任何一人都可以延續他的畢生心血。雖然在這些年輕法師的眼中，極靈是個和藹可親、懂得鼓勵人的良師，當他獨處時，緊鎖的眉頭卻總透露出深沉哀傷，而那眼中的疲倦痛苦，唯有活過不只一輩子的人才能體悟。",
     "artistName": "SIXMOREVODKA",
@@ -1038,8 +1038,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH060T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH060T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH060T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH060T1-full.png"
       }
     ],
     "region": "蘇瑞瑪",
@@ -1047,7 +1047,7 @@
     "attack": 0,
     "cost": 2,
     "health": 0,
-    "description": "召喚此牌時，抽1張牌並<link=vocab.Advance><style=Vocab>快轉</style></link>其他我方定時炸彈1回合。\r\n<link=vocab.Buried><style=Vocab>倒數1</style></link><style=Variable></style>：對所有敵軍單位與敵方主堡造成1點傷害。",
+    "description": "召喚此牌時，抽1張牌並<link=vocab.Advance><style=Vocab>快轉</style></link><br>其他我方定時炸彈1回合。\r\n<link=vocab.Buried><style=Vocab>倒數1</style></link><style=Variable></style>：對所有敵軍單位<br>與敵方主堡造成1點傷害。",
     "descriptionRaw": "召喚此牌時，抽1張牌並快轉其他我方定時炸彈1回合。\r\n倒數1：對所有敵軍單位與敵方主堡造成1點傷害。",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
@@ -1081,8 +1081,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH039T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH039T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH039T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH039T2-full.png"
       }
     ],
     "region": "蘇瑞瑪",
@@ -1090,7 +1090,7 @@
     "attack": 0,
     "cost": 7,
     "health": 0,
-    "description": "給予1個我方英雄：「本回合此牌下次將要陣亡時，反而會治癒此牌，並賦予其+3|+3」。\r\n在我方牌組生成1張<link=card.level1><style=AssociatedCard>極靈</style></link>。",
+    "description": "給予1個我方英雄：「本回合此牌<br>下次將要陣亡時，反而會治癒此牌，<br>並賦予其+3|+3」。\r\n在我方牌組生成1張<link=card.level1><style=AssociatedCard>極靈</style></link>。",
     "descriptionRaw": "給予1個我方英雄：「本回合此牌下次將要陣亡時，反而會治癒此牌，並賦予其+3|+3」。\r\n在我方牌組生成1張極靈。",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
@@ -1124,8 +1124,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH039T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH039T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH039T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH039T1-full.png"
       }
     ],
     "region": "蘇瑞瑪",
@@ -1163,8 +1163,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH073.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH073-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH073.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH073-full.png"
       }
     ],
     "region": "蘇瑞瑪",
@@ -1202,8 +1202,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH073T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH073T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH073T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH073T2-full.png"
       }
     ],
     "region": "蘇瑞瑪",
@@ -1239,8 +1239,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH073T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH073T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH073T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH073T1-full.png"
       }
     ],
     "region": "蘇瑞瑪",
@@ -1281,8 +1281,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH073T3.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH073T3-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH073T3.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH073T3-full.png"
       }
     ],
     "region": "蘇瑞瑪",
@@ -1290,7 +1290,7 @@
     "attack": 0,
     "cost": 1,
     "health": 0,
-    "description": "查看3張我方有足夠魔力能打出的隨機地標，並挑選1張在手牌生成。\r\n在我方牌組生成1張<link=card.level1><style=AssociatedCard>塔莉雅</style></link>。",
+    "description": "查看3張我方有足夠魔力能打出的<br>隨機地標，並挑選1張在手牌生成。\r\n在我方牌組生成1張<link=card.level1><style=AssociatedCard>塔莉雅</style></link>。",
     "descriptionRaw": "查看3張我方有足夠魔力能打出的隨機地標，並挑選1張在手牌生成。\r\n在我方牌組生成1張塔莉雅。",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
@@ -1320,8 +1320,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH091.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH091-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH091.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH091-full.png"
       }
     ],
     "region": "蘇瑞瑪",
@@ -1357,8 +1357,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH024.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH024-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH024.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH024-full.png"
       }
     ],
     "region": "蘇瑞瑪",
@@ -1366,7 +1366,7 @@
     "attack": 0,
     "cost": 4,
     "health": 0,
-    "description": "<link=vocab.Buried><style=Vocab>倒數2</style></link><style=Variable></style>：召喚1個<link=card.create><style=AssociatedCard>暴躁岩熊</style></link>。<br>在本牌局中，若我方已召喚4個以上地標，則賦予<link=vocab.Strongest><style=Vocab>最強</style></link>友軍單位+2|+2。<style=Variable></style>",
+    "description": "<link=vocab.Buried><style=Vocab>倒數2</style></link><style=Variable></style>：召喚1個<link=card.create><style=AssociatedCard>暴躁岩熊</style></link>。<br>在本牌局中，若我方已召喚<br>4個以上地標，則賦予<link=vocab.Strongest><style=Vocab>最強</style></link><br>友軍單位+2|+2。<style=Variable></style>",
     "descriptionRaw": "倒數2：召喚1個暴躁岩熊。在本牌局中，若我方已召喚4個以上地標，則賦予最強友軍單位+2|+2。",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
@@ -1403,8 +1403,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH003.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH003-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH003.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH003-full.png"
       }
     ],
     "region": "蘇瑞瑪",
@@ -1446,8 +1446,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH003T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH003T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH003T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH003T2-full.png"
       }
     ],
     "region": "蘇瑞瑪",
@@ -1490,8 +1490,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH003T3.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH003T3-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH003T3.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH003T3-full.png"
       }
     ],
     "region": "蘇瑞瑪",
@@ -1499,7 +1499,7 @@
     "attack": 2,
     "cost": 3,
     "health": 6,
-    "description": "我方攻擊時，召喚1個攻擊中的<br><link=card.summon><style=AssociatedCard>沙礫士兵</style></link>。\r\n召喚友軍單位時，本回合給予此牌與該友軍單位+1|+0。",
+    "description": "我方攻擊時，召喚1個攻擊中的<br><link=card.summon><style=AssociatedCard>沙礫士兵</style></link>。\r\n召喚友軍單位時，本回合給予<br>此牌與該友軍單位+1|+0。",
     "descriptionRaw": "我方攻擊時，召喚1個攻擊中的沙礫士兵。\r\n召喚友軍單位時，本回合給予此牌與該友軍單位+1|+0。",
     "levelupDescription": "我方<link=vocab.SunDiscRestore><style=Vocab>復原烈日巨環</style></link>。",
     "levelupDescriptionRaw": "我方復原烈日巨環。",
@@ -1527,8 +1527,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH003T14.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH003T14-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH003T14.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH003T14-full.png"
       }
     ],
     "region": "蘇瑞瑪",
@@ -1568,8 +1568,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH003T5.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH003T5-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH003T5.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH003T5-full.png"
       }
     ],
     "region": "蘇瑞瑪",
@@ -1577,7 +1577,7 @@
     "attack": 6,
     "cost": 5,
     "health": 6,
-    "description": "<link=vocab.Play><style=Vocab>出牌</style></link>與<link=vocab.RoundStart><style=Vocab>回合開始</style></link>：召喚2個<link=card.summon><style=AssociatedCard>沙礫士兵</style></link><br>並賦予其+2|+2。",
+    "description": "<link=vocab.Play><style=Vocab>出牌</style></link>與<link=vocab.RoundStart><style=Vocab>回合開始</style></link>：召喚2個<br><link=card.summon><style=AssociatedCard>沙礫士兵</style></link>並賦予其+2|+2。",
     "descriptionRaw": "出牌與回合開始：召喚2個沙礫士兵並賦予其+2|+2。",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
@@ -1608,8 +1608,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH003T4.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH003T4-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH003T4.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH003T4-full.png"
       }
     ],
     "region": "蘇瑞瑪",
@@ -1647,8 +1647,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH003T10.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH003T10-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH003T10.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH003T10-full.png"
       }
     ],
     "region": "蘇瑞瑪",
@@ -1688,8 +1688,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH003T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH003T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH003T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH003T1-full.png"
       }
     ],
     "region": "蘇瑞瑪",
@@ -1727,8 +1727,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH003T8.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH003T8-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH003T8.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH003T8-full.png"
       }
     ],
     "region": "蘇瑞瑪",
@@ -1736,7 +1736,7 @@
     "attack": 10,
     "cost": 7,
     "health": 7,
-    "description": "召喚此牌時，抽1張牌。\r\n<link=vocab.RoundEnd><style=Vocab>回合結束</style></link>：使<link=vocab.Strongest><style=Vocab>最強</style></link>敵軍單位與此牌<br>互相<link=vocab.Strike><style=Vocab>打擊</style></link>。",
+    "description": "召喚此牌時，抽1張牌。\r\n<link=vocab.RoundEnd><style=Vocab>回合結束</style></link>：使<link=vocab.Strongest><style=Vocab>最強</style></link>敵軍單位<br>與此牌互相<link=vocab.Strike><style=Vocab>打擊</style></link>。",
     "descriptionRaw": "召喚此牌時，抽1張牌。\r\n回合結束：使最強敵軍單位與此牌互相打擊。",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
@@ -1766,8 +1766,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH003T6.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH003T6-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH003T6.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH003T6-full.png"
       }
     ],
     "region": "蘇瑞瑪",
@@ -1805,8 +1805,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH003T12.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH003T12-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH003T12.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH003T12-full.png"
       }
     ],
     "region": "蘇瑞瑪",
@@ -1844,8 +1844,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH003T11.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH003T11-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH003T11.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH003T11-full.png"
       }
     ],
     "region": "蘇瑞瑪",
@@ -1883,8 +1883,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH003T7.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH003T7-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH003T7.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH003T7-full.png"
       }
     ],
     "region": "蘇瑞瑪",
@@ -1925,8 +1925,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH003T13.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH003T13-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH003T13.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH003T13-full.png"
       }
     ],
     "region": "蘇瑞瑪",
@@ -1964,8 +1964,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH003T9.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH003T9-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH003T9.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH003T9-full.png"
       }
     ],
     "region": "蘇瑞瑪",
@@ -2003,8 +2003,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH011.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH011-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH011.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH011-full.png"
       }
     ],
     "region": "蘇瑞瑪",
@@ -2040,8 +2040,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH114.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH114-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH114.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH114-full.png"
       }
     ],
     "region": "蘇瑞瑪",
@@ -2085,8 +2085,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH067.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH067-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH067.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH067-full.png"
       }
     ],
     "region": "蘇瑞瑪",
@@ -2094,7 +2094,7 @@
     "attack": 4,
     "cost": 4,
     "health": 4,
-    "description": "此牌<link=keyword.Challenger><sprite name=Challenger><style=Keyword>挑戰</style></link>敵軍單位時，本回合給予此牌+2|+1。 ",
+    "description": "此牌<link=keyword.Challenger><sprite name=Challenger><style=Keyword>挑戰</style></link>敵軍單位時，<br>本回合給予此牌+2|+1。 ",
     "descriptionRaw": "此牌挑戰敵軍單位時，本回合給予此牌+2|+1。 ",
     "levelupDescription": "此牌造成12點以上傷害<style=Variable></style>。",
     "levelupDescriptionRaw": "此牌造成12點以上傷害。",
@@ -2131,8 +2131,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH067T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH067T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH067T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH067T1-full.png"
       }
     ],
     "region": "蘇瑞瑪",
@@ -2178,8 +2178,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH067T4.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH067T4-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH067T4.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH067T4-full.png"
       }
     ],
     "region": "蘇瑞瑪",
@@ -2223,8 +2223,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH067T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH067T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH067T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH067T2-full.png"
       }
     ],
     "region": "蘇瑞瑪",
@@ -2262,8 +2262,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH067T5.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH067T5-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH067T5.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH067T5-full.png"
       }
     ],
     "region": "蘇瑞瑪",
@@ -2301,8 +2301,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH120.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH120-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH120.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH120-full.png"
       }
     ],
     "region": "蘇瑞瑪",
@@ -2340,8 +2340,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH119.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH119-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH119.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH119-full.png"
       }
     ],
     "region": "蘇瑞瑪",
@@ -2379,8 +2379,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH093.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH093-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH093.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH093-full.png"
       }
     ],
     "region": "蘇瑞瑪",
@@ -2418,8 +2418,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH079.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH079-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH079.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH079-full.png"
       }
     ],
     "region": "蘇瑞瑪",
@@ -2459,8 +2459,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH038.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH038-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH038.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH038-full.png"
       }
     ],
     "region": "蘇瑞瑪",
@@ -2494,8 +2494,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH104.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH104-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH104.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH104-full.png"
       }
     ],
     "region": "蘇瑞瑪",
@@ -2531,8 +2531,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH099.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH099-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH099.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH099-full.png"
       }
     ],
     "region": "蘇瑞瑪",
@@ -2572,8 +2572,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH048.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH048-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH048.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH048-full.png"
       }
     ],
     "region": "蘇瑞瑪",
@@ -2613,8 +2613,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH056.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH056-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH056.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH056-full.png"
       }
     ],
     "region": "蘇瑞瑪",
@@ -2648,8 +2648,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH098T3.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH098T3-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH098T3.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH098T3-full.png"
       }
     ],
     "region": "蘇瑞瑪",
@@ -2689,8 +2689,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH098T12.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH098T12-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH098T12.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH098T12-full.png"
       }
     ],
     "region": "蘇瑞瑪",
@@ -2730,8 +2730,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH098T7.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH098T7-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH098T7.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH098T7-full.png"
       }
     ],
     "region": "蘇瑞瑪",
@@ -2771,8 +2771,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH098T6.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH098T6-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH098T6.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH098T6-full.png"
       }
     ],
     "region": "蘇瑞瑪",
@@ -2812,8 +2812,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH098T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH098T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH098T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH098T2-full.png"
       }
     ],
     "region": "蘇瑞瑪",
@@ -2853,8 +2853,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH098T10.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH098T10-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH098T10.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH098T10-full.png"
       }
     ],
     "region": "蘇瑞瑪",
@@ -2894,8 +2894,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH098T5.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH098T5-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH098T5.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH098T5-full.png"
       }
     ],
     "region": "蘇瑞瑪",
@@ -2935,8 +2935,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH098T8.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH098T8-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH098T8.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH098T8-full.png"
       }
     ],
     "region": "蘇瑞瑪",
@@ -2976,8 +2976,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH098T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH098T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH098T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH098T1-full.png"
       }
     ],
     "region": "蘇瑞瑪",
@@ -3017,8 +3017,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH098.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH098-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH098.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH098-full.png"
       }
     ],
     "region": "蘇瑞瑪",
@@ -3061,8 +3061,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH020.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH020-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH020.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH020-full.png"
       }
     ],
     "region": "蘇瑞瑪",
@@ -3102,8 +3102,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH057.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH057-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH057.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH057-full.png"
       }
     ],
     "region": "蘇瑞瑪",
@@ -3111,7 +3111,7 @@
     "attack": 4,
     "cost": 6,
     "health": 5,
-    "description": "召喚其他友軍單位時，本回合給予其+2|+0。",
+    "description": "召喚其他友軍單位時，<br>本回合給予其+2|+0。",
     "descriptionRaw": "召喚其他友軍單位時，本回合給予其+2|+0。",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
@@ -3137,8 +3137,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH103.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH103-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH103.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH103-full.png"
       }
     ],
     "region": "蘇瑞瑪",
@@ -3176,8 +3176,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH120T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH120T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH120T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH120T2-full.png"
       }
     ],
     "region": "蘇瑞瑪",
@@ -3215,8 +3215,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH120T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH120T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH120T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH120T1-full.png"
       }
     ],
     "region": "蘇瑞瑪",
@@ -3254,8 +3254,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH006.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH006-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH006.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH006-full.png"
       }
     ],
     "region": "蘇瑞瑪",
@@ -3293,8 +3293,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH076T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH076T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH076T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH076T1-full.png"
       }
     ],
     "region": "蘇瑞瑪",
@@ -3302,7 +3302,7 @@
     "attack": 0,
     "cost": 2,
     "health": 0,
-    "description": "<link=vocab.Buried><style=Vocab>倒數1</style></link><style=Variable></style>：召喚1個被此牌取代而<link=keyword.Obliterate><style=Keyword>泯滅</style></link>的單位的複製單位。",
+    "description": "<link=vocab.Buried><style=Vocab>倒數1</style></link><style=Variable></style>：召喚1個被此牌取代<br>而<link=keyword.Obliterate><style=Keyword>泯滅</style></link>的單位的複製單位。",
     "descriptionRaw": "倒數1：召喚1個被此牌取代而泯滅的單位的複製單位。",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
@@ -3334,8 +3334,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH034.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH034-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH034.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH034-full.png"
       }
     ],
     "region": "蘇瑞瑪",
@@ -3343,7 +3343,7 @@
     "attack": 4,
     "cost": 8,
     "health": 7,
-    "description": "召喚此牌時，在手牌生成2張<br><link=card.create><style=AssociatedCard>百年一瞬</style></link>。",
+    "description": "召喚此牌時，在手牌生成<br>2張<link=card.create><style=AssociatedCard>百年一瞬</style></link>。",
     "descriptionRaw": "召喚此牌時，在手牌生成2張百年一瞬。",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
@@ -3369,8 +3369,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH034T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH034T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH034T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH034T1-full.png"
       }
     ],
     "region": "蘇瑞瑪",
@@ -3408,8 +3408,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH034T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH034T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH034T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH034T2-full.png"
       }
     ],
     "region": "蘇瑞瑪",
@@ -3447,8 +3447,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH034T3.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH034T3-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH034T3.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH034T3-full.png"
       }
     ],
     "region": "蘇瑞瑪",
@@ -3486,8 +3486,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH082.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH082-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH082.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH082-full.png"
       }
     ],
     "region": "蘇瑞瑪",
@@ -3527,8 +3527,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH075.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH075-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH075.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH075-full.png"
       }
     ],
     "region": "蘇瑞瑪",
@@ -3536,7 +3536,7 @@
     "attack": 3,
     "cost": 7,
     "health": 7,
-    "description": "本回合給予所有敵軍單位<link=keyword.Vulnerable><sprite name=Vulnerable><style=Keyword>弱勢</style></link>並召喚6個<link=card.summon><style=AssociatedCard>沙礫士兵</style></link>。",
+    "description": "本回合給予所有敵軍單位<br><link=keyword.Vulnerable><sprite name=Vulnerable><style=Keyword>弱勢</style></link>並召喚6個<link=card.summon><style=AssociatedCard>沙礫士兵</style></link>。",
     "descriptionRaw": "本回合給予所有敵軍單位弱勢並召喚6個沙礫士兵。",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
@@ -3566,8 +3566,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH018.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH018-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH018.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH018-full.png"
       }
     ],
     "region": "蘇瑞瑪",
@@ -3575,7 +3575,7 @@
     "attack": 0,
     "cost": 4,
     "health": 0,
-    "description": "擊殺1個友軍單位或摧毀我方1個魔力寶石，以在本回合給予所有敵軍單位<nobr>-2|-0</nobr>。",
+    "description": "擊殺1個友軍單位或摧毀我方<br>1個魔力寶石，以在本回合給予<br>所有敵軍單位<nobr>-2|-0</nobr>。",
     "descriptionRaw": "擊殺1個友軍單位或摧毀我方1個魔力寶石，以在本回合給予所有敵軍單位-2|-0。",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
@@ -3607,8 +3607,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH009.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH009-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH009.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH009-full.png"
       }
     ],
     "region": "蘇瑞瑪",
@@ -3648,8 +3648,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH049.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH049-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH049.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH049-full.png"
       }
     ],
     "region": "蘇瑞瑪",
@@ -3685,8 +3685,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH049T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH049T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH049T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH049T1-full.png"
       }
     ],
     "region": "蘇瑞瑪",
@@ -3722,8 +3722,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH045.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH045-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH045.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH045-full.png"
       }
     ],
     "region": "蘇瑞瑪",
@@ -3763,8 +3763,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH037.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH037-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH037.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH037-full.png"
       }
     ],
     "region": "蘇瑞瑪",
@@ -3802,8 +3802,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH107.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH107-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH107.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH107-full.png"
       }
     ],
     "region": "蘇瑞瑪",
@@ -3846,8 +3846,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH047.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH047-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH047.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH047-full.png"
       }
     ],
     "region": "蘇瑞瑪",
@@ -3889,8 +3889,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH097.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH097-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH097.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH097-full.png"
       }
     ],
     "region": "蘇瑞瑪",
@@ -3930,8 +3930,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH026.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH026-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH026.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH026-full.png"
       }
     ],
     "region": "蘇瑞瑪",
@@ -3965,8 +3965,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH102.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH102-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH102.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH102-full.png"
       }
     ],
     "region": "蘇瑞瑪",
@@ -4000,8 +4000,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH001.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH001-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH001.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH001-full.png"
       }
     ],
     "region": "蘇瑞瑪",
@@ -4037,8 +4037,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH009T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH009T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH009T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH009T1-full.png"
       }
     ],
     "region": "蘇瑞瑪",
@@ -4076,8 +4076,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH030.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH030-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH030.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH030-full.png"
       }
     ],
     "region": "蘇瑞瑪",
@@ -4085,7 +4085,7 @@
     "attack": 0,
     "cost": 7,
     "health": 0,
-    "description": "給予1個我方英雄：「本回合此牌下次將要陣亡時，反而會治癒此牌，並賦予其+3|+3」。",
+    "description": "給予1個我方英雄：「本回合此牌下次將要陣亡時，反而會治癒<br>此牌，並賦予其+3|+3」。",
     "descriptionRaw": "給予1個我方英雄：「本回合此牌下次將要陣亡時，反而會治癒此牌，並賦予其+3|+3」。",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
@@ -4115,8 +4115,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH013.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH013-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH013.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH013-full.png"
       }
     ],
     "region": "蘇瑞瑪",
@@ -4156,8 +4156,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH062.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH062-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH062.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH062-full.png"
       }
     ],
     "region": "蘇瑞瑪",
@@ -4165,7 +4165,7 @@
     "attack": 0,
     "cost": 1,
     "health": 0,
-    "description": "牌局開始：若我方所有卡牌皆為蘇瑞瑪卡牌，則抽出1張此牌。\r\n<link=vocab.Buried><style=Vocab>倒數25</style></link><style=Variable></style>：<link=vocab.SunDiscRestore><style=Vocab>復原烈日巨環</style></link>。\r\n我方飛昇者升級時，<link=vocab.Advance><style=Vocab>快轉</style></link>此牌<br>10回合。",
+    "description": "牌局開始：若我方所有卡牌皆為<br>蘇瑞瑪卡牌，則抽出1張此牌。\r\n<link=vocab.Buried><style=Vocab>倒數25</style></link><style=Variable></style>：<link=vocab.SunDiscRestore><style=Vocab>復原烈日巨環</style></link>。\r\n我方飛昇者升級時，<br><link=vocab.Advance><style=Vocab>快轉</style></link>此牌10回合。",
     "descriptionRaw": "牌局開始：若我方所有卡牌皆為蘇瑞瑪卡牌，則抽出1張此牌。\r\n倒數25：復原烈日巨環。\r\n我方飛昇者升級時，快轉此牌10回合。",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
@@ -4195,8 +4195,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH016.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH016-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH016.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH016-full.png"
       }
     ],
     "region": "蘇瑞瑪",
@@ -4204,8 +4204,8 @@
     "attack": 0,
     "cost": 5,
     "health": 0,
-    "description": "使1個友軍單位<link=vocab.Strike><style=Vocab>打擊</style></link>1個單位。\r\n若該單位陣亡，\r\n則賦予我方<link=vocab.Everywhere><style=Vocab>各處</style></link>的英雄+2|+2。",
-    "descriptionRaw": "使1個友軍單位打擊1個單位。\r\n若該單位陣亡，\r\n則賦予我方各處的英雄+2|+2。",
+    "description": "使1個友軍單位<link=vocab.Strike><style=Vocab>打擊</style></link>1個單位。\r\n若該單位陣亡，則賦予<br>我方<link=vocab.Everywhere><style=Vocab>各處</style></link>的英雄+2|+2。",
+    "descriptionRaw": "使1個友軍單位打擊1個單位。\r\n若該單位陣亡，則賦予我方各處的英雄+2|+2。",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "「你的靈魂由我來審判。」——納瑟斯",
@@ -4234,8 +4234,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH108.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH108-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH108.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH108-full.png"
       }
     ],
     "region": "蘇瑞瑪",
@@ -4243,8 +4243,8 @@
     "attack": 0,
     "cost": 7,
     "health": 0,
-    "description": "使1個友軍單位<link=vocab.Strike><style=Vocab>打擊</style></link>\r\n<link=vocab.Strongest><style=Vocab>最強</style></link>與<link=keyword.Weakest><style=Keyword>最弱</style></link>敵軍單位。",
-    "descriptionRaw": "使1個友軍單位打擊\r\n最強與最弱敵軍單位。",
+    "description": "使1個友軍單位<link=vocab.Strike><style=Vocab>打擊</style></link><link=vocab.Strongest><style=Vocab>最強</style></link><br>與<link=keyword.Weakest><style=Keyword>最弱</style></link>敵軍單位。",
+    "descriptionRaw": "使1個友軍單位打擊最強與最弱敵軍單位。",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "「勸你趕快閃。」——希維爾",
@@ -4273,8 +4273,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH066.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH066-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH066.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH066-full.png"
       }
     ],
     "region": "蘇瑞瑪",
@@ -4312,8 +4312,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH014.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH014-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH014.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH014-full.png"
       }
     ],
     "region": "蘇瑞瑪",
@@ -4351,8 +4351,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH047T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH047T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH047T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH047T1-full.png"
       }
     ],
     "region": "蘇瑞瑪",
@@ -4360,7 +4360,7 @@
     "attack": 0,
     "cost": 5,
     "health": 0,
-    "description": "使1個友軍單位<link=vocab.Strike><style=Vocab>打擊</style></link>1個單位。\r\n若該單位陣亡，則賦予我方<link=vocab.Everywhere><style=Vocab>各處</style></link>的英雄+2|+2。\r\n在我方牌組生成1張<link=card.level1><style=AssociatedCard>納瑟斯</style></link>。",
+    "description": "使1個友軍單位<link=vocab.Strike><style=Vocab>打擊</style></link>1個單位。\r\n若該單位陣亡，則賦予我方<br><link=vocab.Everywhere><style=Vocab>各處</style></link>的英雄+2|+2。\r\n在我方牌組生成1張<link=card.level1><style=AssociatedCard>納瑟斯</style></link>。",
     "descriptionRaw": "使1個友軍單位打擊1個單位。\r\n若該單位陣亡，則賦予我方各處的英雄+2|+2。\r\n在我方牌組生成1張納瑟斯。",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
@@ -4394,8 +4394,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH047T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH047T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH047T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH047T2-full.png"
       }
     ],
     "region": "蘇瑞瑪",
@@ -4444,8 +4444,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH047T3.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH047T3-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH047T3.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH047T3-full.png"
       }
     ],
     "region": "蘇瑞瑪",
@@ -4489,8 +4489,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH021.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH021-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH021.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH021-full.png"
       }
     ],
     "region": "蘇瑞瑪",
@@ -4528,8 +4528,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH101.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH101-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH101.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH101-full.png"
       }
     ],
     "region": "蘇瑞瑪",
@@ -4537,8 +4537,8 @@
     "attack": 1,
     "cost": 3,
     "health": 6,
-    "description": "<link=vocab.RoundStart><style=Vocab>回合開始</style></link>：若我方已升級英雄，則治療我方英雄及我方主堡2點生命值。",
-    "descriptionRaw": "回合開始：若我方已升級英雄，則治療我方英雄及我方主堡2點生命值。",
+    "description": "<link=vocab.RoundStart><style=Vocab>回合開始</style></link>：若我方已升級英雄，<br>則治療我方英雄與主堡2點生命值。",
+    "descriptionRaw": "回合開始：若我方已升級英雄，則治療我方英雄與主堡2點生命值。",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "「我發誓效忠阿祈爾和我的家鄉蘇瑞瑪！你不一起來嗎？」",
@@ -4565,8 +4565,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH012.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH012-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH012.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH012-full.png"
       }
     ],
     "region": "蘇瑞瑪",
@@ -4574,8 +4574,8 @@
     "attack": 3,
     "cost": 3,
     "health": 4,
-    "description": "召喚此牌時，<link=vocab.Advance><style=Vocab>快轉</style></link>我方的<br><link=card.create><style=AssociatedCard>埋沒的烈日巨環</style></link>3回合。",
-    "descriptionRaw": "召喚此牌時，快轉我方的埋沒的烈日巨環3回合。",
+    "description": "召喚此牌時，<link=vocab.Advance><style=Vocab>快轉</style></link>我方<br><link=card.create><style=AssociatedCard>埋沒的烈日巨環</style></link>3回合。",
+    "descriptionRaw": "召喚此牌時，快轉我方埋沒的烈日巨環3回合。",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "「喔，爸爸！那是娜敘亞麥的其中一位長老帕諸曼！今天是不是全部的人都到我們的城鎮裡來啦？」——興奮的圍觀者",
@@ -4603,8 +4603,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH020T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH020T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH020T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH020T2-full.png"
       }
     ],
     "region": "蘇瑞瑪",
@@ -4645,8 +4645,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH020T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH020T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH020T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH020T1-full.png"
       }
     ],
     "region": "蘇瑞瑪",
@@ -4654,7 +4654,7 @@
     "attack": 6,
     "cost": 4,
     "health": 4,
-    "description": "此牌攻擊時，攻擊中的友軍單位將擁有此牌的特性。",
+    "description": "此牌攻擊時，攻擊中的友軍單位<br>將擁有此牌的特性。",
     "descriptionRaw": "此牌攻擊時，攻擊中的友軍單位將擁有此牌的特性。",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
@@ -4686,8 +4686,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH031.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH031-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH031.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH031-full.png"
       }
     ],
     "region": "蘇瑞瑪",
@@ -4695,7 +4695,7 @@
     "attack": 0,
     "cost": 4,
     "health": 0,
-    "description": "賦予1個我方地標以下能力：「此牌的<link=vocab.Buried><style=Vocab>倒數</style></link>效果發動2次」。",
+    "description": "賦予1個我方地標以下能力：<br>「此牌的<link=vocab.Buried><style=Vocab>倒數</style></link>效果發動2次」。",
     "descriptionRaw": "賦予1個我方地標以下能力：「此牌的倒數效果發動2次」。",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
@@ -4725,8 +4725,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH004.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH004-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH004.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH004-full.png"
       }
     ],
     "region": "蘇瑞瑪",
@@ -4764,8 +4764,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH059.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH059-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH059.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH059-full.png"
       }
     ],
     "region": "蘇瑞瑪",
@@ -4803,8 +4803,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH044.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH044-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH044.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH044-full.png"
       }
     ],
     "region": "蘇瑞瑪",
@@ -4840,8 +4840,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH076.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH076-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH076.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH076-full.png"
       }
     ],
     "region": "蘇瑞瑪",
@@ -4849,7 +4849,7 @@
     "attack": 0,
     "cost": 2,
     "health": 0,
-    "description": "<link=keyword.Obliterate><style=Keyword>泯滅</style></link>1個友軍單位，以在原處召喚1個<link=card.create><style=AssociatedCard>凝滯雕像</style></link>。",
+    "description": "<link=keyword.Obliterate><style=Keyword>泯滅</style></link>1個友軍單位，以在原處<br>召喚1個<link=card.create><style=AssociatedCard>凝滯雕像</style></link>。",
     "descriptionRaw": "泯滅1個友軍單位，以在原處召喚1個凝滯雕像。",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
@@ -4881,8 +4881,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH118.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH118-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH118.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH118-full.png"
       }
     ],
     "region": "蘇瑞瑪",
@@ -4920,8 +4920,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH072.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH072-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH072.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH072-full.png"
       }
     ],
     "region": "蘇瑞瑪",
@@ -4955,8 +4955,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH041.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH041-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH041.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH041-full.png"
       }
     ],
     "region": "蘇瑞瑪",
@@ -4990,8 +4990,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH005.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH005-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH005.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH005-full.png"
       }
     ],
     "region": "蘇瑞瑪",
@@ -5025,8 +5025,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH046.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH046-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH046.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH046-full.png"
       }
     ],
     "region": "蘇瑞瑪",
@@ -5034,7 +5034,7 @@
     "attack": 6,
     "cost": 12,
     "health": 6,
-    "description": "在此牌局中，每有1個友軍單位攻擊1次，則此牌魔耗值-1。",
+    "description": "在此牌局中，每有1個友軍單位<br>攻擊1次，則此牌魔耗值-1。",
     "descriptionRaw": "在此牌局中，每有1個友軍單位攻擊1次，則此牌魔耗值-1。",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
@@ -5062,8 +5062,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH062T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH062T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH062T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH062T1-full.png"
       }
     ],
     "region": "蘇瑞瑪",
@@ -5071,7 +5071,7 @@
     "attack": 0,
     "cost": 0,
     "health": 0,
-    "description": "抽出我方所有飛昇者各1張。\r\n我方的等級2飛昇者變為等級3，此效果持續到牌局結束。",
+    "description": "抽出我方所有飛昇者各1張。\r\n我方的等級2飛昇者變為等級3，<br>此效果持續到牌局結束。",
     "descriptionRaw": "抽出我方所有飛昇者各1張。\r\n我方的等級2飛昇者變為等級3，此效果持續到牌局結束。",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
@@ -5097,8 +5097,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH018T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH018T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH018T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH018T2-full.png"
       }
     ],
     "region": "蘇瑞瑪",
@@ -5106,7 +5106,7 @@
     "attack": 0,
     "cost": 4,
     "health": 0,
-    "description": "擊殺1個友軍單位，以在本回合給予<br>所有敵軍單位<nobr>-2|-0</nobr>。",
+    "description": "擊殺1個友軍單位，以在本回合<br>給予所有敵軍單位<nobr>-2|-0</nobr>。",
     "descriptionRaw": "擊殺1個友軍單位，以在本回合給予所有敵軍單位-2|-0。",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
@@ -5136,8 +5136,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH018T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH018T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH018T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH018T1-full.png"
       }
     ],
     "region": "蘇瑞瑪",
@@ -5145,7 +5145,7 @@
     "attack": 0,
     "cost": 4,
     "health": 0,
-    "description": "摧毀我方1個魔力寶石，以在本回合<br>給予所有敵軍單位<nobr>-2|-0</nobr>。",
+    "description": "摧毀我方1個魔力寶石，以在<br>本回合給予所有敵軍單位<nobr>-2|-0</nobr>。",
     "descriptionRaw": "摧毀我方1個魔力寶石，以在本回合給予所有敵軍單位-2|-0。",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
@@ -5177,8 +5177,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH105.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH105-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH105.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH105-full.png"
       }
     ],
     "region": "蘇瑞瑪",
@@ -5216,8 +5216,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH069.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH069-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH069.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH069-full.png"
       }
     ],
     "region": "蘇瑞瑪",
@@ -5255,8 +5255,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH121.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH121-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH121.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH121-full.png"
       }
     ],
     "region": "蘇瑞瑪",
@@ -5294,8 +5294,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH121T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH121T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH121T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH121T1-full.png"
       }
     ],
     "region": "蘇瑞瑪",
@@ -5333,8 +5333,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH121T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH121T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH121T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH121T2-full.png"
       }
     ],
     "region": "蘇瑞瑪",
@@ -5374,8 +5374,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH097T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH097T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH097T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH097T1-full.png"
       }
     ],
     "region": "蘇瑞瑪",
@@ -5413,8 +5413,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH110.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH110-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH110.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH110-full.png"
       }
     ],
     "region": "蘇瑞瑪",
@@ -5454,8 +5454,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH051.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH051-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH051.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH051-full.png"
       }
     ],
     "region": "蘇瑞瑪",
@@ -5493,8 +5493,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH106.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH106-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH106.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH106-full.png"
       }
     ],
     "region": "蘇瑞瑪",
@@ -5502,7 +5502,7 @@
     "attack": 0,
     "cost": 7,
     "health": 0,
-    "description": "本回合給予所有敵軍單位<nobr>-2|-0</nobr>以及「<link=vocab.RoundEnd><style=Vocab>回合結束</style></link>：對此牌造成2點傷害」。",
+    "description": "本回合給予所有敵軍單位<nobr>-2|-0</nobr><br>以及「<link=vocab.RoundEnd><style=Vocab>回合結束</style></link>：對此牌造成<br>2點傷害」。",
     "descriptionRaw": "本回合給予所有敵軍單位-2|-0以及「回合結束：對此牌造成2點傷害」。",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
@@ -5532,8 +5532,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH109.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH109-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH109.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH109-full.png"
       }
     ],
     "region": "蘇瑞瑪",
@@ -5541,7 +5541,7 @@
     "attack": 0,
     "cost": 3,
     "health": 0,
-    "description": "本回合給予1個敵軍單位<nobr>-4|-0</nobr>，<br>並使其特性無效化（不含負面特性）。",
+    "description": "本回合給予1個敵軍單位<nobr>-4|-0</nobr>，<br>並使其特性無效化<br>（不含負面特性）。",
     "descriptionRaw": "本回合給予1個敵軍單位-4|-0，並使其特性無效化（不含負面特性）。",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
@@ -5571,8 +5571,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH090.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SH090-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH090.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SH090-full.png"
       }
     ],
     "region": "蘇瑞瑪",
@@ -5609,8 +5609,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04FR006.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04FR006-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04FR006.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04FR006-full.png"
       }
     ],
     "region": "弗雷爾卓德",
@@ -5618,7 +5618,7 @@
     "attack": 4,
     "cost": 5,
     "health": 5,
-    "description": "召喚此牌時，召喚1個<link=card.create><style=AssociatedCard>冰封奴魔</style></link>。\r\n<link=vocab.RoundEnd><style=Vocab>回合結束</style></link>：若我方有<link=vocab.Buried><style=Vocab>倒數4</style></link>回合以下的<link=card.create><style=AssociatedCard>冰封奴魔</style></link>，<br>則將其<link=vocab.Advance><style=Vocab>快轉</style></link>至歸零。",
+    "description": "召喚此牌時，召喚1個<link=card.create><style=AssociatedCard>冰封奴魔</style></link>。\r\n<link=vocab.RoundEnd><style=Vocab>回合結束</style></link>：若我方有<link=vocab.Buried><style=Vocab>倒數4</style></link>回合<br>以下的<link=card.create><style=AssociatedCard>冰封奴魔</style></link>，<br>則將其<link=vocab.Advance><style=Vocab>快轉</style></link>至歸零。",
     "descriptionRaw": "召喚此牌時，召喚1個冰封奴魔。\r\n回合結束：若我方有倒數4回合以下的冰封奴魔，則將其快轉至歸零。",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
@@ -5646,8 +5646,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04FR012.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04FR012-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04FR012.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04FR012-full.png"
       }
     ],
     "region": "弗雷爾卓德",
@@ -5655,7 +5655,7 @@
     "attack": 0,
     "cost": 9,
     "health": 0,
-    "description": "<link=keyword.Obliterate><style=Keyword>泯滅</style></link>所有敵軍單位，並在原處召喚相同數量的<link=card.create><style=AssociatedCard>永凍墳地</style></link>。",
+    "description": "<link=keyword.Obliterate><style=Keyword>泯滅</style></link>所有敵軍單位，並在原處<br>召喚相同數量的<link=card.create><style=AssociatedCard>永凍墳地</style></link>。",
     "descriptionRaw": "泯滅所有敵軍單位，並在原處召喚相同數量的永凍墳地。",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
@@ -5685,8 +5685,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04FR016.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04FR016-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04FR016.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04FR016-full.png"
       }
     ],
     "region": "弗雷爾卓德",
@@ -5724,8 +5724,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04FR001T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04FR001T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04FR001T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04FR001T1-full.png"
       }
     ],
     "region": "弗雷爾卓德",
@@ -5763,8 +5763,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04FR013.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04FR013-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04FR013.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04FR013-full.png"
       }
     ],
     "region": "弗雷爾卓德",
@@ -5810,8 +5810,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04FR005.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04FR005-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04FR005.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04FR005-full.png"
       }
     ],
     "region": "弗雷爾卓德",
@@ -5821,7 +5821,7 @@
     "health": 3,
     "description": "召喚此牌時，召喚1個<link=card.create><style=AssociatedCard>冰封奴魔</style></link>。",
     "descriptionRaw": "召喚此牌時，召喚1個冰封奴魔。",
-    "levelupDescription": "我方召喚2個以上魔耗值為8<br>以上的友軍單位<style=Variable></style>。此牌升級時，<br>在手牌生成1張<link=card.summon><style=AssociatedCard>守望者</style></link>。",
+    "levelupDescription": "我方召喚2個以上魔耗值為8<br>以上的友軍單位<style=Variable></style>。<nobr>此牌升級時，</nobr><br>在手牌生成1張<link=card.summon><style=AssociatedCard>守望者</style></link>。",
     "levelupDescriptionRaw": "我方召喚2個以上魔耗值為8以上的友軍單位。此牌升級時，在手牌生成1張守望者。",
     "flavorText": "「在高牆的另一邊，潛伏著被冰雪包覆、時間被暫停<br>的守望者。就讓他們再等等吧，我有一些計畫必須先<br>進行……」",
     "artistName": "SIXMOREVODKA",
@@ -5851,8 +5851,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04FR005T4.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04FR005T4-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04FR005T4.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04FR005T4-full.png"
       }
     ],
     "region": "弗雷爾卓德",
@@ -5860,7 +5860,7 @@
     "attack": 11,
     "cost": 17,
     "health": 17,
-    "description": "在本牌局中，若我方已召喚4個以上<br>魔耗值為8以上的友軍單位，<br>則此牌魔耗值為0。<style=Variable></style>\r\n<link=vocab.Attack><style=Vocab>攻擊</style></link>：<link=keyword.Obliterate><style=Keyword>泯滅</style></link>敵方牌組。",
+    "description": "在本牌局中，若我方已召喚4個<br>以上魔耗值為8以上的友軍單位，<br>則此牌魔耗值為0。<style=Variable></style>\r\n<link=vocab.Attack><style=Vocab>攻擊</style></link>：<link=keyword.Obliterate><style=Keyword>泯滅</style></link>敵方牌組。",
     "descriptionRaw": "在本牌局中，若我方已召喚4個以上魔耗值為8以上的友軍單位，則此牌魔耗值為0。\r\n攻擊：泯滅敵方牌組。",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
@@ -5894,8 +5894,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04FR005T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04FR005T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04FR005T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04FR005T1-full.png"
       }
     ],
     "region": "弗雷爾卓德",
@@ -5903,7 +5903,7 @@
     "attack": 3,
     "cost": 3,
     "health": 4,
-    "description": "我方主堡擁有<link=keyword.Tough><sprite name=Tough><style=Keyword>堅忍</style></link>。\r\n召喚此牌時，召喚1個<link=card.create><style=AssociatedCard>冰封奴魔</style></link>。\r\n<link=vocab.RoundStart><style=Vocab>回合開始</style></link>：在手牌生成1張魔耗值為0的<link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>飛逝</style></link><link=card.cast><style=AssociatedCard>幽影碎冰</style></link>。",
+    "description": "我方主堡擁有<link=keyword.Tough><sprite name=Tough><style=Keyword>堅忍</style></link>。\r\n召喚此牌時，召喚1個<link=card.create><style=AssociatedCard>冰封奴魔</style></link>。\r\n<link=vocab.RoundStart><style=Vocab>回合開始</style></link>：在手牌生成1張魔耗值<br>為0的<link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>飛逝</style></link><link=card.cast><style=AssociatedCard>幽影碎冰</style></link>。",
     "descriptionRaw": "我方主堡擁有堅忍。\r\n召喚此牌時，召喚1個冰封奴魔。\r\n回合開始：在手牌生成1張魔耗值為0的飛逝幽影碎冰。",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
@@ -5939,8 +5939,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04FR005T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04FR005T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04FR005T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04FR005T2-full.png"
       }
     ],
     "region": "弗雷爾卓德",
@@ -5948,7 +5948,7 @@
     "attack": 0,
     "cost": 5,
     "health": 0,
-    "description": "<link=keyword.Obliterate><style=Keyword>泯滅</style></link>1個單位，並在原處召喚<br>1個<link=card.create><style=AssociatedCard>永凍墳地</style></link>。\r\n在我方牌組生成1張<link=card.level1><style=AssociatedCard>麗珊卓</style></link>。",
+    "description": "<link=keyword.Obliterate><style=Keyword>泯滅</style></link>1個單位，並在原處<br>召喚1個<link=card.create><style=AssociatedCard>永凍墳地</style></link>。\r\n在我方牌組生成1張<link=card.level1><style=AssociatedCard>麗珊卓</style></link>。",
     "descriptionRaw": "泯滅1個單位，並在原處召喚1個永凍墳地。\r\n在我方牌組生成1張麗珊卓。",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
@@ -5981,8 +5981,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04FR011.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04FR011-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04FR011.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04FR011-full.png"
       }
     ],
     "region": "弗雷爾卓德",
@@ -6022,8 +6022,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04FR001.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04FR001-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04FR001.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04FR001-full.png"
       }
     ],
     "region": "弗雷爾卓德",
@@ -6063,8 +6063,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04FR007.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04FR007-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04FR007.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04FR007-full.png"
       }
     ],
     "region": "弗雷爾卓德",
@@ -6072,7 +6072,7 @@
     "attack": 0,
     "cost": 5,
     "health": 0,
-    "description": "<link=keyword.Obliterate><style=Keyword>泯滅</style></link>1個單位，並在原處召喚<br>1個<link=card.create><style=AssociatedCard>永凍墳地</style></link>。",
+    "description": "<link=keyword.Obliterate><style=Keyword>泯滅</style></link>1個單位，並在原處<br>召喚1個<link=card.create><style=AssociatedCard>永凍墳地</style></link>。",
     "descriptionRaw": "泯滅1個單位，並在原處召喚1個永凍墳地。",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
@@ -6102,8 +6102,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04FR007T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04FR007T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04FR007T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04FR007T1-full.png"
       }
     ],
     "region": "弗雷爾卓德",
@@ -6111,7 +6111,7 @@
     "attack": 0,
     "cost": 0,
     "health": 0,
-    "description": "<link=vocab.Buried><style=Vocab>倒數2</style></link><style=Variable></style>：召喚1個被此牌取代而<link=keyword.Obliterate><style=Keyword>泯滅</style></link>的單位的複製單位。",
+    "description": "<link=vocab.Buried><style=Vocab>倒數2</style></link><style=Variable></style>：召喚1個被此牌取代而<br><link=keyword.Obliterate><style=Keyword>泯滅</style></link>的單位的複製單位。",
     "descriptionRaw": "倒數2：召喚1個被此牌取代而泯滅的單位的複製單位。",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
@@ -6141,8 +6141,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04FR017.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04FR017-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04FR017.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04FR017-full.png"
       }
     ],
     "region": "弗雷爾卓德",
@@ -6150,7 +6150,7 @@
     "attack": 0,
     "cost": 2,
     "health": 0,
-    "description": "賦予牌組最上方的友軍單位+2|+2。\r\n<link=keyword.Enlightened><style=Keyword>開悟</style></link>：改為賦予牌組中所有<br>友軍單位+2|+2。",
+    "description": "賦予牌組最上方的友軍單位+2|+2。\r\n<link=keyword.Enlightened><style=Keyword>開悟</style></link>：改為賦予牌組中<br>所有友軍單位+2|+2。",
     "descriptionRaw": "賦予牌組最上方的友軍單位+2|+2。\r\n開悟：改為賦予牌組中所有友軍單位+2|+2。",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
@@ -6180,8 +6180,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04FR014.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04FR014-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04FR014.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04FR014-full.png"
       }
     ],
     "region": "弗雷爾卓德",
@@ -6189,7 +6189,7 @@
     "attack": 0,
     "cost": 4,
     "health": 0,
-    "description": "召喚此牌時，治療<br>我方主堡4點生命值。\r\n<link=vocab.Buried><style=Vocab>倒數1</style></link><style=Variable></style>：<br>對所有目標造成2點傷害。",
+    "description": "召喚此牌時，治療我方主堡<br>4點生命值。\r\n<link=vocab.Buried><style=Vocab>倒數1</style></link><style=Variable></style>：對所有目標<br>造成2點傷害。",
     "descriptionRaw": "召喚此牌時，治療我方主堡4點生命值。\r\n倒數1：對所有目標造成2點傷害。",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
@@ -6219,8 +6219,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04FR009.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04FR009-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04FR009.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04FR009-full.png"
       }
     ],
     "region": "弗雷爾卓德",
@@ -6263,8 +6263,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04FR010.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04FR010-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04FR010.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04FR010-full.png"
       }
     ],
     "region": "弗雷爾卓德",
@@ -6302,8 +6302,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04NX002.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04NX002-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04NX002.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04NX002-full.png"
       }
     ],
     "region": "諾克薩斯",
@@ -6343,8 +6343,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04NX010.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04NX010-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04NX010.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04NX010-full.png"
       }
     ],
     "region": "諾克薩斯",
@@ -6356,7 +6356,7 @@
     "descriptionRaw": "召喚此牌時，在手牌生成1張狡詐。",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
-    "flavorText": "「艾連娜，我的摯友和同僚！妳有見到都因領主嗎……？啊，真是太可惜了，我本想和他敘敘舊。若那老朋友出了什麼差錯，我可是會傷心欲絕的……」<br>——黑玫瑰間諜，奧芙蕊夫人",
+    "flavorText": "「艾連娜，我的摯友和同僚！你有見到都因領主嗎……？啊，真是太可惜了，我本想和他敘敘舊。若那老朋友出了什麼差錯，我可是會傷心欲絕的……」<br>——黑玫瑰間諜，奧芙蕊夫人",
     "artistName": "Grafit Studio",
     "name": "玫瑰棘兵",
     "cardCode": "04NX010",
@@ -6378,8 +6378,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04NX015.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04NX015-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04NX015.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04NX015-full.png"
       }
     ],
     "region": "諾克薩斯",
@@ -6417,8 +6417,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04NX019.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04NX019-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04NX019.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04NX019-full.png"
       }
     ],
     "region": "諾克薩斯",
@@ -6452,8 +6452,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04NX008.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04NX008-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04NX008.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04NX008-full.png"
       }
     ],
     "region": "諾克薩斯",
@@ -6487,8 +6487,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04NX006.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04NX006-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04NX006.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04NX006-full.png"
       }
     ],
     "region": "諾克薩斯",
@@ -6522,8 +6522,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04NX001.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04NX001-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04NX001.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04NX001-full.png"
       }
     ],
     "region": "諾克薩斯",
@@ -6531,8 +6531,8 @@
     "attack": 0,
     "cost": 3,
     "health": 0,
-    "description": "<link=vocab.Reputation><style=Vocab>名望</style></link>：此牌魔耗值為1。<style=Variable></style>\r\n從場上或手牌中挑選1個法術，在手牌生成1張該牌的<link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>飛逝</style></link>複製牌。",
-    "descriptionRaw": "名望：此牌魔耗值為1。\r\n從場上或手牌中挑選1個法術，在手牌生成1張該牌的飛逝複製牌。",
+    "description": "<link=vocab.Reputation><style=Vocab>名望</style></link>：此牌魔耗值為1。<style=Variable></style>\r\n從場上或手牌中挑選1個法術，在手牌生成1張<link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>飛逝</style></link>複製牌。",
+    "descriptionRaw": "名望：此牌魔耗值為1。\r\n從場上或手牌中挑選1個法術，在手牌生成1張飛逝複製牌。",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "模仿是最真誠的讚美，而讚美有時候反而是最致命的。",
@@ -6565,8 +6565,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04NX004.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04NX004-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04NX004.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04NX004-full.png"
       }
     ],
     "region": "諾克薩斯",
@@ -6607,8 +6607,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04NX004T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04NX004T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04NX004T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04NX004T1-full.png"
       }
     ],
     "region": "諾克薩斯",
@@ -6646,8 +6646,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04NX005.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04NX005-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04NX005.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04NX005-full.png"
       }
     ],
     "region": "諾克薩斯",
@@ -6689,8 +6689,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04NX004T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04NX004T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04NX004T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04NX004T2-full.png"
       }
     ],
     "region": "諾克薩斯",
@@ -6728,8 +6728,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04NX016.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04NX016-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04NX016.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04NX016-full.png"
       }
     ],
     "region": "諾克薩斯",
@@ -6765,8 +6765,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04NX018.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04NX018-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04NX018.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04NX018-full.png"
       }
     ],
     "region": "諾克薩斯",
@@ -6800,8 +6800,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04NX003.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04NX003-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04NX003.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04NX003-full.png"
       }
     ],
     "region": "諾克薩斯",
@@ -6841,8 +6841,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04NX017.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04NX017-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04NX017.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04NX017-full.png"
       }
     ],
     "region": "諾克薩斯",
@@ -6883,8 +6883,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SI005.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SI005-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SI005.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SI005-full.png"
       }
     ],
     "region": "闇影島",
@@ -6894,8 +6894,8 @@
     "health": 4,
     "description": "每回合我方首次<link=vocab.Slay><style=Vocab>屠殺</style></link>單位時，\r\n此牌給予<link=keyword.Weakest><style=Keyword>最弱</style></link>敵軍單位印記。\r\n<link=vocab.RoundEnd><style=Vocab>回合結束</style></link>：擊殺擁有印記的單位。",
     "descriptionRaw": "每回合我方首次屠殺單位時，\r\n此牌給予最弱敵軍單位印記。\r\n回合結束：擊殺擁有印記的單位。",
-    "levelupDescription": "此牌在場上時，<link=vocab.Slay><style=Vocab>屠殺</style></link>2個擁有印記的單位<style=Variable></style>。",
-    "levelupDescriptionRaw": "此牌在場上時，屠殺2個擁有印記的單位。",
+    "levelupDescription": "此牌在場上時，我方<link=vocab.Slay><style=Vocab>屠殺</style></link>2個<br>擁有印記的單位<style=Variable></style>。",
+    "levelupDescriptionRaw": "此牌在場上時，我方屠殺2個擁有印記的單位。",
     "flavorText": "曾有一人，孑然一身\n他將自己，為二一分\n一化為二，重獲新生\n從此不再，孤獨一生。",
     "artistName": "SIXMOREVODKA",
     "name": "鏡爪",
@@ -6925,8 +6925,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SI005T4.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SI005T4-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SI005T4.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SI005T4-full.png"
       }
     ],
     "region": "闇影島",
@@ -6967,8 +6967,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SI005T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SI005T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SI005T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SI005T1-full.png"
       }
     ],
     "region": "闇影島",
@@ -7006,8 +7006,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SI016.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SI016-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SI016.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SI016-full.png"
       }
     ],
     "region": "闇影島",
@@ -7015,7 +7015,7 @@
     "attack": 4,
     "cost": 4,
     "health": 1,
-    "description": "<link=vocab.Play><style=Vocab>出牌</style></link>：<br>擊殺1個友軍單位以抽2張牌。",
+    "description": "<link=vocab.Play><style=Vocab>出牌</style></link>：擊殺1個友軍單位<br>以抽2張牌。",
     "descriptionRaw": "出牌：擊殺1個友軍單位以抽2張牌。",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
@@ -7043,8 +7043,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SI007.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SI007-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SI007.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SI007-full.png"
       }
     ],
     "region": "闇影島",
@@ -7082,8 +7082,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SI011.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SI011-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SI011.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SI011-full.png"
       }
     ],
     "region": "闇影島",
@@ -7121,8 +7121,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SI015.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SI015-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SI015.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SI015-full.png"
       }
     ],
     "region": "闇影島",
@@ -7168,8 +7168,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SI004.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SI004-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SI004.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SI004-full.png"
       }
     ],
     "region": "闇影島",
@@ -7177,8 +7177,8 @@
     "attack": 0,
     "cost": 1,
     "health": 1,
-    "description": "<link=vocab.Play><style=Vocab>出牌</style></link>：挑選<link=card.create1><style=AssociatedCard>起源之浪</style></link>或<br><link=card.create2><style=AssociatedCard>終結之息</style></link>。",
-    "descriptionRaw": "出牌：挑選起源之浪或終結之息。",
+    "description": "<link=vocab.Play><style=Vocab>出牌</style></link>：打出<link=card.create1><style=AssociatedCard>起源之浪</style></link>或<br><link=card.create2><style=AssociatedCard>終結之息</style></link>。",
+    "descriptionRaw": "出牌：打出起源之浪或終結之息。",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "從均衡組織的教義來看，神只有兩位：藉其溫暖海水孕育生命的「起源之浪」，以及藉其嚴寒嘆息奪去生命的「終結之息」。",
@@ -7203,8 +7203,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SI004T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SI004T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SI004T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SI004T1-full.png"
       }
     ],
     "region": "闇影島",
@@ -7240,8 +7240,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SI004T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SI004T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SI004T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SI004T2-full.png"
       }
     ],
     "region": "闇影島",
@@ -7275,8 +7275,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SI017.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SI017-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SI017.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SI017-full.png"
       }
     ],
     "region": "闇影島",
@@ -7314,8 +7314,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SI001.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SI001-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SI001.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SI001-full.png"
       }
     ],
     "region": "闇影島",
@@ -7353,8 +7353,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SI009.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SI009-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SI009.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SI009-full.png"
       }
     ],
     "region": "闇影島",
@@ -7362,7 +7362,7 @@
     "attack": 3,
     "cost": 3,
     "health": 2,
-    "description": "召喚此牌時，若本回合有友軍單位陣亡，則賦予此牌+1|+1與<link=keyword.Fearsome><sprite name=Fearsome><style=Keyword>威嚇</style></link>。",
+    "description": "召喚此牌時，若本回合有友軍單位<br>陣亡，則賦予此牌+1|+1與<link=keyword.Fearsome><sprite name=Fearsome><style=Keyword>威嚇</style></link>。",
     "descriptionRaw": "召喚此牌時，若本回合有友軍單位陣亡，則賦予此牌+1|+1與威嚇。",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
@@ -7390,8 +7390,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SI013.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SI013-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SI013.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SI013-full.png"
       }
     ],
     "region": "闇影島",
@@ -7429,8 +7429,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SI007T3.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SI007T3-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SI007T3.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SI007T3-full.png"
       }
     ],
     "region": "闇影島",
@@ -7468,8 +7468,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SI002.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SI002-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SI002.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SI002-full.png"
       }
     ],
     "region": "闇影島",
@@ -7509,8 +7509,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SI003.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SI003-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SI003.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SI003-full.png"
       }
     ],
     "region": "闇影島",
@@ -7544,8 +7544,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SI014.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04SI014-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SI014.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04SI014-full.png"
       }
     ],
     "region": "闇影島",
@@ -7579,8 +7579,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04MT014.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04MT014-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04MT014.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04MT014-full.png"
       }
     ],
     "region": "巨石峰",
@@ -7622,8 +7622,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04MT008.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04MT008-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04MT008.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04MT008-full.png"
       }
     ],
     "region": "巨石峰",
@@ -7633,8 +7633,8 @@
     "health": 10,
     "description": "",
     "descriptionRaw": "",
-    "levelupDescription": "我方召喚魔耗值總和為12以上的<br>地標<style=Variable></style>。此牌升級時，若我方擁有<br>攻擊主動權，則在手牌生成<br>1張<link=card.cast><style=AssociatedCard>勢不可擋</style></link>。",
-    "levelupDescriptionRaw": "我方召喚魔耗值總和為12以上的地標。此牌升級時，若我方擁有攻擊主動權，則在手牌生成1張勢不可擋。",
+    "levelupDescription": "我方召喚魔耗值總和為10以上<br>的地標<style=Variable></style>。<nobr>此牌升級時，若我方擁有</nobr><br>攻擊主動權，則在手牌生成1張<br><link=card.cast><style=AssociatedCard>勢不可擋</style></link>。",
+    "levelupDescriptionRaw": "我方召喚魔耗值總和為10以上的地標。此牌升級時，若我方擁有攻擊主動權，則在手牌生成1張勢不可擋。",
     "flavorText": "「石奇偶的巨石峰資旅來到最後一讚了！仄似老爹！他似巨石峰上最大的巨人，還很會倉歌。記得別想要爬他就好！釘鞋會害他森上癢，你可不希望爬到一半害他打噴嚏吧！」\n——《石奇大冒險》第六部",
     "artistName": "SIXMOREVODKA",
     "name": "墨菲特",
@@ -7665,8 +7665,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04MT008T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04MT008T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04MT008T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04MT008T1-full.png"
       }
     ],
     "region": "巨石峰",
@@ -7674,7 +7674,7 @@
     "attack": 7,
     "cost": 7,
     "health": 11,
-    "description": "召喚此牌時及<link=vocab.RoundStart><style=Vocab>回合開始</style></link>：<br>若我方擁有攻擊主動權，則在手牌<br>生成1張<link=card.cast><style=AssociatedCard>勢不可擋</style></link>。",
+    "description": "召喚此牌時及<link=vocab.RoundStart><style=Vocab>回合開始</style></link>：<br>若我方擁有攻擊主動權，則在<br>手牌生成1張<link=card.cast><style=AssociatedCard>勢不可擋</style></link>。",
     "descriptionRaw": "召喚此牌時及回合開始：若我方擁有攻擊主動權，則在手牌生成1張勢不可擋。",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
@@ -7704,8 +7704,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04MT008T4.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04MT008T4-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04MT008T4.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04MT008T4-full.png"
       }
     ],
     "region": "巨石峰",
@@ -7748,8 +7748,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04MT008T5.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04MT008T5-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04MT008T5.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04MT008T5-full.png"
       }
     ],
     "region": "巨石峰",
@@ -7787,8 +7787,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04MT010.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04MT010-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04MT010.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04MT010-full.png"
       }
     ],
     "region": "巨石峰",
@@ -7826,8 +7826,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04MT005.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04MT005-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04MT005.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04MT005-full.png"
       }
     ],
     "region": "巨石峰",
@@ -7863,8 +7863,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04MT009.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04MT009-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04MT009.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04MT009-full.png"
       }
     ],
     "region": "巨石峰",
@@ -7872,7 +7872,7 @@
     "attack": 0,
     "cost": 3,
     "health": 0,
-    "description": "<link=vocab.Buried><style=Vocab>倒數3</style></link><style=Variable></style>：在手牌生成1張<link=card.create><style=AssociatedCard>力量種子</style></link>。",
+    "description": "<link=vocab.Buried><style=Vocab>倒數3</style></link><style=Variable></style>：在手牌生成1張<br><link=card.create><style=AssociatedCard>力量種子</style></link>。",
     "descriptionRaw": "倒數3：在手牌生成1張力量種子。",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
@@ -7902,8 +7902,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04MT009T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04MT009T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04MT009T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04MT009T1-full.png"
       }
     ],
     "region": "巨石峰",
@@ -7943,8 +7943,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04MT001.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04MT001-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04MT001.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04MT001-full.png"
       }
     ],
     "region": "巨石峰",
@@ -7984,8 +7984,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04MT004.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04MT004-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04MT004.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04MT004-full.png"
       }
     ],
     "region": "巨石峰",
@@ -8025,8 +8025,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04MT013.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04MT013-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04MT013.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04MT013-full.png"
       }
     ],
     "region": "巨石峰",
@@ -8060,8 +8060,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04MT003.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04MT003-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04MT003.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04MT003-full.png"
       }
     ],
     "region": "巨石峰",
@@ -8099,8 +8099,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04MT004T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04MT004T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04MT004T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04MT004T1-full.png"
       }
     ],
     "region": "巨石峰",
@@ -8108,8 +8108,8 @@
     "attack": 0,
     "cost": 2,
     "health": 0,
-    "description": "<link=vocab.Buried><style=Vocab>倒數1</style></link><style=Variable></style>：<br>本回合額外獲得1顆魔力寶石。",
-    "descriptionRaw": "倒數1：本回合額外獲得1顆魔力寶石。",
+    "description": "<link=vocab.Buried><style=Vocab>倒數1</style></link><style=Variable></style>：<br>本回合額外獲得1個魔力寶石。",
+    "descriptionRaw": "倒數1：本回合額外獲得1個魔力寶石。",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "「仄裡是小藍最最最最最最最喜翻的地方！他說仄裡超神奇的！喔喔喔啊啊啊！」——石奇",
@@ -8140,8 +8140,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04MT002.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04MT002-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04MT002.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04MT002-full.png"
       }
     ],
     "region": "巨石峰",
@@ -8149,7 +8149,7 @@
     "attack": 6,
     "cost": 6,
     "health": 4,
-    "description": "<link=keyword.PlaySkillMark><sprite name=PlaySkillMark><style=Keyword>出牌</style></link>：在本牌局中，若我方已召喚4個以上地標，則對1個敵軍單位造成4點傷害，並對敵方主堡造成2點傷害。",
+    "description": "<link=keyword.PlaySkillMark><sprite name=PlaySkillMark><style=Keyword>出牌</style></link>：在本牌局中，若我方<br>已召喚4個以上地標，則對1個<br>敵軍單位造成4點傷害，並對<br>敵方主堡造成2點傷害。",
     "descriptionRaw": "出牌：在本牌局中，若我方已召喚4個以上地標，則對1個敵軍單位造成4點傷害，並對敵方主堡造成2點傷害。",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
@@ -8175,8 +8175,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04MT012.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04MT012-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04MT012.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04MT012-full.png"
       }
     ],
     "region": "巨石峰",
@@ -8214,8 +8214,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04MT007.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04MT007-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04MT007.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04MT007-full.png"
       }
     ],
     "region": "巨石峰",
@@ -8253,8 +8253,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04MT013T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04MT013T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04MT013T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04MT013T1-full.png"
       }
     ],
     "region": "巨石峰",
@@ -8292,8 +8292,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04MT002T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04MT002T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04MT002T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04MT002T2-full.png"
       }
     ],
     "region": "巨石峰",
@@ -8301,7 +8301,7 @@
     "attack": 0,
     "cost": 0,
     "health": 0,
-    "description": "在本牌局中，若我方已<br>召喚4個以上地標，則對1個敵軍單位<br>造成4點傷害，並對敵方主堡<br>造成2點傷害。",
+    "description": "在本牌局中，若我方已召喚4個<br>以上地標，則對1個敵軍單位<br>造成4點傷害，並對敵方主堡造成2點傷害。",
     "descriptionRaw": "在本牌局中，若我方已召喚4個以上地標，則對1個敵軍單位造成4點傷害，並對敵方主堡造成2點傷害。",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
@@ -8337,8 +8337,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04IO005.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04IO005-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04IO005.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04IO005-full.png"
       }
     ],
     "region": "愛歐尼亞",
@@ -8378,8 +8378,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04IO005T4.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04IO005T4-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04IO005T4.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04IO005T4-full.png"
       }
     ],
     "region": "愛歐尼亞",
@@ -8425,8 +8425,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04IO005T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04IO005T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04IO005T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04IO005T1-full.png"
       }
     ],
     "region": "愛歐尼亞",
@@ -8434,7 +8434,7 @@
     "attack": 0,
     "cost": 7,
     "health": 0,
-    "description": "挑選1個友軍單位與<link=card.blade><style=AssociatedCard>劍刃</style></link>一起<br>攻擊，然後<link=vocab.BladeDance><style=Vocab>劍舞</style></link>3。\r\n在我方牌組生成1張<link=card.level1><style=AssociatedCard>伊瑞莉雅</style></link>。",
+    "description": "挑選1個友軍單位與<link=card.blade><style=AssociatedCard>劍刃</style></link><br>一起攻擊，然後<link=vocab.BladeDance><style=Vocab>劍舞</style></link>3。\r\n在我方牌組生成1張<link=card.level1><style=AssociatedCard>伊瑞莉雅</style></link>。",
     "descriptionRaw": "挑選1個友軍單位與劍刃一起攻擊，然後劍舞3。\r\n在我方牌組生成1張伊瑞莉雅。",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
@@ -8470,8 +8470,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04IO005T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04IO005T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04IO005T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04IO005T2-full.png"
       }
     ],
     "region": "愛歐尼亞",
@@ -8511,8 +8511,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04IO005T5.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04IO005T5-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04IO005T5.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04IO005T5-full.png"
       }
     ],
     "region": "愛歐尼亞",
@@ -8554,8 +8554,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04IO004.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04IO004-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04IO004.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04IO004-full.png"
       }
     ],
     "region": "愛歐尼亞",
@@ -8591,8 +8591,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04IO003.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04IO003-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04IO003.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04IO003-full.png"
       }
     ],
     "region": "愛歐尼亞",
@@ -8600,7 +8600,7 @@
     "attack": 0,
     "cost": 7,
     "health": 0,
-    "description": "挑選1個友軍單位與<link=card.blade><style=AssociatedCard>劍刃</style></link>一起<br>攻擊，然後<link=vocab.BladeDance><style=Vocab>劍舞</style></link>3。",
+    "description": "挑選1個友軍單位與<link=card.blade><style=AssociatedCard>劍刃</style></link><br>一起攻擊，然後<link=vocab.BladeDance><style=Vocab>劍舞</style></link>3。",
     "descriptionRaw": "挑選1個友軍單位與劍刃一起攻擊，然後劍舞3。",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
@@ -8630,8 +8630,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04IO015.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04IO015-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04IO015.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04IO015-full.png"
       }
     ],
     "region": "愛歐尼亞",
@@ -8671,8 +8671,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04IO014.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04IO014-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04IO014.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04IO014-full.png"
       }
     ],
     "region": "愛歐尼亞",
@@ -8712,8 +8712,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04IO002.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04IO002-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04IO002.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04IO002-full.png"
       }
     ],
     "region": "愛歐尼亞",
@@ -8751,8 +8751,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04IO010.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04IO010-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04IO010.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04IO010-full.png"
       }
     ],
     "region": "愛歐尼亞",
@@ -8786,8 +8786,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04IO007.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04IO007-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04IO007.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04IO007-full.png"
       }
     ],
     "region": "愛歐尼亞",
@@ -8828,8 +8828,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04IO011.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04IO011-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04IO011.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04IO011-full.png"
       }
     ],
     "region": "愛歐尼亞",
@@ -8837,7 +8837,7 @@
     "attack": 0,
     "cost": 2,
     "health": 0,
-    "description": "<link=keyword.Recall><style=Keyword>召回</style></link>1個友軍單位以在手牌生成1張<link=card.create><style=AssociatedCard>無瑕重刃</style></link>。",
+    "description": "<link=keyword.Recall><style=Keyword>召回</style></link>1個友軍單位以在手牌<br>生成1張<link=card.create><style=AssociatedCard>無瑕重刃</style></link>。",
     "descriptionRaw": "召回1個友軍單位以在手牌生成1張無瑕重刃。",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
@@ -8869,8 +8869,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04IO012.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04IO012-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04IO012.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04IO012-full.png"
       }
     ],
     "region": "愛歐尼亞",
@@ -8878,7 +8878,7 @@
     "attack": 0,
     "cost": 5,
     "health": 0,
-    "description": "<link=keyword.Recall><style=Keyword>召回</style></link>所有友軍單位，並在原處召喚相同數量的<link=card.summon><style=AssociatedCard>疾風殘影</style></link>。",
+    "description": "<link=keyword.Recall><style=Keyword>召回</style></link>所有友軍單位，並在原處<br>召喚相同數量的<link=card.summon><style=AssociatedCard>疾風殘影</style></link>。",
     "descriptionRaw": "召回所有友軍單位，並在原處召喚相同數量的疾風殘影。",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
@@ -8910,8 +8910,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04IO009.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04IO009-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04IO009.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04IO009-full.png"
       }
     ],
     "region": "愛歐尼亞",
@@ -8945,8 +8945,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04IO001.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04IO001-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04IO001.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04IO001-full.png"
       }
     ],
     "region": "愛歐尼亞",
@@ -8984,8 +8984,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04IO006.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04IO006-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04IO006.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04IO006-full.png"
       }
     ],
     "region": "愛歐尼亞",
@@ -9019,8 +9019,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04DE004.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04DE004-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04DE004.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04DE004-full.png"
       }
     ],
     "region": "蒂瑪西亞",
@@ -9060,8 +9060,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04DE014.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04DE014-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04DE014.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04DE014-full.png"
       }
     ],
     "region": "蒂瑪西亞",
@@ -9095,8 +9095,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04DE001.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04DE001-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04DE001.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04DE001-full.png"
       }
     ],
     "region": "蒂瑪西亞",
@@ -9132,8 +9132,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04DE003.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04DE003-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04DE003.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04DE003-full.png"
       }
     ],
     "region": "蒂瑪西亞",
@@ -9171,8 +9171,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04DE002.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04DE002-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04DE002.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04DE002-full.png"
       }
     ],
     "region": "蒂瑪西亞",
@@ -9210,8 +9210,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04DE006.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04DE006-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04DE006.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04DE006-full.png"
       }
     ],
     "region": "蒂瑪西亞",
@@ -9249,8 +9249,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04DE007T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04DE007T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04DE007T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04DE007T1-full.png"
       }
     ],
     "region": "蒂瑪西亞",
@@ -9291,8 +9291,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04DE008.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04DE008-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04DE008.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04DE008-full.png"
       }
     ],
     "region": "蒂瑪西亞",
@@ -9336,8 +9336,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04DE008T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04DE008T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04DE008T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04DE008T1-full.png"
       }
     ],
     "region": "蒂瑪西亞",
@@ -9345,8 +9345,8 @@
     "attack": 7,
     "cost": 6,
     "health": 5,
-    "description": "我方攻擊時，支付此牌的魔耗值，\r\n並召喚此牌<link=keyword.Challenger><sprite name=Challenger><style=Keyword>挑戰</style></link><link=vocab.Strongest><style=Vocab>最強</style></link>敵軍單位。\r\n<link=vocab.RoundStart><style=Vocab>回合開始</style></link>：在手牌生成1張\r\n<link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>飛逝</style></link><link=card.create><style=AssociatedCard>浩劫降臨</style></link>。\r\n<link=keyword.Challenger><sprite name=Challenger><style=Keyword>挑戰</style></link>敵軍單位時，\r\n本回合給予此牌<link=keyword.Barrier><sprite name=Barrier><style=Keyword>光盾</style></link>。",
-    "descriptionRaw": "我方攻擊時，支付此牌的魔耗值，\r\n並召喚此牌挑戰最強敵軍單位。\r\n回合開始：在手牌生成1張\r\n飛逝浩劫降臨。\r\n挑戰敵軍單位時，\r\n本回合給予此牌光盾。",
+    "description": "我方攻擊時，支付此牌的魔耗值，\r\n並召喚此牌<link=keyword.Challenger><sprite name=Challenger><style=Keyword>挑戰</style></link><link=vocab.Strongest><style=Vocab>最強</style></link>敵軍單位。\r\n<link=vocab.RoundStart><style=Vocab>回合開始</style></link>：在手牌生成1張\r\n<link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>飛逝</style></link><link=card.create><style=AssociatedCard>浩劫降臨</style></link>。\r\n<link=keyword.Challenger><sprite name=Challenger><style=Keyword>挑戰</style></link>敵軍單位時，本回合<br>給予此牌<link=keyword.Barrier><sprite name=Barrier><style=Keyword>光盾</style></link>。",
+    "descriptionRaw": "我方攻擊時，支付此牌的魔耗值，\r\n並召喚此牌挑戰最強敵軍單位。\r\n回合開始：在手牌生成1張\r\n飛逝浩劫降臨。\r\n挑戰敵軍單位時，本回合給予此牌光盾。",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "不過，諾克薩斯人卻沒有預料到，年輕的皇子竟然如此力量強大和意志堅定，這失算也讓他們付出了血的代價。",
@@ -9380,8 +9380,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04DE008T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04DE008T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04DE008T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04DE008T2-full.png"
       }
     ],
     "region": "蒂瑪西亞",
@@ -9419,8 +9419,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04DE005.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04DE005-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04DE005.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04DE005-full.png"
       }
     ],
     "region": "蒂瑪西亞",
@@ -9428,7 +9428,7 @@
     "attack": 10,
     "cost": 10,
     "health": 10,
-    "description": "召喚此牌時，使其他友軍單位的力量值與生命值加倍，並賦予其<link=keyword.Challenger><sprite name=Challenger><style=Keyword>挑戰者</style></link>。",
+    "description": "召喚此牌時，使其他友軍單位的<br>力量值與生命值加倍，並賦予其<br><link=keyword.Challenger><sprite name=Challenger><style=Keyword>挑戰者</style></link>。",
     "descriptionRaw": "召喚此牌時，使其他友軍單位的力量值與生命值加倍，並賦予其挑戰者。",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
@@ -9462,8 +9462,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04DE010.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04DE010-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04DE010.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04DE010-full.png"
       }
     ],
     "region": "蒂瑪西亞",
@@ -9503,8 +9503,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04DE013.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04DE013-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04DE013.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04DE013-full.png"
       }
     ],
     "region": "蒂瑪西亞",
@@ -9540,8 +9540,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04DE007.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04DE007-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04DE007.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04DE007-full.png"
       }
     ],
     "region": "蒂瑪西亞",
@@ -9577,8 +9577,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04DE009.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_9_0/set4/zh_tw/img/cards/04DE009-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04DE009.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_10_0/set4/zh_tw/img/cards/04DE009-full.png"
       }
     ],
     "region": "蒂瑪西亞",
