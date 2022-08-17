@@ -4,8 +4,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH070.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH070-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH070.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH070-full.png"
       }
     ],
     "region": "シュリーマ",
@@ -43,8 +43,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH081.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH081-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH081.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH081-full.png"
       }
     ],
     "region": "シュリーマ",
@@ -78,8 +78,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH059T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH059T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH059T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH059T2-full.png"
       }
     ],
     "region": "シュリーマ",
@@ -117,8 +117,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH059T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH059T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH059T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH059T1-full.png"
       }
     ],
     "region": "シュリーマ",
@@ -156,8 +156,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH077.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH077-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH077.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH077-full.png"
       }
     ],
     "region": "シュリーマ",
@@ -198,8 +198,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH089.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH089-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH089.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH089-full.png"
       }
     ],
     "region": "シュリーマ",
@@ -211,7 +211,7 @@
     "descriptionRaw": "プレイ: ランドマークを1枚破壊する。それが味方の場合、不機嫌なイワグマを1体召喚する。",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
-    "flavorText": "「カディラが今日も物を壊した。何回壊せば気が済むの？今日のはただの石の壁だったけど…古そうだったから、誰かのご先祖にとっては重要なものだったんじゃないかな。『テレシュニの壁ならもっと頑丈なんだけど』とかって言い訳してたけど、それにしてもさぁ！まったく、いい加減にしてよね」\n- ザイファの日記",
+    "flavorText": "「カディラが今日も物を壊した。何回壊せば気が済むの？今日のはただの石の壁だったけど…古そうだったから、誰かのご先祖にとっては重要なものだったんじゃないかな。『テレシュニの壁ならもっと頑丈なんだけど』とかって言い訳してたけど、それにしてもさぁ！まったく、いい加減にしてよね」\r\n- ザイファの日記",
     "artistName": "Dao Le",
     "name": "砂漠の恐れ知らず",
     "cardCode": "04SH089",
@@ -236,8 +236,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH089T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH089T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH089T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH089T1-full.png"
       }
     ],
     "region": "シュリーマ",
@@ -249,7 +249,7 @@
     "descriptionRaw": "ランドマークを1枚破壊する。それが味方の場合、不機嫌なイワグマを1体召喚する。",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
-    "flavorText": "「カディラが今日も物を壊した。何回壊せば気が済むの？今日のはただの石の壁だったけど…古そうだったから、誰かのご先祖にとっては重要なものだったんじゃないかな。『テレシュニの壁ならもっと頑丈なんだけど』とかって言い訳してたけど、それにしてもさぁ！まったく、いい加減にしてよね」\n- ザイファの日記",
+    "flavorText": "「カディラが今日も物を壊した。何回壊せば気が済むの？今日のはただの石の壁だったけど…古そうだったから、誰かのご先祖にとっては重要なものだったんじゃないかな。『テレシュニの壁ならもっと頑丈なんだけど』とかって言い訳してたけど、それにしてもさぁ！まったく、いい加減にしてよね」\r\n- ザイファの日記",
     "artistName": "Kudos Productions",
     "name": "若気の至り",
     "cardCode": "04SH089T1",
@@ -275,8 +275,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH015.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH015-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH015.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH015-full.png"
       }
     ],
     "region": "シュリーマ",
@@ -288,7 +288,7 @@
     "descriptionRaw": "アタック: このラウンド中、すべての敵に-2|-0を付与する。",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
-    "flavorText": "「こいつが生まれたとき、他のヤツらは何日生きられるか賭けをしたんだ。何しろ一番のチビで、なりも普通じゃなかったからな。まさか同じ腹の兄弟を食い尽くすとは、誰も思わなかったみてえだ。ヘッ」",
+    "flavorText": "「こいつが生まれた時、他のヤツらは何日生きられるか賭けをしたんだ。何しろ一番のチビで、なりも普通じゃなかったからな。まさか同じ腹の兄弟を食い尽くすとは、誰も思わなかったみてえだ。ヘッ」",
     "artistName": "JiHun Lee",
     "name": "血塗れ髪のラズ",
     "cardCode": "04SH015",
@@ -316,8 +316,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH058.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH058-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH058.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH058-full.png"
       }
     ],
     "region": "シュリーマ",
@@ -353,8 +353,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH035.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH035-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH035.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH035-full.png"
       }
     ],
     "region": "シュリーマ",
@@ -394,8 +394,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH028.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH028-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH028.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH028-full.png"
       }
     ],
     "region": "シュリーマ",
@@ -433,8 +433,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH002.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH002-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH002.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH002-full.png"
       }
     ],
     "region": "シュリーマ",
@@ -446,7 +446,7 @@
     "descriptionRaw": "ユニットを撃破した時、このユニットに+1|+0を付与する。",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
-    "flavorText": "「バッカイとは、超越の儀式に失敗した者が逃げ出したか、あるいは何らかの理由で生き延びた末の姿である。その後彼らの姿を見たものはおらず、どれほどの期間、恥辱の痕跡をとどめたまま暗い墳墓に身を隠しているのかは不明である」\n- 書記官カー＝ニール 『超越者万軍の歴史』",
+    "flavorText": "「バッカイとは、超越の儀式に失敗した者が逃げ出したか、あるいは何らかの理由で生き延びた末の姿である。その後彼らの姿を見たものはおらず、どれほどの期間、恥辱の痕跡をとどめたまま暗い墳墓に身を隠しているのかは不明である」\r\n- 書記官カー＝ニール 『超越者万軍の歴史』",
     "artistName": "Kudos Productions",
     "name": "贖罪のバッカイ",
     "cardCode": "04SH002",
@@ -474,8 +474,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH042.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH042-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH042.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH042-full.png"
       }
     ],
     "region": "シュリーマ",
@@ -487,7 +487,7 @@
     "descriptionRaw": "カウントダウン 3: 不機嫌なイワグマを1体召喚する。",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
-    "flavorText": "「私はザイファ。このヘンテコな日記帳にヘンテコなことを書くのが趣味。ただし、書くのはみんなが寝てるときだけ。騒がしいサミールも含めてみんな、ね」\n- ザイファの日記",
+    "flavorText": "「私はザイファ。このヘンテコな日記帳にヘンテコなことを書くのが趣味。ただし、書くのはみんなが寝てる時だけ。騒がしいサミールも含めてみんな、ね」\n- ザイファの日記",
     "artistName": "Polar Engine",
     "name": "眠れるイワグマ",
     "cardCode": "04SH042",
@@ -513,8 +513,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH032.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH032-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH032.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH032-full.png"
       }
     ],
     "region": "シュリーマ",
@@ -548,8 +548,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH055.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH055-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH055.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH055-full.png"
       }
     ],
     "region": "シュリーマ",
@@ -593,8 +593,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH073.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH073-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH073.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH073-full.png"
       }
     ],
     "region": "シュリーマ",
@@ -606,7 +606,7 @@
     "descriptionRaw": "プレイ: 味方のランドマーク1枚とまったく同じコピーを1枚召喚する。",
     "levelupDescription": "あなたがランドマークを5枚以上召喚した時。<style=Variable></style>",
     "levelupDescriptionRaw": "あなたがランドマークを5枚以上召喚した時。",
-    "flavorText": "「流浪の民の足取りは軽い。根を張らぬ者は、それに足を取られることもないからだ。彼らの故郷はいつだって地平線の彼方にある」\n- 『シュリーマの社会集団』",
+    "flavorText": "「流浪の民の足取りは軽い。根を張らぬ者は、それに足を取られることもないからだ。彼らの故郷はいつだって地平線の彼方にある」\r\n- 『シュリーマの社会集団』",
     "artistName": "SIXMOREVODKA",
     "name": "タリヤ",
     "cardCode": "04SH073",
@@ -632,8 +632,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH073T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH073T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH073T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH073T2-full.png"
       }
     ],
     "region": "シュリーマ",
@@ -669,8 +669,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH073T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH073T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH073T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH073T1-full.png"
       }
     ],
     "region": "シュリーマ",
@@ -711,8 +711,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH073T3.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH073T3-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH073T3.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH073T3-full.png"
       }
     ],
     "region": "シュリーマ",
@@ -750,8 +750,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH091.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH091-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH091.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH091-full.png"
       }
     ],
     "region": "シュリーマ",
@@ -763,7 +763,7 @@
     "descriptionRaw": "召喚時、このゲーム中に1回以上先見している場合、このユニットに+1|+1を付与する。",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
-    "flavorText": "「学んだことを忘れるでないぞ」ジリアンはいつになく穏やかな口調で言ったが、その声には重々しさが感じられた。「本当に準備はよいのじゃな？」\nカヒーリは師を安心させるように微笑んだ。「大丈夫、すぐに戻ります。それに、この時のために毎日準備してきたんです。行くなら今しかないでしょう？」",
+    "flavorText": "「学んだことを忘れるでないぞ」ジリアンはいつになく穏やかな口調で言ったが、その声には重々しさが感じられた。「本当に準備はよいのじゃな？」\r\nカヒーリは師を安心させるように微笑んだ。「大丈夫、すぐに戻ります。それに、この時のために毎日準備してきたんです。行くなら今しかないでしょう？」",
     "artistName": "Kudos Productions",
     "name": "徒弟カヒーリ",
     "cardCode": "04SH091",
@@ -787,8 +787,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH024.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH024-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH024.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH024-full.png"
       }
     ],
     "region": "シュリーマ",
@@ -833,8 +833,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH003.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH003-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH003.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH003-full.png"
       }
     ],
     "region": "シュリーマ",
@@ -876,8 +876,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH003T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH003T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH003T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH003T2-full.png"
       }
     ],
     "region": "シュリーマ",
@@ -889,7 +889,7 @@
     "descriptionRaw": "レベルアップ時、あなたのデッキを「皇帝のデッキ」に入れ替え、カードを1枚引く。\r\n味方がアタックする時、砂岩の突撃兵を1体アタック状態で召喚する。",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
-    "flavorText": "「皇帝アジールは高慢だが寛容でもある。帝国が新たな一歩を踏み出した時、皇帝は共にシュリーマを輝かしき未来へ導かんとする民を慈しみ、民は皇帝の統治のもと再び団結を遂げた」\n- 書記官カー＝ニール 『超越者万軍の歴史』",
+    "flavorText": "「皇帝アジールは高慢だが寛容でもある。帝国が新たな一歩を踏み出した時、皇帝は共にシュリーマを輝かしき未来へ導かんとする民を慈しみ、民は皇帝の統治のもと再び団結を遂げた」\r\n- 書記官カー＝ニール 『超越者万軍の歴史』",
     "artistName": "SIXMOREVODKA",
     "name": "アジール",
     "cardCode": "04SH003T2",
@@ -920,8 +920,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH003T3.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH003T3-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH003T3.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH003T3-full.png"
       }
     ],
     "region": "シュリーマ",
@@ -957,8 +957,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH003T14.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH003T14-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH003T14.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH003T14-full.png"
       }
     ],
     "region": "シュリーマ",
@@ -998,8 +998,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH003T5.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH003T5-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH003T5.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH003T5-full.png"
       }
     ],
     "region": "シュリーマ",
@@ -1038,8 +1038,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH003T4.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH003T4-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH003T4.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH003T4-full.png"
       }
     ],
     "region": "シュリーマ",
@@ -1077,8 +1077,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH003T10.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH003T10-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH003T10.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH003T10-full.png"
       }
     ],
     "region": "シュリーマ",
@@ -1118,8 +1118,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH003T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH003T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH003T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH003T1-full.png"
       }
     ],
     "region": "シュリーマ",
@@ -1157,8 +1157,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH003T8.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH003T8-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH003T8.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH003T8-full.png"
       }
     ],
     "region": "シュリーマ",
@@ -1196,8 +1196,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH003T6.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH003T6-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH003T6.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH003T6-full.png"
       }
     ],
     "region": "シュリーマ",
@@ -1235,8 +1235,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH003T12.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH003T12-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH003T12.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH003T12-full.png"
       }
     ],
     "region": "シュリーマ",
@@ -1274,8 +1274,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH003T11.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH003T11-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH003T11.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH003T11-full.png"
       }
     ],
     "region": "シュリーマ",
@@ -1313,8 +1313,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH003T7.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH003T7-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH003T7.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH003T7-full.png"
       }
     ],
     "region": "シュリーマ",
@@ -1355,8 +1355,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH003T13.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH003T13-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH003T13.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH003T13-full.png"
       }
     ],
     "region": "シュリーマ",
@@ -1394,8 +1394,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH003T9.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH003T9-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH003T9.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH003T9-full.png"
       }
     ],
     "region": "シュリーマ",
@@ -1433,8 +1433,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH011.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH011-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH011.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH011-full.png"
       }
     ],
     "region": "シュリーマ",
@@ -1470,8 +1470,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH114.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH114-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH114.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH114-full.png"
       }
     ],
     "region": "シュリーマ",
@@ -1515,8 +1515,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH067.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH067-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH067.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH067-full.png"
       }
     ],
     "region": "シュリーマ",
@@ -1561,8 +1561,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH067T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH067T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH067T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH067T1-full.png"
       }
     ],
     "region": "シュリーマ",
@@ -1608,8 +1608,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH067T4.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH067T4-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH067T4.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH067T4-full.png"
       }
     ],
     "region": "シュリーマ",
@@ -1654,8 +1654,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH067T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH067T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH067T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH067T2-full.png"
       }
     ],
     "region": "シュリーマ",
@@ -1693,8 +1693,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH067T5.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH067T5-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH067T5.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH067T5-full.png"
       }
     ],
     "region": "シュリーマ",
@@ -1732,8 +1732,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH119.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH119-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH119.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH119-full.png"
       }
     ],
     "region": "シュリーマ",
@@ -1771,8 +1771,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH093.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH093-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH093.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH093-full.png"
       }
     ],
     "region": "シュリーマ",
@@ -1812,8 +1812,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH038.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH038-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH038.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH038-full.png"
       }
     ],
     "region": "シュリーマ",
@@ -1825,7 +1825,7 @@
     "descriptionRaw": "召喚時、乱動する砂を1枚召喚する。",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
-    "flavorText": "「私たちは今日、ナシュラメイに向けて旅立った。サミールが次の満月までに大サイを渡りきるんだって意気込んでたけど、そのせいで大変な目に遭った。まさかサンドボードで砂丘全体が崩れるなんて…サミールも想定外だったみたい。怪我がなくてよかった」\n- ザイファの日記",
+    "flavorText": "「私たちは今日、ナシュラメイに向けて旅立った。サミールが次の満月までに大サイを渡りきるんだって意気込んでたけど、そのせいで大変な目に遭った。まさかサンドボードで砂丘全体が崩れるなんて…サミールも想定外だったみたい。怪我がなくてよかった」\r\n- ザイファの日記",
     "artistName": "Dao Le",
     "name": "やんちゃな砂乗り",
     "cardCode": "04SH038",
@@ -1849,8 +1849,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH099.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH099-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH099.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH099-full.png"
       }
     ],
     "region": "シュリーマ",
@@ -1890,8 +1890,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH048.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH048-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH048.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH048-full.png"
       }
     ],
     "region": "シュリーマ",
@@ -1929,8 +1929,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH098T3.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH098T3-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH098T3.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH098T3-full.png"
       }
     ],
     "region": "シュリーマ",
@@ -1968,8 +1968,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH098T12.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH098T12-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH098T12.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH098T12-full.png"
       }
     ],
     "region": "シュリーマ",
@@ -2007,8 +2007,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH098T7.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH098T7-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH098T7.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH098T7-full.png"
       }
     ],
     "region": "シュリーマ",
@@ -2046,8 +2046,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH098T6.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH098T6-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH098T6.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH098T6-full.png"
       }
     ],
     "region": "シュリーマ",
@@ -2085,8 +2085,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH098T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH098T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH098T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH098T2-full.png"
       }
     ],
     "region": "シュリーマ",
@@ -2124,8 +2124,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH098T10.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH098T10-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH098T10.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH098T10-full.png"
       }
     ],
     "region": "シュリーマ",
@@ -2163,8 +2163,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH098T5.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH098T5-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH098T5.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH098T5-full.png"
       }
     ],
     "region": "シュリーマ",
@@ -2202,8 +2202,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH098T8.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH098T8-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH098T8.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH098T8-full.png"
       }
     ],
     "region": "シュリーマ",
@@ -2241,8 +2241,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH098T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH098T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH098T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH098T1-full.png"
       }
     ],
     "region": "シュリーマ",
@@ -2280,8 +2280,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH098.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH098-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH098.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH098-full.png"
       }
     ],
     "region": "シュリーマ",
@@ -2324,8 +2324,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH020.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH020-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH020.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH020-full.png"
       }
     ],
     "region": "シュリーマ",
@@ -2365,8 +2365,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH057.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH057-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH057.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH057-full.png"
       }
     ],
     "region": "シュリーマ",
@@ -2400,8 +2400,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH006.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH006-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH006.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH006-full.png"
       }
     ],
     "region": "シュリーマ",
@@ -2439,8 +2439,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH076T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH076T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH076T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH076T1-full.png"
       }
     ],
     "region": "シュリーマ",
@@ -2452,7 +2452,7 @@
     "descriptionRaw": "カウントダウン 1: このカードと入れ替わりでゲームから除外されたユニットとまったく同じコピーを1体召喚する。",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
-    "flavorText": "「まさに“生死を分かつ瞬間”ってやつね」\n「それ…うまいこと言ったつもり？」\n- ヴォイドの研究者 ゼッツァとジンザ",
+    "flavorText": "「まさに“生死を分かつ瞬間”ってやつね」\r\n「それ…うまいこと言ったつもり？」\r\n- ヴォイドの研究者 ゼッツァとジンザ",
     "artistName": "Polar Engine",
     "name": "静止の像",
     "cardCode": "04SH076T1",
@@ -2478,8 +2478,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH082.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH082-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH082.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH082-full.png"
       }
     ],
     "region": "シュリーマ",
@@ -2519,8 +2519,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH075.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH075-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH075.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH075-full.png"
       }
     ],
     "region": "シュリーマ",
@@ -2558,8 +2558,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH018.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH018-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH018.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH018-full.png"
       }
     ],
     "region": "シュリーマ",
@@ -2599,8 +2599,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH009.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH009-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH009.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH009-full.png"
       }
     ],
     "region": "シュリーマ",
@@ -2640,8 +2640,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH049.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH049-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH049.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH049-full.png"
       }
     ],
     "region": "シュリーマ",
@@ -2677,8 +2677,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH049T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH049T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH049T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH049T1-full.png"
       }
     ],
     "region": "シュリーマ",
@@ -2714,8 +2714,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH045.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH045-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH045.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH045-full.png"
       }
     ],
     "region": "シュリーマ",
@@ -2755,8 +2755,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH037.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH037-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH037.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH037-full.png"
       }
     ],
     "region": "シュリーマ",
@@ -2794,8 +2794,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH107.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH107-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH107.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH107-full.png"
       }
     ],
     "region": "シュリーマ",
@@ -2838,8 +2838,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH047.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH047-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH047.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH047-full.png"
       }
     ],
     "region": "シュリーマ",
@@ -2847,9 +2847,9 @@
     "attack": 2,
     "cost": 6,
     "health": 2,
-    "description": "このゲーム中に<link=vocab.Slay><style=Vocab>撃破</style></link>したユニット1体につき、このユニットは+1|+1を持つ。",
+    "description": "このゲーム中に<link=vocab.Slay><style=Vocab>撃破</style></link>したユニット1体につき、このユニットは+1|+1を持つ。<style=Variable></style>",
     "descriptionRaw": "このゲーム中に撃破したユニット1体につき、このユニットは+1|+1を持つ。",
-    "levelupDescription": "このユニットが10ダメージ以上のストライクをした時。",
+    "levelupDescription": "このユニットが10ダメージ以上の<link=vocab.Strike><style=Vocab>ストライク</style></link>をした時。",
     "levelupDescriptionRaw": "このユニットが10ダメージ以上のストライクをした時。",
     "flavorText": "「新たに得た祝福により、ナサスは無数の生涯に匹敵する期間、生と死の本質について研究し、思索を巡らせることができた。しかしシュリーマの滅亡以後、その命の長さは背負わねばならぬ呪いともなった」\r\n- 書記官カー＝ニール 『超越者万軍の歴史』",
     "artistName": "SIXMOREVODKA",
@@ -2881,8 +2881,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH097.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH097-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH097.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH097-full.png"
       }
     ],
     "region": "シュリーマ",
@@ -2922,8 +2922,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH026.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH026-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH026.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH026-full.png"
       }
     ],
     "region": "シュリーマ",
@@ -2957,8 +2957,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH102.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH102-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH102.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH102-full.png"
       }
     ],
     "region": "シュリーマ",
@@ -2992,8 +2992,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH001.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH001-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH001.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH001-full.png"
       }
     ],
     "region": "シュリーマ",
@@ -3029,8 +3029,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH009T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH009T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH009T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH009T1-full.png"
       }
     ],
     "region": "シュリーマ",
@@ -3068,8 +3068,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH013.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH013-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH013.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH013-full.png"
       }
     ],
     "region": "シュリーマ",
@@ -3107,8 +3107,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH062.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH062-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH062.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH062-full.png"
       }
     ],
     "region": "シュリーマ",
@@ -3146,8 +3146,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH016.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH016-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH016.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH016-full.png"
       }
     ],
     "region": "シュリーマ",
@@ -3185,8 +3185,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH108.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH108-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH108.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH108-full.png"
       }
     ],
     "region": "シュリーマ",
@@ -3224,8 +3224,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH014.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH014-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH014.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH014-full.png"
       }
     ],
     "region": "シュリーマ",
@@ -3264,8 +3264,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH047T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH047T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH047T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH047T1-full.png"
       }
     ],
     "region": "シュリーマ",
@@ -3307,8 +3307,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH047T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH047T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH047T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH047T2-full.png"
       }
     ],
     "region": "シュリーマ",
@@ -3316,7 +3316,7 @@
     "attack": 10,
     "cost": 6,
     "health": 10,
-    "description": "このゲーム中に<link=vocab.Slay><style=Vocab>撃破</style></link>したユニット1体につき、このユニットは+1|+1を持つ。\r\nすべての敵は<nobr>-3|-0</nobr>を持つ。",
+    "description": "このゲーム中に<link=vocab.Slay><style=Vocab>撃破</style></link>したユニット1体につき、このユニットは+1|+1を持つ。<style=Variable></style>\r\nすべての敵は<nobr>-3|-0</nobr>を持つ。",
     "descriptionRaw": "このゲーム中に撃破したユニット1体につき、このユニットは+1|+1を持つ。\r\nすべての敵は-3|-0を持つ。",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
@@ -3357,8 +3357,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH047T3.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH047T3-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH047T3.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH047T3-full.png"
       }
     ],
     "region": "シュリーマ",
@@ -3366,7 +3366,7 @@
     "attack": 3,
     "cost": 6,
     "health": 3,
-    "description": "このゲーム中に<link=vocab.Slay><style=Vocab>撃破</style></link>したユニット1体につき、このユニットは+1|+1を持つ。\r\nすべての敵は<nobr>-1|-0</nobr>を持つ。",
+    "description": "このゲーム中に<link=vocab.Slay><style=Vocab>撃破</style></link>したユニット1体につき、このユニットは+1|+1を持つ。<style=Variable></style>\r\nすべての敵は<nobr>-1|-0</nobr>を持つ。",
     "descriptionRaw": "このゲーム中に撃破したユニット1体につき、このユニットは+1|+1を持つ。\r\nすべての敵は-1|-0を持つ。",
     "levelupDescription": "あなたが<link=vocab.SunDiscRestore><style=Vocab>太陽の円盤を復元</style></link>した時。",
     "levelupDescriptionRaw": "あなたが太陽の円盤を復元した時。",
@@ -3402,8 +3402,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH021.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH021-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH021.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH021-full.png"
       }
     ],
     "region": "シュリーマ",
@@ -3441,8 +3441,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH101.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH101-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH101.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH101-full.png"
       }
     ],
     "region": "シュリーマ",
@@ -3478,8 +3478,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH012.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH012-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH012.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH012-full.png"
       }
     ],
     "region": "シュリーマ",
@@ -3516,8 +3516,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH020T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH020T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH020T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH020T2-full.png"
       }
     ],
     "region": "シュリーマ",
@@ -3558,8 +3558,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH020T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH020T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH020T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH020T1-full.png"
       }
     ],
     "region": "シュリーマ",
@@ -3599,8 +3599,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH031.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH031-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH031.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH031-full.png"
       }
     ],
     "region": "シュリーマ",
@@ -3638,8 +3638,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH004.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH004-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH004.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH004-full.png"
       }
     ],
     "region": "シュリーマ",
@@ -3677,8 +3677,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH059.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH059-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH059.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH059-full.png"
       }
     ],
     "region": "シュリーマ",
@@ -3718,8 +3718,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH076.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH076-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH076.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH076-full.png"
       }
     ],
     "region": "シュリーマ",
@@ -3731,7 +3731,7 @@
     "descriptionRaw": "味方1体をゲームから除外することで、静止の像を1枚召喚する。",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
-    "flavorText": "「あっ、タイ！ちょっと来て！手伝ってほしいことがあるの」\n- ヴォイドの研究者 ゼッツァ",
+    "flavorText": "「あっ、タイ！ちょっと来て！手伝ってほしいことがあるの」\r\n- ヴォイドの研究者 ゼッツァ",
     "artistName": "Kudos Productions",
     "name": "古の砂時計",
     "cardCode": "04SH076",
@@ -3759,8 +3759,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH118.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH118-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH118.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH118-full.png"
       }
     ],
     "region": "シュリーマ",
@@ -3798,8 +3798,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH041.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH041-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH041.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH041-full.png"
       }
     ],
     "region": "シュリーマ",
@@ -3811,7 +3811,7 @@
     "descriptionRaw": "プレイ: 先見する。そこでランドマークを指定した場合、このユニットにイルーシブを付与する。",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
-    "flavorText": "「西から大きな砂嵐が迫ってきて、タリヤは南にあるゼル＝サイのトンネルを通って行っちゃった。そのあと北に神殿を見つけて、中へ避難することができた。テラコッタの土壁のおかげで、今はなんとか一安心。他のみんなはもう寝てる。消えていく焚火を眺めてたら私も眠くなってきた。いい夢が見られるといいな」\n- ザイファの日記",
+    "flavorText": "「西から大きな砂嵐が迫ってきて、タリヤは南にあるゼル＝サイのトンネルを通って行っちゃった。そのあと北に神殿を見つけて、中へ避難することができた。テラコッタの土壁のおかげで、今はなんとか一安心。他のみんなはもう寝てる。消えていく焚火を眺めてたら私も眠くなってきた。いい夢が見られるといいな」\r\n- ザイファの日記",
     "artistName": "Dao Le",
     "name": "砂漠の見張り番",
     "cardCode": "04SH041",
@@ -3833,8 +3833,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH005.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH005-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH005.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH005-full.png"
       }
     ],
     "region": "シュリーマ",
@@ -3868,8 +3868,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH046.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH046-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH046.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH046-full.png"
       }
     ],
     "region": "シュリーマ",
@@ -3903,8 +3903,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH062T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH062T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH062T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH062T1-full.png"
       }
     ],
     "region": "シュリーマ",
@@ -3938,8 +3938,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH018T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH018T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH018T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH018T2-full.png"
       }
     ],
     "region": "シュリーマ",
@@ -3977,8 +3977,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH018T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH018T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH018T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH018T1-full.png"
       }
     ],
     "region": "シュリーマ",
@@ -4018,8 +4018,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH105.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH105-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH105.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH105-full.png"
       }
     ],
     "region": "シュリーマ",
@@ -4057,8 +4057,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH069.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH069-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH069.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH069-full.png"
       }
     ],
     "region": "シュリーマ",
@@ -4096,8 +4096,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH121.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH121-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH121.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH121-full.png"
       }
     ],
     "region": "シュリーマ",
@@ -4135,8 +4135,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH121T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH121T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH121T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH121T1-full.png"
       }
     ],
     "region": "シュリーマ",
@@ -4174,8 +4174,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH121T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH121T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH121T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH121T2-full.png"
       }
     ],
     "region": "シュリーマ",
@@ -4215,8 +4215,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH097T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH097T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH097T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH097T1-full.png"
       }
     ],
     "region": "シュリーマ",
@@ -4228,7 +4228,7 @@
     "descriptionRaw": "このゲーム中にユニットを13体以上撃破している場合、敵のフォロワーをすべてキルし、このユニットのコピーを1体召喚する。",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
-    "flavorText": "「神も人も、我らの前で滅びる」\n- 聖域の守人",
+    "flavorText": "「神も人も、我らの前で滅びる」\r\n- 聖域の守人",
     "artistName": "Kudos Productions",
     "name": "守人の裁き",
     "cardCode": "04SH097T1",
@@ -4254,8 +4254,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH110.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH110-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH110.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH110-full.png"
       }
     ],
     "region": "シュリーマ",
@@ -4295,8 +4295,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH051.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH051-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH051.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH051-full.png"
       }
     ],
     "region": "シュリーマ",
@@ -4334,8 +4334,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH106.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH106-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH106.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH106-full.png"
       }
     ],
     "region": "シュリーマ",
@@ -4373,8 +4373,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH109.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH109-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH109.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH109-full.png"
       }
     ],
     "region": "シュリーマ",
@@ -4412,8 +4412,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH090.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SH090-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH090.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SH090-full.png"
       }
     ],
     "region": "シュリーマ",
@@ -4425,7 +4425,7 @@
     "descriptionRaw": "",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
-    "flavorText": "「今日は楽しかった！お昼休憩（お弁当はスカラシのチーズ…おえっ！）してると、カディラが日陰で寝ているイワグマを発見。案の定カディラはその子の尻尾を引っ張って、案の定その子を怒らせた。置き土産のチーズ、気に入ってくれたなら嬉しいんだけど！」\n- ザイファの日記",
+    "flavorText": "「今日は楽しかった！お昼休憩（お弁当はスカラシのチーズ…おえっ！）してると、カディラが日陰で寝ているイワグマを発見。案の定カディラはその子の尻尾を引っ張って、案の定その子を怒らせた。置き土産のチーズ、気に入ってくれたなら嬉しいんだけど！」\r\n- ザイファの日記",
     "artistName": "Dao Le",
     "name": "不機嫌なイワグマ",
     "cardCode": "04SH090",
@@ -4450,8 +4450,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04FR006.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04FR006-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04FR006.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04FR006-full.png"
       }
     ],
     "region": "フレヨルド",
@@ -4485,8 +4485,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04FR016.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04FR016-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04FR016.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04FR016-full.png"
       }
     ],
     "region": "フレヨルド",
@@ -4524,8 +4524,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04FR001T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04FR001T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04FR001T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04FR001T1-full.png"
       }
     ],
     "region": "フレヨルド",
@@ -4563,8 +4563,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04FR013.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04FR013-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04FR013.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04FR013-full.png"
       }
     ],
     "region": "フレヨルド",
@@ -4610,8 +4610,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04FR005.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04FR005-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04FR005.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04FR005-full.png"
       }
     ],
     "region": "フレヨルド",
@@ -4651,8 +4651,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04FR005T4.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04FR005T4-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04FR005T4.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04FR005T4-full.png"
       }
     ],
     "region": "フレヨルド",
@@ -4660,7 +4660,7 @@
     "attack": 11,
     "cost": 17,
     "health": 17,
-    "description": "このゲーム中にコスト8以上の味方を4体以上召喚している場合、このユニットのコストは0になる。<style=Variable></style>\r\n<link=vocab.Attack><style=Vocab>アタック</style></link>: 敵のデッキをゲームから<link=keyword.Obliterate><style=Keyword>除外</style></link>する。",
+    "description": "このゲーム中にコスト8以上の味方を4体以上召喚している場合、このユニットのコストは0になる。<style=Variable></style>\r\n<link=vocab.Attack><style=Vocab>アタック</style></link>: 敵のデッキをゲームから<nobr><link=keyword.Obliterate><style=Keyword>除外</style></link></nobr>する。",
     "descriptionRaw": "このゲーム中にコスト8以上の味方を4体以上召喚している場合、このユニットのコストは0になる。\r\nアタック: 敵のデッキをゲームから除外する。",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
@@ -4694,8 +4694,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04FR005T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04FR005T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04FR005T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04FR005T1-full.png"
       }
     ],
     "region": "フレヨルド",
@@ -4739,8 +4739,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04FR005T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04FR005T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04FR005T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04FR005T2-full.png"
       }
     ],
     "region": "フレヨルド",
@@ -4780,8 +4780,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04FR001.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04FR001-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04FR001.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04FR001-full.png"
       }
     ],
     "region": "フレヨルド",
@@ -4821,8 +4821,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04FR007.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04FR007-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04FR007.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04FR007-full.png"
       }
     ],
     "region": "フレヨルド",
@@ -4860,8 +4860,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04FR007T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04FR007T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04FR007T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04FR007T1-full.png"
       }
     ],
     "region": "フレヨルド",
@@ -4899,8 +4899,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04FR017.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04FR017-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04FR017.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04FR017-full.png"
       }
     ],
     "region": "フレヨルド",
@@ -4938,8 +4938,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04FR014.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04FR014-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04FR014.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04FR014-full.png"
       }
     ],
     "region": "フレヨルド",
@@ -4977,8 +4977,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04FR009.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04FR009-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04FR009.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04FR009-full.png"
       }
     ],
     "region": "フレヨルド",
@@ -5021,8 +5021,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04FR010.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04FR010-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04FR010.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04FR010-full.png"
       }
     ],
     "region": "フレヨルド",
@@ -5060,8 +5060,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04NX002.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04NX002-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04NX002.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04NX002-full.png"
       }
     ],
     "region": "ノクサス",
@@ -5101,8 +5101,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04NX010.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04NX010-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04NX010.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04NX010-full.png"
       }
     ],
     "region": "ノクサス",
@@ -5136,8 +5136,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04NX015.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04NX015-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04NX015.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04NX015-full.png"
       }
     ],
     "region": "ノクサス",
@@ -5175,8 +5175,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04NX006.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04NX006-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04NX006.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04NX006-full.png"
       }
     ],
     "region": "ノクサス",
@@ -5210,8 +5210,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04NX001.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04NX001-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04NX001.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04NX001-full.png"
       }
     ],
     "region": "ノクサス",
@@ -5253,8 +5253,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04NX004.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04NX004-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04NX004.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04NX004-full.png"
       }
     ],
     "region": "ノクサス",
@@ -5295,8 +5295,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04NX004T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04NX004T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04NX004T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04NX004T1-full.png"
       }
     ],
     "region": "ノクサス",
@@ -5334,8 +5334,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04NX005.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04NX005-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04NX005.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04NX005-full.png"
       }
     ],
     "region": "ノクサス",
@@ -5377,8 +5377,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04NX004T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04NX004T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04NX004T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04NX004T2-full.png"
       }
     ],
     "region": "ノクサス",
@@ -5416,8 +5416,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04NX016.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04NX016-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04NX016.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04NX016-full.png"
       }
     ],
     "region": "ノクサス",
@@ -5453,8 +5453,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04NX018.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04NX018-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04NX018.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04NX018-full.png"
       }
     ],
     "region": "ノクサス",
@@ -5488,8 +5488,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04NX003.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04NX003-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04NX003.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04NX003-full.png"
       }
     ],
     "region": "ノクサス",
@@ -5529,8 +5529,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04NX017.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04NX017-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04NX017.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04NX017-full.png"
       }
     ],
     "region": "ノクサス",
@@ -5571,8 +5571,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SI005.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SI005-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SI005.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SI005-full.png"
       }
     ],
     "region": "シャドウアイル",
@@ -5584,7 +5584,7 @@
     "descriptionRaw": "各ラウンドで初めてユニットを撃破した時、最も弱い敵に刻印をつける。\r\nラウンド終了時: 刻印をつけたユニットをキルする。",
     "levelupDescription": "このユニットが場にいる状態で、刻印をつけたユニットを2体<link=vocab.Slay><style=Vocab>撃破</style></link>した時。<style=Variable></style>",
     "levelupDescriptionRaw": "このユニットが場にいる状態で、刻印をつけたユニットを2体撃破した時。",
-    "flavorText": "かつてその身を二つに分けし\n一人の淋しき男あり\n新たに生まれし双つ身は\n単衣となりて伴にあり",
+    "flavorText": "かつてその身を二つに分けし\r\n一人の淋しき男あり\r\n新たに生まれし双つ身は\r\n単衣となりて伴にあり",
     "artistName": "SIXMOREVODKA",
     "name": "キンドレッド",
     "cardCode": "04SI005",
@@ -5613,8 +5613,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SI005T4.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SI005T4-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SI005T4.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SI005T4-full.png"
       }
     ],
     "region": "シャドウアイル",
@@ -5655,8 +5655,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SI005T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SI005T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SI005T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SI005T1-full.png"
       }
     ],
     "region": "シャドウアイル",
@@ -5668,7 +5668,7 @@
     "descriptionRaw": "各ラウンドで初めてユニットを撃破した時、このユニットに+2|+2を付与して、最も弱い敵に刻印をつける。\r\nラウンド終了時: 刻印をつけたユニットをキルする。",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
-    "flavorText": "かの狩人は死の化身\n何人たりとも逃げられぬ\n慈悲の弓矢を拒むなら\n無情の牙に砕かれる",
+    "flavorText": "かの狩人は死の化身\r\n何人たりとも逃げられぬ\r\n慈悲の弓矢を拒むなら\r\n無情の牙に砕かれる",
     "artistName": "SIXMOREVODKA",
     "name": "キンドレッド",
     "cardCode": "04SI005T1",
@@ -5694,8 +5694,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SI016.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SI016-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SI016.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SI016-full.png"
       }
     ],
     "region": "シャドウアイル",
@@ -5731,8 +5731,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SI007.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SI007-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SI007.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SI007-full.png"
       }
     ],
     "region": "シャドウアイル",
@@ -5770,8 +5770,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SI011.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SI011-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SI011.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SI011-full.png"
       }
     ],
     "region": "シャドウアイル",
@@ -5809,8 +5809,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SI015.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SI015-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SI015.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SI015-full.png"
       }
     ],
     "region": "シャドウアイル",
@@ -5822,7 +5822,7 @@
     "descriptionRaw": "他の味方が力尽きた時、またはラストブレス: カードを1枚トスする。\r\n",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
-    "flavorText": "「よおし、お前ら仕掛けを揚げろ！忘れんなよ、ウミスカラベを見かけたらすぐにロープを切って移動するんだ。もう竜骨を半分食われちまってる。これ以上はゴメンだ、いいな？」\n- ビルジウォーターの船長",
+    "flavorText": "「よおし、お前ら仕掛けを揚げろ！忘れんなよ、ウミスカラベを見かけたらすぐにロープを切って移動するんだ。もう竜骨を半分食われちまってる。これ以上はゴメンだ、いいな？」\r\n- ビルジウォーターの船長",
     "artistName": "Kudos Productions",
     "name": "ウミスカラベ",
     "cardCode": "04SI015",
@@ -5852,8 +5852,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SI017.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SI017-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SI017.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SI017-full.png"
       }
     ],
     "region": "シャドウアイル",
@@ -5891,8 +5891,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SI001.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SI001-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SI001.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SI001-full.png"
       }
     ],
     "region": "シャドウアイル",
@@ -5930,8 +5930,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SI009.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SI009-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SI009.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SI009-full.png"
       }
     ],
     "region": "シャドウアイル",
@@ -5967,8 +5967,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SI013.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SI013-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SI013.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SI013-full.png"
       }
     ],
     "region": "シャドウアイル",
@@ -6006,8 +6006,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SI007T3.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SI007T3-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SI007T3.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SI007T3-full.png"
       }
     ],
     "region": "シャドウアイル",
@@ -6045,8 +6045,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SI002.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SI002-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SI002.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SI002-full.png"
       }
     ],
     "region": "シャドウアイル",
@@ -6086,8 +6086,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SI003.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SI003-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SI003.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SI003-full.png"
       }
     ],
     "region": "シャドウアイル",
@@ -6121,8 +6121,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SI014.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04SI014-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SI014.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04SI014-full.png"
       }
     ],
     "region": "シャドウアイル",
@@ -6166,8 +6166,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04PZ014.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04PZ014-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04PZ014.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04PZ014-full.png"
       }
     ],
     "region": "ピルトーヴァー<nobr> & ゾウン</nobr>",
@@ -6205,8 +6205,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04PZ010.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04PZ010-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04PZ010.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04PZ010-full.png"
       }
     ],
     "region": "ピルトーヴァー<nobr> & ゾウン</nobr>",
@@ -6244,8 +6244,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04MT010.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04MT010-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04MT010.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04MT010-full.png"
       }
     ],
     "region": "ターゴン",
@@ -6283,8 +6283,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04MT012.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04MT012-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04MT012.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04MT012-full.png"
       }
     ],
     "region": "ターゴン",
@@ -6322,8 +6322,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04DE014.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04DE014-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04DE014.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04DE014-full.png"
       }
     ],
     "region": "デマーシア",
@@ -6357,8 +6357,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04DE001.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04DE001-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04DE001.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04DE001-full.png"
       }
     ],
     "region": "デマーシア",
@@ -6394,8 +6394,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04DE003.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04DE003-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04DE003.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04DE003-full.png"
       }
     ],
     "region": "デマーシア",
@@ -6433,8 +6433,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04DE002.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04DE002-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04DE002.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04DE002-full.png"
       }
     ],
     "region": "デマーシア",
@@ -6472,8 +6472,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04DE006.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04DE006-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04DE006.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04DE006-full.png"
       }
     ],
     "region": "デマーシア",
@@ -6511,8 +6511,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04DE007T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04DE007T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04DE007T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04DE007T1-full.png"
       }
     ],
     "region": "デマーシア",
@@ -6553,8 +6553,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04DE008.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04DE008-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04DE008.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04DE008-full.png"
       }
     ],
     "region": "デマーシア",
@@ -6598,8 +6598,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04DE008T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04DE008T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04DE008T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04DE008T1-full.png"
       }
     ],
     "region": "デマーシア",
@@ -6642,8 +6642,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04DE008T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04DE008T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04DE008T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04DE008T2-full.png"
       }
     ],
     "region": "デマーシア",
@@ -6683,8 +6683,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04DE010.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04DE010-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04DE010.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04DE010-full.png"
       }
     ],
     "region": "デマーシア",
@@ -6724,8 +6724,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04DE013.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04DE013-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04DE013.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04DE013-full.png"
       }
     ],
     "region": "デマーシア",
@@ -6761,8 +6761,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04DE007.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04DE007-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04DE007.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04DE007-full.png"
       }
     ],
     "region": "デマーシア",
@@ -6798,8 +6798,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04DE009.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04DE009-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04DE009.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04DE009-full.png"
       }
     ],
     "region": "デマーシア",
@@ -6835,8 +6835,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04BW011.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04BW011-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04BW011.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04BW011-full.png"
       }
     ],
     "region": "ビルジウォーター",
@@ -6879,8 +6879,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04BW008.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04BW008-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04BW008.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04BW008-full.png"
       }
     ],
     "region": "ビルジウォーター",
@@ -6918,8 +6918,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04IO014.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04IO014-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04IO014.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04IO014-full.png"
       }
     ],
     "region": "アイオニア",
@@ -6957,8 +6957,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04IO001.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/ja_jp/img/cards/04IO001-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04IO001.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/ja_jp/img/cards/04IO001-full.png"
       }
     ],
     "region": "アイオニア",
