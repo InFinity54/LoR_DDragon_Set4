@@ -4,8 +4,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH070.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH070-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH070.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH070-full.png"
       }
     ],
     "region": "Shurima",
@@ -13,8 +13,8 @@
     "attack": 0,
     "cost": 2,
     "health": 0,
-    "description": "Daj wrogiemu stronnikowi <nobr>-4|-0</nobr> w tej rundzie.\r\nJeżeli masz mniej kryształów many niż twój przeciwnik, zabij tego stronnika.",
-    "descriptionRaw": "Daj wrogiemu stronnikowi -4|-0 w tej rundzie.\r\nJeżeli masz mniej kryształów many niż twój przeciwnik, zabij tego stronnika.",
+    "description": "Daj wrogiemu stronnikowi <nobr>-4|-0</nobr> w tej rundzie.\r\nJeżeli masz mniej kryształów many niż twój przeciwnik, zamiast tego zabij tego stronnika.",
+    "descriptionRaw": "Daj wrogiemu stronnikowi -4|-0 w tej rundzie.\r\nJeżeli masz mniej kryształów many niż twój przeciwnik, zamiast tego zabij tego stronnika.",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "„Słońce po raz kolejny rozbłyśnie nad ziemiami Shurimy”. <br> – Głos Powstałych",
@@ -43,8 +43,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH081.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH081-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH081.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH081-full.png"
       }
     ],
     "region": "Shurima",
@@ -78,8 +78,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH059T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH059T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH059T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH059T2-full.png"
       }
     ],
     "region": "Shurima",
@@ -117,8 +117,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH059T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH059T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH059T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH059T1-full.png"
       }
     ],
     "region": "Shurima",
@@ -156,8 +156,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH077.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH077-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH077.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH077-full.png"
       }
     ],
     "region": "Shurima",
@@ -198,8 +198,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH089.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH089-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH089.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH089-full.png"
       }
     ],
     "region": "Shurima",
@@ -236,8 +236,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH089T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH089T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH089T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH089T1-full.png"
       }
     ],
     "region": "Shurima",
@@ -275,8 +275,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH015.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH015-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH015.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH015-full.png"
       }
     ],
     "region": "Shurima",
@@ -316,8 +316,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH058.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH058-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH058.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH058-full.png"
       }
     ],
     "region": "Shurima",
@@ -353,8 +353,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH035.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH035-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH035.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH035-full.png"
       }
     ],
     "region": "Shurima",
@@ -394,8 +394,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH028.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH028-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH028.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH028-full.png"
       }
     ],
     "region": "Shurima",
@@ -433,8 +433,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH002.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH002-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH002.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH002-full.png"
       }
     ],
     "region": "Shurima",
@@ -474,8 +474,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH042.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH042-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH042.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH042-full.png"
       }
     ],
     "region": "Shurima",
@@ -513,8 +513,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH032.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH032-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH032.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH032-full.png"
       }
     ],
     "region": "Shurima",
@@ -548,8 +548,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH055.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH055-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH055.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH055-full.png"
       }
     ],
     "region": "Shurima",
@@ -593,8 +593,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH073.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH073-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH073.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH073-full.png"
       }
     ],
     "region": "Shurima",
@@ -632,8 +632,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH073T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH073T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH073T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH073T2-full.png"
       }
     ],
     "region": "Shurima",
@@ -669,8 +669,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH073T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH073T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH073T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH073T1-full.png"
       }
     ],
     "region": "Shurima",
@@ -711,8 +711,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH073T3.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH073T3-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH073T3.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH073T3-full.png"
       }
     ],
     "region": "Shurima",
@@ -750,8 +750,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH091.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH091-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH091.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH091-full.png"
       }
     ],
     "region": "Shurima",
@@ -787,8 +787,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH024.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH024-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH024.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH024-full.png"
       }
     ],
     "region": "Shurima",
@@ -833,8 +833,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH003.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH003-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH003.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH003-full.png"
       }
     ],
     "region": "Shurima",
@@ -876,8 +876,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH003T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH003T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH003T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH003T2-full.png"
       }
     ],
     "region": "Shurima",
@@ -920,8 +920,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH003T3.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH003T3-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH003T3.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH003T3-full.png"
       }
     ],
     "region": "Shurima",
@@ -957,8 +957,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH003T14.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH003T14-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH003T14.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH003T14-full.png"
       }
     ],
     "region": "Shurima",
@@ -998,8 +998,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH003T5.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH003T5-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH003T5.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH003T5-full.png"
       }
     ],
     "region": "Shurima",
@@ -1038,8 +1038,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH003T4.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH003T4-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH003T4.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH003T4-full.png"
       }
     ],
     "region": "Shurima",
@@ -1077,8 +1077,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH003T10.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH003T10-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH003T10.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH003T10-full.png"
       }
     ],
     "region": "Shurima",
@@ -1118,8 +1118,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH003T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH003T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH003T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH003T1-full.png"
       }
     ],
     "region": "Shurima",
@@ -1157,8 +1157,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH003T8.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH003T8-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH003T8.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH003T8-full.png"
       }
     ],
     "region": "Shurima",
@@ -1196,8 +1196,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH003T6.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH003T6-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH003T6.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH003T6-full.png"
       }
     ],
     "region": "Shurima",
@@ -1235,8 +1235,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH003T12.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH003T12-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH003T12.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH003T12-full.png"
       }
     ],
     "region": "Shurima",
@@ -1274,8 +1274,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH003T11.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH003T11-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH003T11.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH003T11-full.png"
       }
     ],
     "region": "Shurima",
@@ -1313,8 +1313,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH003T7.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH003T7-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH003T7.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH003T7-full.png"
       }
     ],
     "region": "Shurima",
@@ -1355,8 +1355,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH003T13.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH003T13-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH003T13.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH003T13-full.png"
       }
     ],
     "region": "Shurima",
@@ -1394,8 +1394,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH003T9.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH003T9-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH003T9.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH003T9-full.png"
       }
     ],
     "region": "Shurima",
@@ -1433,8 +1433,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH011.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH011-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH011.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH011-full.png"
       }
     ],
     "region": "Shurima",
@@ -1470,8 +1470,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH114.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH114-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH114.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH114-full.png"
       }
     ],
     "region": "Shurima",
@@ -1515,8 +1515,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH067.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH067-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH067.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH067-full.png"
       }
     ],
     "region": "Shurima",
@@ -1561,8 +1561,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH067T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH067T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH067T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH067T1-full.png"
       }
     ],
     "region": "Shurima",
@@ -1608,8 +1608,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH067T4.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH067T4-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH067T4.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH067T4-full.png"
       }
     ],
     "region": "Shurima",
@@ -1654,8 +1654,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH067T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH067T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH067T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH067T2-full.png"
       }
     ],
     "region": "Shurima",
@@ -1693,8 +1693,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH067T5.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH067T5-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH067T5.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH067T5-full.png"
       }
     ],
     "region": "Shurima",
@@ -1732,8 +1732,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH119.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH119-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH119.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH119-full.png"
       }
     ],
     "region": "Shurima",
@@ -1771,8 +1771,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH093.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH093-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH093.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH093-full.png"
       }
     ],
     "region": "Shurima",
@@ -1812,8 +1812,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH038.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH038-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH038.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH038-full.png"
       }
     ],
     "region": "Shurima",
@@ -1849,8 +1849,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH099.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH099-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH099.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH099-full.png"
       }
     ],
     "region": "Shurima",
@@ -1890,8 +1890,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH048.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH048-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH048.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH048-full.png"
       }
     ],
     "region": "Shurima",
@@ -1929,8 +1929,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH098T3.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH098T3-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH098T3.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH098T3-full.png"
       }
     ],
     "region": "Shurima",
@@ -1968,8 +1968,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH098T12.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH098T12-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH098T12.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH098T12-full.png"
       }
     ],
     "region": "Shurima",
@@ -2007,8 +2007,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH098T7.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH098T7-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH098T7.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH098T7-full.png"
       }
     ],
     "region": "Shurima",
@@ -2046,8 +2046,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH098T6.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH098T6-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH098T6.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH098T6-full.png"
       }
     ],
     "region": "Shurima",
@@ -2085,8 +2085,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH098T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH098T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH098T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH098T2-full.png"
       }
     ],
     "region": "Shurima",
@@ -2124,8 +2124,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH098T10.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH098T10-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH098T10.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH098T10-full.png"
       }
     ],
     "region": "Shurima",
@@ -2163,8 +2163,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH098T5.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH098T5-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH098T5.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH098T5-full.png"
       }
     ],
     "region": "Shurima",
@@ -2202,8 +2202,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH098T8.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH098T8-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH098T8.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH098T8-full.png"
       }
     ],
     "region": "Shurima",
@@ -2241,8 +2241,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH098T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH098T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH098T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH098T1-full.png"
       }
     ],
     "region": "Shurima",
@@ -2280,8 +2280,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH098.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH098-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH098.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH098-full.png"
       }
     ],
     "region": "Shurima",
@@ -2324,8 +2324,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH020.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH020-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH020.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH020-full.png"
       }
     ],
     "region": "Shurima",
@@ -2365,8 +2365,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH057.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH057-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH057.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH057-full.png"
       }
     ],
     "region": "Shurima",
@@ -2400,8 +2400,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH006.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH006-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH006.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH006-full.png"
       }
     ],
     "region": "Shurima",
@@ -2439,8 +2439,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH076T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH076T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH076T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH076T1-full.png"
       }
     ],
     "region": "Shurima",
@@ -2478,8 +2478,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH082.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH082-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH082.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH082-full.png"
       }
     ],
     "region": "Shurima",
@@ -2519,8 +2519,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH075.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH075-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH075.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH075-full.png"
       }
     ],
     "region": "Shurima",
@@ -2558,8 +2558,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH018.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH018-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH018.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH018-full.png"
       }
     ],
     "region": "Shurima",
@@ -2599,8 +2599,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH009.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH009-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH009.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH009-full.png"
       }
     ],
     "region": "Shurima",
@@ -2640,8 +2640,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH049.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH049-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH049.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH049-full.png"
       }
     ],
     "region": "Shurima",
@@ -2677,8 +2677,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH049T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH049T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH049T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH049T1-full.png"
       }
     ],
     "region": "Shurima",
@@ -2714,8 +2714,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH045.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH045-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH045.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH045-full.png"
       }
     ],
     "region": "Shurima",
@@ -2755,8 +2755,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH037.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH037-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH037.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH037-full.png"
       }
     ],
     "region": "Shurima",
@@ -2794,8 +2794,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH107.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH107-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH107.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH107-full.png"
       }
     ],
     "region": "Shurima",
@@ -2807,9 +2807,9 @@
     "descriptionRaw": "Awansuj wszystkich Wyniesionych sojuszników na 1. poziomie.",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
-    "flavorText": "„Przyszłość zostanie zapisana przez tych, którzy wniebowstąpili.” – Azir",
+    "flavorText": "„Przyszłość zostanie zapisana przez tych, którzy wniebowstąpili!” – Azir",
     "artistName": "Kudos Productions",
-    "name": "Powstanie Wyniesionego",
+    "name": "Powstanie Wyniesionych",
     "cardCode": "04SH107",
     "keywords": [
       "Powolne"
@@ -2838,8 +2838,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH047.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH047-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH047.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH047-full.png"
       }
     ],
     "region": "Shurima",
@@ -2847,9 +2847,9 @@
     "attack": 2,
     "cost": 6,
     "health": 2,
-    "description": "Mam +1|+1 za każdą jednostkę, którą udało ci się <link=vocab.Slay><style=Vocab>zgładzić</style></link> w tej grze.",
-    "descriptionRaw": "Mam +1|+1 za każdą jednostkę, którą udało ci się zgładzić w tej grze.",
-    "levelupDescription": "Uderzyłem za 10+ pkt. obrażeń.",
+    "description": "Mam +1|+1 za każdą jednostkę, którą udało ci się <link=vocab.Slay><style=Vocab>Zgładzić</style></link> w tej grze. <style=Variable></style>",
+    "descriptionRaw": "Mam +1|+1 za każdą jednostkę, którą udało ci się Zgładzić w tej grze. ",
+    "levelupDescription": "<link=vocab.Strike><style=Vocab>Uderzyłem</style></link> za 10+ pkt. obrażeń.",
     "levelupDescriptionRaw": "Uderzyłem za 10+ pkt. obrażeń.",
     "flavorText": "„Nowo zdobyte przez Nasusa błogosławieństwo pozwoliło mu spędzić niezliczone żywoty na badaniach oraz kontemplacji natury życia i śmierci. Po upadku Shurimy ta sama długowieczność stała się również jego przekleństwem”. – Skryba Kah’nir, „Historia zastępu Wyniesionych”",
     "artistName": "SIXMOREVODKA",
@@ -2881,8 +2881,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH097.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH097-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH097.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH097-full.png"
       }
     ],
     "region": "Shurima",
@@ -2922,8 +2922,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH026.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH026-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH026.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH026-full.png"
       }
     ],
     "region": "Shurima",
@@ -2957,8 +2957,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH102.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH102-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH102.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH102-full.png"
       }
     ],
     "region": "Shurima",
@@ -2992,8 +2992,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH001.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH001-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH001.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH001-full.png"
       }
     ],
     "region": "Shurima",
@@ -3029,8 +3029,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH009T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH009T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH009T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH009T1-full.png"
       }
     ],
     "region": "Shurima",
@@ -3068,8 +3068,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH013.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH013-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH013.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH013-full.png"
       }
     ],
     "region": "Shurima",
@@ -3107,8 +3107,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH062.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH062-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH062.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH062-full.png"
       }
     ],
     "region": "Shurima",
@@ -3146,8 +3146,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH016.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH016-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH016.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH016-full.png"
       }
     ],
     "region": "Shurima",
@@ -3185,8 +3185,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH108.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH108-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH108.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH108-full.png"
       }
     ],
     "region": "Shurima",
@@ -3224,8 +3224,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH014.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH014-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH014.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH014-full.png"
       }
     ],
     "region": "Shurima",
@@ -3264,8 +3264,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH047T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH047T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH047T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH047T1-full.png"
       }
     ],
     "region": "Shurima",
@@ -3307,8 +3307,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH047T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH047T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH047T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH047T2-full.png"
       }
     ],
     "region": "Shurima",
@@ -3316,8 +3316,8 @@
     "attack": 10,
     "cost": 6,
     "health": 10,
-    "description": "Mam +1|+1 za każdą jednostkę, którą udało ci się <link=vocab.Slay><style=Vocab>zgładzić</style></link> w tej grze.\r\nWrogowie mają <nobr>-3|-0</nobr>.",
-    "descriptionRaw": "Mam +1|+1 za każdą jednostkę, którą udało ci się zgładzić w tej grze.\r\nWrogowie mają -3|-0.",
+    "description": "Mam +1|+1 za każdą jednostkę, którą udało ci się <link=vocab.Slay><style=Vocab>Zgładzić</style></link> w tej grze. <style=Variable></style>\r\nWrogowie mają <nobr>-3|-0</nobr>.",
+    "descriptionRaw": "Mam +1|+1 za każdą jednostkę, którą udało ci się Zgładzić w tej grze. \r\nWrogowie mają -3|-0.",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "„Odzyskawszy nadzieję po odrodzeniu Shurimy, Nasus wreszcie powrócił po latach spędzonych na tułaczce po pustyni, spiesząc ku pojednaniu z bratem. Nie spodziewał się jednak zastać Renektona oszalałego przez lata cierpień, które Xerath zgotował mu w grobowcu, i już czekającego na spotkanie”. – Skryba Kah’nir, „Historia zastępu Wyniesionych”",
@@ -3357,8 +3357,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH047T3.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH047T3-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH047T3.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH047T3-full.png"
       }
     ],
     "region": "Shurima",
@@ -3366,8 +3366,8 @@
     "attack": 3,
     "cost": 6,
     "health": 3,
-    "description": "Mam +1|+1 za każdą jednostkę, którą udało ci się <link=vocab.Slay><style=Vocab>zgładzić</style></link> w tej grze.\r\nWrogowie mają <nobr>-1|-0</nobr>.",
-    "descriptionRaw": "Mam +1|+1 za każdą jednostkę, którą udało ci się zgładzić w tej grze.\r\nWrogowie mają -1|-0.",
+    "description": "Mam +1|+1 za każdą jednostkę, którą udało ci się <link=vocab.Slay><style=Vocab>Zgładzić</style></link> w tej grze. <style=Variable></style>\r\nWrogowie mają <nobr>-1|-0</nobr>.",
+    "descriptionRaw": "Mam +1|+1 za każdą jednostkę, którą udało ci się Zgładzić w tej grze. \r\nWrogowie mają -1|-0.",
     "levelupDescription": "Udało ci się <link=vocab.SunDiscRestore><style=Vocab>przywrócić Słoneczny Dysk</style></link>.",
     "levelupDescriptionRaw": "Udało ci się przywrócić Słoneczny Dysk.",
     "flavorText": "„Przez długie lata Nasus i jego brat Renekton służyli imperium. Nasus był uczonym, zaś Renekton – straszliwym wojownikiem. Dopiero kiedy braci wezwano do stawienia czoła zdrajcy, Xerathowi, Nasus został zmuszony do podjęcia okrutnej decyzji…” – Skryba Kah’nir, „Historia zastępu Wyniesionych”",
@@ -3402,8 +3402,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH021.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH021-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH021.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH021-full.png"
       }
     ],
     "region": "Shurima",
@@ -3441,8 +3441,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH101.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH101-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH101.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH101-full.png"
       }
     ],
     "region": "Shurima",
@@ -3478,8 +3478,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH012.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH012-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH012.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH012-full.png"
       }
     ],
     "region": "Shurima",
@@ -3516,8 +3516,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH020T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH020T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH020T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH020T2-full.png"
       }
     ],
     "region": "Shurima",
@@ -3558,8 +3558,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH020T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH020T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH020T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH020T1-full.png"
       }
     ],
     "region": "Shurima",
@@ -3599,8 +3599,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH031.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH031-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH031.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH031-full.png"
       }
     ],
     "region": "Shurima",
@@ -3638,8 +3638,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH004.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH004-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH004.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH004-full.png"
       }
     ],
     "region": "Shurima",
@@ -3677,8 +3677,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH059.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH059-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH059.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH059-full.png"
       }
     ],
     "region": "Shurima",
@@ -3718,8 +3718,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH076.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH076-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH076.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH076-full.png"
       }
     ],
     "region": "Shurima",
@@ -3759,8 +3759,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH118.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH118-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH118.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH118-full.png"
       }
     ],
     "region": "Shurima",
@@ -3798,8 +3798,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH041.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH041-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH041.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH041-full.png"
       }
     ],
     "region": "Shurima",
@@ -3833,8 +3833,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH005.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH005-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH005.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH005-full.png"
       }
     ],
     "region": "Shurima",
@@ -3868,8 +3868,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH046.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH046-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH046.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH046-full.png"
       }
     ],
     "region": "Shurima",
@@ -3903,8 +3903,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH062T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH062T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH062T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH062T1-full.png"
       }
     ],
     "region": "Shurima",
@@ -3912,8 +3912,8 @@
     "attack": 0,
     "cost": 0,
     "health": 0,
-    "description": "Natychmiast dobierz 1 kartę spośród wszystkich swoich Wyniesionych.\r\nDo końca gry Wyniesieni 2. poziomu są Wyniesionymi 3. poziomu.",
-    "descriptionRaw": "Natychmiast dobierz 1 kartę spośród wszystkich swoich Wyniesionych.\r\nDo końca gry Wyniesieni 2. poziomu są Wyniesionymi 3. poziomu.",
+    "description": "Natychmiast dobierz po 1 karcie każdego Wyniesionego sojusznika.\r\nDo końca gry Wyniesieni sojusznicy 2. poziomu są Wyniesionymi 3. poziomu.",
+    "descriptionRaw": "Natychmiast dobierz po 1 karcie każdego Wyniesionego sojusznika.\r\nDo końca gry Wyniesieni sojusznicy 2. poziomu są Wyniesionymi 3. poziomu.",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "„Shurima nie zaznała dotąd chwały tak wielkiej, jak dziś. Podejdźcie, skąpcie się w blasku naszego słońca!” <br> – Głos Powstałych",
@@ -3938,8 +3938,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH018T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH018T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH018T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH018T2-full.png"
       }
     ],
     "region": "Shurima",
@@ -3977,8 +3977,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH018T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH018T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH018T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH018T1-full.png"
       }
     ],
     "region": "Shurima",
@@ -4018,8 +4018,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH105.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH105-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH105.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH105-full.png"
       }
     ],
     "region": "Shurima",
@@ -4057,8 +4057,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH069.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH069-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH069.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH069-full.png"
       }
     ],
     "region": "Shurima",
@@ -4096,8 +4096,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH121.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH121-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH121.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH121-full.png"
       }
     ],
     "region": "Shurima",
@@ -4135,8 +4135,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH121T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH121T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH121T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH121T1-full.png"
       }
     ],
     "region": "Shurima",
@@ -4174,8 +4174,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH121T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH121T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH121T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH121T2-full.png"
       }
     ],
     "region": "Shurima",
@@ -4215,8 +4215,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH097T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH097T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH097T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH097T1-full.png"
       }
     ],
     "region": "Shurima",
@@ -4254,8 +4254,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH110.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH110-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH110.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH110-full.png"
       }
     ],
     "region": "Shurima",
@@ -4295,8 +4295,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH051.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH051-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH051.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH051-full.png"
       }
     ],
     "region": "Shurima",
@@ -4334,8 +4334,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH106.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH106-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH106.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH106-full.png"
       }
     ],
     "region": "Shurima",
@@ -4373,8 +4373,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH109.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH109-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH109.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH109-full.png"
       }
     ],
     "region": "Shurima",
@@ -4412,8 +4412,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH090.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SH090-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH090.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SH090-full.png"
       }
     ],
     "region": "Shurima",
@@ -4450,8 +4450,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04FR006.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04FR006-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04FR006.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04FR006-full.png"
       }
     ],
     "region": "Freljord",
@@ -4485,8 +4485,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04FR016.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04FR016-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04FR016.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04FR016-full.png"
       }
     ],
     "region": "Freljord",
@@ -4524,8 +4524,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04FR001T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04FR001T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04FR001T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04FR001T1-full.png"
       }
     ],
     "region": "Freljord",
@@ -4563,8 +4563,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04FR013.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04FR013-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04FR013.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04FR013-full.png"
       }
     ],
     "region": "Freljord",
@@ -4578,7 +4578,7 @@
     "levelupDescriptionRaw": "",
     "flavorText": "„Strzeż się lodu… a co ważniejsze… strzeż się tego, co pod lodem!” – Napis wyskrobany na ścianie tawerny we Freljordzie",
     "artistName": "Kudos Productions",
-    "name": "Odporność na Mróz",
+    "name": "Odporność na Zimno",
     "cardCode": "04FR013",
     "keywords": [
       "Błyskawiczne"
@@ -4610,8 +4610,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04FR005.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04FR005-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04FR005.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04FR005-full.png"
       }
     ],
     "region": "Freljord",
@@ -4651,8 +4651,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04FR005T4.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04FR005T4-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04FR005T4.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04FR005T4-full.png"
       }
     ],
     "region": "Freljord",
@@ -4694,8 +4694,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04FR005T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04FR005T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04FR005T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04FR005T1-full.png"
       }
     ],
     "region": "Freljord",
@@ -4739,8 +4739,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04FR005T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04FR005T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04FR005T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04FR005T2-full.png"
       }
     ],
     "region": "Freljord",
@@ -4780,8 +4780,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04FR001.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04FR001-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04FR001.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04FR001-full.png"
       }
     ],
     "region": "Freljord",
@@ -4821,8 +4821,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04FR007.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04FR007-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04FR007.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04FR007-full.png"
       }
     ],
     "region": "Freljord",
@@ -4860,8 +4860,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04FR007T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04FR007T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04FR007T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04FR007T1-full.png"
       }
     ],
     "region": "Freljord",
@@ -4899,8 +4899,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04FR017.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04FR017-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04FR017.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04FR017-full.png"
       }
     ],
     "region": "Freljord",
@@ -4938,8 +4938,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04FR014.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04FR014-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04FR014.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04FR014-full.png"
       }
     ],
     "region": "Freljord",
@@ -4977,8 +4977,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04FR009.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04FR009-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04FR009.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04FR009-full.png"
       }
     ],
     "region": "Freljord",
@@ -5021,8 +5021,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04FR010.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04FR010-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04FR010.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04FR010-full.png"
       }
     ],
     "region": "Freljord",
@@ -5060,8 +5060,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04NX002.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04NX002-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04NX002.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04NX002-full.png"
       }
     ],
     "region": "Noxus",
@@ -5101,8 +5101,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04NX010.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04NX010-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04NX010.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04NX010-full.png"
       }
     ],
     "region": "Noxus",
@@ -5136,8 +5136,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04NX015.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04NX015-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04NX015.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04NX015-full.png"
       }
     ],
     "region": "Noxus",
@@ -5175,8 +5175,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04NX006.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04NX006-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04NX006.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04NX006-full.png"
       }
     ],
     "region": "Noxus",
@@ -5210,8 +5210,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04NX001.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04NX001-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04NX001.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04NX001-full.png"
       }
     ],
     "region": "Noxus",
@@ -5253,8 +5253,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04NX004.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04NX004-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04NX004.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04NX004-full.png"
       }
     ],
     "region": "Noxus",
@@ -5295,8 +5295,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04NX004T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04NX004T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04NX004T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04NX004T1-full.png"
       }
     ],
     "region": "Noxus",
@@ -5334,8 +5334,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04NX005.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04NX005-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04NX005.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04NX005-full.png"
       }
     ],
     "region": "Noxus",
@@ -5377,8 +5377,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04NX004T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04NX004T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04NX004T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04NX004T2-full.png"
       }
     ],
     "region": "Noxus",
@@ -5416,8 +5416,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04NX016.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04NX016-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04NX016.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04NX016-full.png"
       }
     ],
     "region": "Noxus",
@@ -5453,8 +5453,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04NX018.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04NX018-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04NX018.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04NX018-full.png"
       }
     ],
     "region": "Noxus",
@@ -5488,8 +5488,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04NX003.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04NX003-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04NX003.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04NX003-full.png"
       }
     ],
     "region": "Noxus",
@@ -5529,8 +5529,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04NX017.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04NX017-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04NX017.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04NX017-full.png"
       }
     ],
     "region": "Noxus",
@@ -5571,8 +5571,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SI005.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SI005-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SI005.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SI005-full.png"
       }
     ],
     "region": "Wyspy Cienia",
@@ -5613,8 +5613,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SI005T4.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SI005T4-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SI005T4.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SI005T4-full.png"
       }
     ],
     "region": "Wyspy Cienia",
@@ -5655,8 +5655,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SI005T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SI005T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SI005T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SI005T1-full.png"
       }
     ],
     "region": "Wyspy Cienia",
@@ -5694,8 +5694,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SI016.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SI016-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SI016.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SI016-full.png"
       }
     ],
     "region": "Wyspy Cienia",
@@ -5731,8 +5731,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SI007.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SI007-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SI007.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SI007-full.png"
       }
     ],
     "region": "Wyspy Cienia",
@@ -5770,8 +5770,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SI011.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SI011-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SI011.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SI011-full.png"
       }
     ],
     "region": "Wyspy Cienia",
@@ -5809,8 +5809,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SI015.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SI015-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SI015.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SI015-full.png"
       }
     ],
     "region": "Wyspy Cienia",
@@ -5852,8 +5852,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SI017.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SI017-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SI017.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SI017-full.png"
       }
     ],
     "region": "Wyspy Cienia",
@@ -5891,8 +5891,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SI001.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SI001-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SI001.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SI001-full.png"
       }
     ],
     "region": "Wyspy Cienia",
@@ -5930,8 +5930,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SI009.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SI009-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SI009.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SI009-full.png"
       }
     ],
     "region": "Wyspy Cienia",
@@ -5967,8 +5967,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SI013.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SI013-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SI013.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SI013-full.png"
       }
     ],
     "region": "Wyspy Cienia",
@@ -6006,8 +6006,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SI007T3.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SI007T3-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SI007T3.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SI007T3-full.png"
       }
     ],
     "region": "Wyspy Cienia",
@@ -6045,8 +6045,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SI002.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SI002-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SI002.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SI002-full.png"
       }
     ],
     "region": "Wyspy Cienia",
@@ -6086,8 +6086,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SI003.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SI003-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SI003.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SI003-full.png"
       }
     ],
     "region": "Wyspy Cienia",
@@ -6121,8 +6121,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SI014.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04SI014-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SI014.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04SI014-full.png"
       }
     ],
     "region": "Wyspy Cienia",
@@ -6166,8 +6166,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04PZ014.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04PZ014-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04PZ014.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04PZ014-full.png"
       }
     ],
     "region": "Piltover i Zaun",
@@ -6205,8 +6205,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04PZ010.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04PZ010-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04PZ010.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04PZ010-full.png"
       }
     ],
     "region": "Piltover i Zaun",
@@ -6244,8 +6244,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04MT010.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04MT010-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04MT010.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04MT010-full.png"
       }
     ],
     "region": "Targon",
@@ -6283,8 +6283,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04MT012.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04MT012-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04MT012.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04MT012-full.png"
       }
     ],
     "region": "Targon",
@@ -6322,8 +6322,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04DE014.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04DE014-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04DE014.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04DE014-full.png"
       }
     ],
     "region": "Demacia",
@@ -6357,8 +6357,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04DE001.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04DE001-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04DE001.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04DE001-full.png"
       }
     ],
     "region": "Demacia",
@@ -6394,8 +6394,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04DE003.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04DE003-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04DE003.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04DE003-full.png"
       }
     ],
     "region": "Demacia",
@@ -6433,8 +6433,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04DE002.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04DE002-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04DE002.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04DE002-full.png"
       }
     ],
     "region": "Demacia",
@@ -6472,8 +6472,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04DE006.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04DE006-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04DE006.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04DE006-full.png"
       }
     ],
     "region": "Demacia",
@@ -6511,8 +6511,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04DE007T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04DE007T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04DE007T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04DE007T1-full.png"
       }
     ],
     "region": "Demacia",
@@ -6553,8 +6553,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04DE008.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04DE008-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04DE008.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04DE008-full.png"
       }
     ],
     "region": "Demacia",
@@ -6598,8 +6598,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04DE008T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04DE008T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04DE008T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04DE008T1-full.png"
       }
     ],
     "region": "Demacia",
@@ -6642,8 +6642,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04DE008T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04DE008T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04DE008T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04DE008T2-full.png"
       }
     ],
     "region": "Demacia",
@@ -6683,8 +6683,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04DE010.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04DE010-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04DE010.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04DE010-full.png"
       }
     ],
     "region": "Demacia",
@@ -6692,8 +6692,8 @@
     "attack": 3,
     "cost": 7,
     "health": 6,
-    "description": "Gdy mnie przywołasz, dobierz kartę <link=card.champ1><style=AssociatedCard>Jarvan IV</style></link>. \r\nJeżeli jest on już w grze, daj sojusznikom <link=keyword.Challenger><sprite name=Challenger><style=Keyword>Wyzwanie</style></link> i <link=keyword.Scout><sprite name=Scout><style=Keyword>Zwiad</style></link> w tej rundzie.",
-    "descriptionRaw": "Gdy mnie przywołasz, dobierz kartę Jarvan IV. \r\nJeżeli jest on już w grze, daj sojusznikom Wyzwanie i Zwiad w tej rundzie.",
+    "description": "Gdy mnie przywołasz, dobierz kartę <link=card.champ1><style=AssociatedCard>Jarvan IV</style></link>. \r\nJeżeli jest on już w grze, zamiast tego daj sojusznikom <link=keyword.Challenger><sprite name=Challenger><style=Keyword>Wyzwanie</style></link> i <link=keyword.Scout><sprite name=Scout><style=Keyword>Zwiad</style></link> w tej rundzie.",
+    "descriptionRaw": "Gdy mnie przywołasz, dobierz kartę Jarvan IV. \r\nJeżeli jest on już w grze, zamiast tego daj sojusznikom Wyzwanie i Zwiad w tej rundzie.",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "„Co takiego poświęci ojciec, żeby uratować syna? Albo jeszcze lepiej – co takiego może poświęcić król?” – LeBlanc",
@@ -6724,8 +6724,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04DE013.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04DE013-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04DE013.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04DE013-full.png"
       }
     ],
     "region": "Demacia",
@@ -6761,8 +6761,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04DE007.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04DE007-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04DE007.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04DE007-full.png"
       }
     ],
     "region": "Demacia",
@@ -6798,8 +6798,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04DE009.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04DE009-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04DE009.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04DE009-full.png"
       }
     ],
     "region": "Demacia",
@@ -6835,8 +6835,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04BW011.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04BW011-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04BW011.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04BW011-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -6879,8 +6879,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04BW008.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04BW008-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04BW008.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04BW008-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -6888,8 +6888,8 @@
     "attack": 0,
     "cost": 4,
     "health": 0,
-    "description": "Dobierz Skarb. Jeżeli nie ma żadnych Skarbów do dobrania, stwórz 2 Skarby w swojej talii.",
-    "descriptionRaw": "Dobierz Skarb. Jeżeli nie ma żadnych Skarbów do dobrania, stwórz 2 Skarby w swojej talii.",
+    "description": "Dobierz Skarb. Jeżeli nie ma żadnych Skarbów do dobrania, zamiast tego stwórz 2 Skarby w swojej talii.",
+    "descriptionRaw": "Dobierz Skarb. Jeżeli nie ma żadnych Skarbów do dobrania, zamiast tego stwórz 2 Skarby w swojej talii.",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "„Jesteśmy bogaci!” – Hardy Rzeźnik",
@@ -6918,8 +6918,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04IO014.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04IO014-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04IO014.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04IO014-full.png"
       }
     ],
     "region": "Ionia",
@@ -6957,8 +6957,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04IO001.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_5_0/set4/pl_pl/img/cards/04IO001-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04IO001.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_6_0/set4/pl_pl/img/cards/04IO001-full.png"
       }
     ],
     "region": "Ionia",
